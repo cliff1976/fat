@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Tryna Get Less Fat, Yo."
 
 
-theme = "hugo-notepadium"
+theme = "hello-friend-ng"
 copyright = "©2020 cliff1976."
 
 publishDir = "public/"
