@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tryna Get Less Fat, Yo.</title>
+    <link>/</link>
+    <description>Recent content on Tryna Get Less Fat, Yo.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©2020 cliff1976.</copyright>
+    <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>/posts/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 09 Feb 2020 07:07:15 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This is me, trying to lose some weight. At least enough to show my doctor some progress before my next visit.
+I am numbers-driven by nature, so maybe capturing these stats will help keep me from falling off the wagon.</description>
+    </item>
+    
+  </channel>
+</rss>
