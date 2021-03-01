@@ -1,53 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Tryna Get Less Fat, Yo.</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Tryna Get Less Fat, Yo.</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>©2021 cliff1976.</copyright>
-    <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>/posts/bikerides/</link>
-      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/bikerides/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/walks/</link>
-      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/walks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/workouts/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/workouts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gettin&#39; Back Up on the Horse</title>
-      <link>/posts/gettin-back-up-on-the-horse/</link>
-      <pubDate>Sun, 02 Feb 2020 06:55:51 +0000</pubDate>
-      
-      <guid>/posts/gettin-back-up-on-the-horse/</guid>
-      <description>It&amp;rsquo;s February 2020. Anyone with flimsy resolutions in January has probably already broken them. This is a good time for my ass to get back into a routine.
+    <channel>
+        <title>Posts on Hello Friend NG</title>
+        <link>http://fatcliff1976net.netlify.app/posts/</link>
+        <description>Recent content in Posts on Hello Friend NG</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
+        <atom:link href="http://fatcliff1976net.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title></title>
+            <link>http://fatcliff1976net.netlify.app/posts/bikerides/</link>
+            <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+            
+            <guid>http://fatcliff1976net.netlify.app/posts/bikerides/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title></title>
+            <link>http://fatcliff1976net.netlify.app/posts/walks/</link>
+            <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+            
+            <guid>http://fatcliff1976net.netlify.app/posts/walks/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title></title>
+            <link>http://fatcliff1976net.netlify.app/posts/workouts/</link>
+            <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+            
+            <guid>http://fatcliff1976net.netlify.app/posts/workouts/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Gettin&#39; Back Up on the Horse</title>
+            <link>http://fatcliff1976net.netlify.app/posts/gettin-back-up-on-the-horse/</link>
+            <pubDate>Sun, 02 Feb 2020 06:55:51 +0000</pubDate>
+            
+            <guid>http://fatcliff1976net.netlify.app/posts/gettin-back-up-on-the-horse/</guid>
+            <description>It&amp;rsquo;s February 2020. Anyone with flimsy resolutions in January has probably already broken them. This is a good time for my ass to get back into a routine.
 My excuse through most of last year was that work was getting in the way; too many meetings before 9:00 a.m., and experience has shown that I have to do my gym shit in the morning, or not at all. And since the gym doesn&amp;rsquo;t open until 7:00, that meant not at all.</description>
-    </item>
-    
-  </channel>
+            <content type="html"><![CDATA[<p>It&rsquo;s February 2020.  Anyone with flimsy resolutions in January has probably already broken them.  This is a good time for my ass to get back into a routine.</p>
+<p>My excuse through most of last year was that work was getting in the way; too many meetings before 9:00 a.m., and experience has shown that I have to do my gym shit in the morning, or not at all.  And since the gym doesn&rsquo;t open until 7:00, that meant not at all.</p>
+<p>Which was a cop-out.</p>
+<p>Screw that.  Work is not getting better, but I am getting worse.  So no more meetings before 9:00 a.m. anymore.  And therefore no excuse not to put in my time 3 days per week.</p>
+]]></content>
+        </item>
+        
+    </channel>
 </rss>
