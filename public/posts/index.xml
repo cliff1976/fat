@@ -6,11 +6,22 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://fatcliff1976net.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title></title>
+            <title>Trying Hugo and Netlify</title>
+            <link>https://fatcliff1976net.netlify.app/posts/trying-netlify/</link>
+            <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+            
+            <guid>https://fatcliff1976net.netlify.app/posts/trying-netlify/</guid>
+            <description>Hosting my own images on my VPS is not sustainable. Hello Github+Netlify!</description>
+            <content type="html"><![CDATA[<p>Hosting my own images on my VPS is not sustainable.  Hello Github+Netlify!</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Bike Rides</title>
             <link>https://fatcliff1976net.netlify.app/posts/bikerides/</link>
             <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
             
@@ -20,7 +31,7 @@
         </item>
         
         <item>
-            <title></title>
+            <title>Walks</title>
             <link>https://fatcliff1976net.netlify.app/posts/walks/</link>
             <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
             
@@ -30,13 +41,14 @@
         </item>
         
         <item>
-            <title></title>
+            <title>Workouts</title>
             <link>https://fatcliff1976net.netlify.app/posts/workouts/</link>
             <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
             
             <guid>https://fatcliff1976net.netlify.app/posts/workouts/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
+            <description>Just trying front matter on an _index.md file to see how that looks.</description>
+            <content type="html"><![CDATA[<p>Just trying front matter on an _index.md file to see how that looks.</p>
+]]></content>
         </item>
         
         <item>

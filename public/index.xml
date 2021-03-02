@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fatcliff1976net.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fatcliff1976net.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trying Hugo and Netlify</title>
+      <link>https://fatcliff1976net.netlify.app/posts/trying-netlify/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatcliff1976net.netlify.app/posts/trying-netlify/</guid>
+      <description>Hosting my own images on my VPS is not sustainable. Hello Github+Netlify!</description>
+    </item>
+    
     <item>
       <title>Pielenhofen via Adlersberg and back along the Naab</title>
       <link>https://fatcliff1976net.netlify.app/posts/bikerides/20210228-pielenhofen/</link>
@@ -42,7 +51,7 @@ Route Distance: 6.0? km Time: 1.03 Calories: 630 Calories from fat: 26% Average 
       <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fatcliff1976net.netlify.app/posts/walks/2021-02-23/</guid>
-      <description>I like that I can be awake and out for a walk around the time the start starts his day, too.
+      <description>I like that I can be awake and out for a walk around the time the sun starts his day, too.
 Snaps Sun up over Kumpfmühl.
 I would not have picked Bitter&#39; O as the name of my confectionery.
 Route Distance: 6.0 km Time: 1:22 Calories: 580 Calories from fat: 39 % Average Heart Rate: 104 Maximum Heart Rate: 125 Fat Burn: 1:15 Fitness: 0:07 </description>
@@ -71,7 +80,7 @@ Side note: there is another great packaging-free store in downtown Regensburg &a
     </item>
     
     <item>
-      <title>I [heart] Bad Abbach</title>
+      <title>I ❤️ Bad Abbach</title>
       <link>https://fatcliff1976net.netlify.app/posts/bikerides/20210214-obertraubling-bad-abbach/</link>
       <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
       
@@ -102,7 +111,7 @@ Lots of other people had the same idea &amp;ndash; taking advantage of the weath
     </item>
     
     <item>
-      <title></title>
+      <title>January 19, 2021</title>
       <link>https://fatcliff1976net.netlify.app/posts/walks/2021-01-19/</link>
       <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       

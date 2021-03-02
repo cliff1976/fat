@@ -1,5 +1,5 @@
 ---
-title: "I [heart] Bad Abbach"
+title: "I ❤️ Bad Abbach"
 date: 2021-02-14
 draft: false
 ---
