@@ -58,7 +58,7 @@ homeSubtitle = "A simple and beautiful blog"
 
 [languages]
   [languages.en]
-    title = "Hello Friend NG"
+    title = "Tryna Get Less Fat, Yo."
     subtitle = "A simple theme for Hugo"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
@@ -73,14 +73,15 @@ homeSubtitle = "A simple and beautiful blog"
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
+[menu]
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "/posts"
-  [[menu.secondary]]
+    url        = "posts/"
+  [[menu.main]]
     identifer = "walks"
     name = "Walks"
-    url = "/posts/walks"
+    url = "posts/walks/"
 
 
 # end hello-friend-ng stuff
