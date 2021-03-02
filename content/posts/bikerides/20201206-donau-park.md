@@ -15,7 +15,7 @@ You can see that everyone else wanted to use the Danube banks for a walk/jog/rid
 
 ## Snap
 
-Just one to speak of.  I saw a mess of ducks just floating there in a calm stretch of Danube.  It was a good time for a little water break, so I stopped at the nearest bench and approached them to take this shot.  However, presence (on the shore!) seemed to alarm them and they bugged out for the opposite shore.  I wonder if they have negative associations with people in day-glo flourescent outerwear...
+Just one to speak of.  I saw a mess of ducks just floating there in a calm stretch of Danube.  It was a good time for a little water break, so I stopped at the nearest bench and approached them to take this shot.  However, my presence (on the shore!) seemed to alarm them and they bugged out for the opposite shore.  I wonder if they have negative associations with people in day-glo flourescent outerwear...
 
 ![](/IMG_20201206_102313525.jpg)  
 
