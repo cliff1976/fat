@@ -22,7 +22,7 @@ Wonder when that'll be my destination again...
 
 Route:
 
-![](/20200426.jpg)
+[![](/20200426.jpg)](/20200426.jpg)
 
 ```
 Distance:  48.6km
