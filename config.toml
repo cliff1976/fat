@@ -35,7 +35,7 @@ dateform = "2 Jan, 2006"
 dateformShort = "2 Jan 2006"
 dateformNum = "2006-01-02"
 dateformNumTime = "2006-01-02 15:04"
-homeSubtitle = "A simple and beautiful blog"
+homeSubtitle = "I am not spending this whole lockdown in front of the the computer, I promise!"
 
 # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -82,6 +82,10 @@ homeSubtitle = "A simple and beautiful blog"
     identifer = "walks"
     name = "Walks"
     url = "posts/walks/"
+  [[menu.main]]
+    identifief = "bikerides"
+    name       = "Bike Rides"
+    url        = "posts/bikerides"
 
 
 # end hello-friend-ng stuff
