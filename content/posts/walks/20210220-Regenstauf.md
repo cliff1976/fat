@@ -29,7 +29,7 @@ After the shopping, we took a walk along some protected wetlands.  Plenty of sto
 
 ## Route
 I forgot to set my GPS properly.  It was approximately this:  
-![](/20210220.jpg)  
+[![](/20210220.jpg)](/20210220.jpg)  
 
 ```
 Distance:         about 5 km
