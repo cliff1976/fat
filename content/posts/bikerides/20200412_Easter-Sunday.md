@@ -19,7 +19,7 @@ First bike ride post **evar**.  I wore my HRM and have some stats to report.  It
 
 Route:
 
-![](/20200412.jpg)
+[![](/20200412.jpg)](/20200412.jpg)
 
 ```
 Distance (total):  28.7km

@@ -46,7 +46,7 @@ And when I got back into town, I saw that tour groups are running again, to my s
 
 Route:
 
-![](/20200913.jpg)
+[![](/20200913.jpg)](/20200913.jpg)
 
 
 ```

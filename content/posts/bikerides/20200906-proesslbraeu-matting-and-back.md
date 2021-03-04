@@ -40,7 +40,7 @@ I especially liked the irony of the half-torn off "stickers forbidden" sticker o
 
 Route:
 
-![](/20200906.jpg)
+[![](/20200906.jpg)](/20200906.jpg)
 
 
 

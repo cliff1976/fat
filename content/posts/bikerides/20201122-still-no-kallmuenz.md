@@ -31,7 +31,7 @@ So, much to my chagrin, I shoved my bike up the last third of that hill and pant
 ## Route:
 You might need to tap or click the map to make it bigger.  The solid red line is the route I intended to take.  The blue dotted line is the route I actually took.  
 
-![](/20201122.jpg)
+[![](/20201122.jpg)](/20201122.jpg)
 
 
 ```

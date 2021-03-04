@@ -52,7 +52,8 @@ I gotta say, I'm impressed that the mounts and cases for my camera and phone pro
 
 ## Route
 You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.  
-![](/20210206.jpg)
+
+[![](/20210206.jpg)](/20210206.jpg)
 
 
 ## Stats

@@ -22,13 +22,13 @@ Just one to speak of.  I saw a mess of ducks just floating there in a calm stret
 ## Route
 You might need to tap or click the map to make it bigger.  
 
-![](/20201206.jpg)
+[![](/20201206.jpg)](/20201206.jpg)
 
 
 ## Stats
 
 ```
-Distance:         i20.8 km 
+Distance:         20.8 km 
 Time:              1:30
 Calories:          1079
 Calories from fat:   15%

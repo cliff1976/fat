@@ -38,7 +38,7 @@ The snaps (not necessarily in chronological order):
 
 Route:
 
-![](/2020-08-09.jpg)
+[![](/2020-08-09.jpg)](/2020-08-09.jpg)
 
 
 

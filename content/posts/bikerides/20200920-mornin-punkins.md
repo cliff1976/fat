@@ -24,7 +24,7 @@ These sheep didn't seem to mind the weather, but I kinda did.  I was a little co
 
 Route:
 
-![](/20200920.jpg)
+[![](/20200920.jpg)](/20200920.jpg)
 
 
 ```

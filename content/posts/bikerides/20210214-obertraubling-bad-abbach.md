@@ -32,7 +32,8 @@ Approaching *zur Walba* -- I will very much appreciate stopping in here for a Sc
 
 ## Route
 You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.  
-![](/20210214.jpg)
+
+[![](/20210214.jpg)](/20210214.jpg)
 
 
 ## Stats

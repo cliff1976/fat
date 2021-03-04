@@ -24,7 +24,7 @@ Also happened upon three separate groups of geese.
 
 Route:
 
-![](/20200422.jpg)
+[![](/20200422.jpg)](/20200422.jpg)
 
 ```
 Distance (total):  40.6km

@@ -39,7 +39,7 @@ I figure if I do the climb at Adlersberg enough, one of these days I'll be up at
 
 ## Route
 You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.  
-![](/20210228.jpg)
+[![](/20210228.jpg)](/20210228.jpg)
 
 
 ## Stats

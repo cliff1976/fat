@@ -34,7 +34,7 @@ OK, so *FINALLY* the Romantischer Weihnachtsmarkt is not following the same proc
 ## Route
 You might need to tap or click the map to make it bigger.  The solid red line is the route I intended to take.  The blue dotted line is the route I actually took.  
 
-![](/20201130.jpg)
+[![](/20201130.jpg)](/20201130.jpg)
 
 
 ## Stats

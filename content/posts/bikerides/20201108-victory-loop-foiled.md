@@ -34,7 +34,7 @@ So I sucked it up and got home under my own power.  A long hot shower afterwards
 ## Route:
 You might need to tap or click the map to make it bigger.  The red line is the route I intended to take.  The blue line is the route I actually took.  Where the blue line looks solid, it's actually not -- that's my unintended backtracking.
 
-![](/20201108.jpg)
+[![](/20201108.jpg)](/20201108.jpg)
 
 
 ```

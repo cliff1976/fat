@@ -18,7 +18,7 @@ Only one snap to speak of from this ride -- they all kinda looked like this.  Gr
 
 Route:
 
-![](/20201101.jpg)
+[![](/20201101.jpg)](/20201101.jpg)
 
 
 ```

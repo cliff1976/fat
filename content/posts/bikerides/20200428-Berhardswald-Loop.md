@@ -22,7 +22,7 @@ Nope!  But it was a nice ride anyways.  The part of the Regensburg-Falkenstein b
 
 Route:
 
-![](/20200428.jpg)
+[![](/20200428.jpg)](/20200428.jpg)
 
 ```
 Distance:  40.6km

@@ -42,7 +42,7 @@ The snaps:
 
 Route:
 
-![](/20200509.jpg)
+[![](/20200509.jpg)](/20200509.jpg)  
 
 ```
 Distance:  49.6 km
