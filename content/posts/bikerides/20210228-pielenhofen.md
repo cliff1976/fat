@@ -30,12 +30,13 @@ I figure if I do the climb at Adlersberg enough, one of these days I'll be up at
 ## Video Recap
 
 ### Sped up by a factor of 4
+{{< youtube dwDif2l5EXo >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dwDif2l5EXo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Or eleven minutes of real time?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCQYV7Exp2I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube lCQYV7Exp2I >}}
+
 
 ## Route
 You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.  
