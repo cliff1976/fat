@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta charset="UTF-8">
+        
+<script src="/js-global/FancyZoom.js" type="text/javascript"></script>
+<script src="/js-global/FancyZoomHTML.js" type="text/javascript"></script>
+
+<meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="">
@@ -77,7 +81,8 @@
     </head>
 
     
-        <body>
+    
+	<body onload="setupZoom()">
     
     
         <div class="container">
@@ -164,9 +169,17 @@
 <img src="/IMG_20210228_104954789_s.jpg" alt=""></p>
 <h2 id="video-recap">Video Recap</h2>
 <h3 id="sped-up-by-a-factor-of-4">Sped up by a factor of 4</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dwDif2l5EXo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/dwDif2l5EXo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
 <h3 id="or-eleven-minutes-of-real-time">Or eleven minutes of real time?</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCQYV7Exp2I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/lCQYV7Exp2I" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
 <h2 id="route">Route</h2>
 <p>You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.<br>
 <a href="/20210228.jpg"><img src="/20210228.jpg" alt=""></a></p>
@@ -260,7 +273,7 @@ Fitness:           2:17
     <div class="footer__inner">
         <div class="footer__content">
             <span>Powered by <a href="http://gohugo.io">Hugo</a></span>
-            <span>Theme by <a href="https://github.com/rhazdon">Djordje Atlialp</a></span>
+            <span>Made with &#10084; by <a href="https://github.com/rhazdon">Djordje Atlialp</a></span>
           </div>
     </div>
 </footer>
