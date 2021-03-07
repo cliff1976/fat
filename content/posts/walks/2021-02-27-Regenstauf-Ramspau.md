@@ -17,7 +17,7 @@ We drove about 15 minutes north to the town of Regenstauf to shop at [Quantum Sa
 ## Route
 The red solid line is the route I originally had planned; the blue dashed line is our actual route.  
 
-![](/20210227.jpg)  
+[![](/20210227.jpg)](/20210227.jpg)
 
 ```
 Distance:             9.5 km

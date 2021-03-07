@@ -6,7 +6,7 @@ paginate = 10
 
 theme = "hello-friend-ng"
 # theme = "hugo-notepadium"
-copyright = "©2021 cliff1976."
+# copyright = "©2021 cliff1976."
 
 publishDir = "public/"
 hasCJKLanguage = false
@@ -29,6 +29,7 @@ unsafe = true  # enable raw HTML in Markdown
 [params]
 style = "auto"  # default: auto. light: light theme, dark: dark theme, auto: based on system.
 dateFormat = "Monday, January 2, 2006"  # if unset, default is "2006-01-02"
+footerRight = "theme by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a> with adaptations by cliff1976" 
 
 # with hello-friend-ng
 dateform = "2 Jan, 2006"
@@ -62,7 +63,7 @@ homeSubtitle = "I am not spending this whole lockdown in front of the computer, 
     # keeping the subtitle blank for now
     subtitle = ""
     keywords = ""
-    copyright = '©2021 cliff1976.  <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    copyright = 'cliff1976  <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]

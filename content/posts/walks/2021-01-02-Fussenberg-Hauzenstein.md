@@ -33,7 +33,7 @@ Some local pals suggested this route through the woods starting outside of Wenze
 
 ## Route
 
-![](/20210102.jpg)  
+{{< fzimg "/20210102.jpg" >}}
 
 ```
 Distance:     about 7.3 km
