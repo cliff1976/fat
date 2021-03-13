@@ -6,17 +6,28 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>cliff1976  &lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://fat.cliff1976.net/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Walks</title>
             <link>https://fat.cliff1976.net/posts/walks/</link>
-            <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+            <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
             
             <guid>https://fat.cliff1976.net/posts/walks/</guid>
             <description></description>
             <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>OOOH FANCY!</title>
+            <link>https://fat.cliff1976.net/posts/fancyzoom/</link>
+            <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+            
+            <guid>https://fat.cliff1976.net/posts/fancyzoom/</guid>
+            <description>I modified the hello-friend-ng theme to include Fancy Zoom. It&amp;rsquo;ll mostly be useful on the route maps.</description>
+            <content type="html"><![CDATA[<p>I modified the <a href="https://themes.gohugo.io/hugo-theme-hello-friend-ng/">hello-friend-ng</a> theme to include <a href="http://fancyzoom.com">Fancy Zoom</a>.  It&rsquo;ll mostly be useful on the route maps.</p>
+]]></content>
         </item>
         
         <item>
