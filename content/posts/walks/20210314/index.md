@@ -1,7 +1,7 @@
 ---
 title: "Pastry Loop"
 date: 2021-03-14
-draft: true
+draft: false
 ---
 
 We took a walk today instead of my usual Sunday bike ride.  We stopped in at Opera in der Prüfeninger Straße and scooped up some (counter-productive) baked goods.  It reminded us that we are *really* looking forward to a time when we can have some *Kaffee und Kuchen* out at a place like Opera.
