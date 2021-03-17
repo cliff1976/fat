@@ -1,6 +1,10 @@
 {{ if .IsNamedParams }}
-<a href="{{.Get "src" }}" alt=""><img src="{{.Get "src" }}"/></a>
+<!-- TODO:  
+	implement the rel attribute on the anchor element to 
+	disable FancyZoom if we need to 
+-->
+<a href="{{.Get "src" }}" alt=""><img src="{{.Get "src" }}"></a>
 {{ else }}
-<a href="{{.Get 0}}" alt=""><img src="{{.Get 0 }}"/></a>
+<a href="{{.Get 0}}" alt=""><img src="{{.Get 0 }}"></a>
 {{ end }}
 

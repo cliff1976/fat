@@ -5,14 +5,13 @@ draft: false
 ---
 It was time to donate blood again today.
 
-I didn't get my morning walk in, so I took a three kilometers stroll up to the Jahnstadion after work and got there dreadfully early for my 18:30 appointment.  So I kept strolling and killed a little time, padding out my walk to five kilometers.
+I didn't get my morning walk in, so I took a three kilometer stroll up to the Jahnstadion after work and got there dreadfully early for my 18:30 appointment.  So I kept strolling and killed a little time, padding out my walk to five kilometers.
 
 I had my phone set to mark my position every 30 seconds, and that makes my traversal of the parking lot rows look sloppy.  I suppose that's the trade-off for reduced impact on the battery:
 
 {{< fzimg src="20210316_parkinglot.jpg" >}}
 
-
-{{< fzimg src="IMG_8823_pano.jpg" >}}
+![](IMG_8823_pano.jpg)
 
 ![](IMG_8825_jahnstadion.jpg)
 
