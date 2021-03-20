@@ -7,7 +7,7 @@ draft: true
 
 ## Route
 
-![](/2021XXXX.jpg)  
+{{< fzimg "2021XXXX.jpg" >}}  
 
 ```
 Distance:           km
