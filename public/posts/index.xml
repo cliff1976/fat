@@ -6,8 +6,18 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>cliff1976  &lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://fat.cliff1976.net/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Bike Rides</title>
+            <link>https://fat.cliff1976.net/posts/bikerides/</link>
+            <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+            
+            <guid>https://fat.cliff1976.net/posts/bikerides/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
         
         <item>
             <title>Walks</title>
@@ -28,16 +38,6 @@
             <description>I modified the hello-friend-ng theme to include Fancy Zoom. It&amp;rsquo;ll mostly be useful on the route maps.</description>
             <content type="html"><![CDATA[<p>I modified the <a href="https://themes.gohugo.io/hugo-theme-hello-friend-ng/">hello-friend-ng</a> theme to include <a href="http://fancyzoom.com">Fancy Zoom</a>.  It&rsquo;ll mostly be useful on the route maps.</p>
 ]]></content>
-        </item>
-        
-        <item>
-            <title>Bike Rides</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/</link>
-            <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
         </item>
         
         <item>
