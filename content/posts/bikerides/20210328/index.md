@@ -4,7 +4,8 @@ date: 2021-03-28
 draft: false
 ---
 
-It's Palm Sunday.  Instead of the *Bierpilgerfahrt* to Adlersberg's Prösslbrau for their *Palmator*, opted to swing by a semi-local buddy's house for a cheese sample.  *Wie lecker.*  Might be antithetical to the intent of this blog, though. 
+It's Palm Sunday.  Instead of the *Bierpilgerfahrt* to Adlersberg's Prösslbrau for their *Palmator*, I opted to swing by a semi-local buddy's house for a cheese sample.  *Wie lecker.*  Might be antithetical to the intent of this blog, though. 
+
 Try [Saint Agur Blue](https://en.wikipedia.org/wiki/Saint_Agur_Blue) if you like the concept of bleu cheese but wish it were just little milder.  Smear it on bread or crackers.  Also this [Pecorino Fantasia](https://www.amazon.de/Pecorino-Fantasia-ca-800g-Schafsk%C3%A4se/dp/B00A3BQXMU) is a damn fine snackin' cheese. 
 
 My GPS app of choice says it was only a total of 89 meters uphill, but it felt like more than that on the push from Köfering past the south end of Seedorf towards Bad Abbach.  But in general, this was not supposed to be a very hilly trip, and I am happy that that came true.  I would have preferred a bit more bike path overall (that same stretch had me on the road with cars), but given the superb paths out of Bad Abbach back along the Danube towards Regensburg, *das ist Kritik auf hohem Niveau.*
