@@ -56,6 +56,8 @@ These are a couple descents:
 
 I removed the audio track because it's just buzzy vibrations of the camera inside its protective case
 
+{{< youtube JuAICRfOdj8 >}}
+
 ## Route
 You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.  I deviated from the planned route on purpose on the way back to go through the Roter-Brach-Weg neighborhoods.
 
