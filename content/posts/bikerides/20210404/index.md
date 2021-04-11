@@ -9,7 +9,7 @@ It's been an ecumenical year since [I started doing this](../20200412_easter-sun
 
 I went back to the region where [I slid down a mountain on my butt](../20210206-sinzing-ring/), but this time I was *very* careful about the elevation over horizontal distance.  I learned from that mistake, for sure.
 
-It was not even 45 kilometers, but more of those were uphill than I am ready for, so I am moving slowly around the housefor the rest of today.  I'd say the skies and views made it worth it, though.
+It was not even 45 kilometers, but more of those were uphill than I am ready for, so I am moving slowly around the house for the rest of today.  I'd say the skies and views made it worth it, though.
 
 Some observations on this route:
 
@@ -54,7 +54,7 @@ These are a couple descents:
 + a steep one down into and through Eilsbrunn (past the World's Oldest Gaststätte)
 + a gentle one headed into Reichenstetten
 
-I removed the audio track because it's just buzzy vibrations of the camera inside its protective case
+I removed the audio track because it's just buzzy vibrations of the camera inside its protective case.
 
 {{< youtube JuAICRfOdj8 >}}
 
