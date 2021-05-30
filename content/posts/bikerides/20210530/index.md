@@ -1,5 +1,5 @@
 ---
-title: "Hainsacker&rarr;Pettendorf&rarr;Mariaort"
+title: "Hainsacker→Pettendorf→Mariaort"
 date: 2021-05-30
 draft: false
 ---
