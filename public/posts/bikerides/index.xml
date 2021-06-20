@@ -1,1958 +1,466 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Bike Rides on Tryna Get Less Fat, Yo.</title>
-        <link>https://fat.cliff1976.net/posts/bikerides/</link>
-        <description>Recent content in Bike Rides on Tryna Get Less Fat, Yo.</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <copyright>cliff1976  &lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://fat.cliff1976.net/posts/bikerides/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>Do the big hills first...works much better!</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20210613/</link>
-            <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20210613/</guid>
-            <description>I went up those hills south of Regensburg on the way to Pentling that used to discourage me. I won&amp;rsquo;t say they&amp;rsquo;re easy now, but I can chug along in my lowest gear without feeling like I&amp;rsquo;m risking a heart attack. Basically abandon all hope, ye who enter Kumpfmühl&amp;hellip;it&amp;rsquo;s a long, mostly uphill slog to Hohengebraching. But after that it was pretty nice all the rest of the way back home.</description>
-            <content type="html"><![CDATA[<p>I went up <a href="../20200524-finally-beat-that-hill/">those</a> <a href="../20200501-runnin-up-that-hill/">hills</a> south of Regensburg on the way to Pentling that used to discourage me.  I won&rsquo;t say they&rsquo;re easy now, but I can chug along in my lowest gear without feeling like I&rsquo;m risking a heart attack.  Basically abandon all hope, ye who enter Kumpfmühl&hellip;it&rsquo;s a long, mostly uphill slog to Hohengebraching.  But after that it was pretty nice all the rest of the way back home.</p>
-<h2 id="snaps">Snaps</h2>
-<p><img src="IMG210613-103851F.JPG_s.jpg" alt=""><br>
-<img src="IMG210613-112215F.JPG_s.jpg" alt=""><br>
-<img src="IMG_20210613_111852151_s.jpg" alt=""><br>
-<img src="IMG210613-112413F.JPG_s.jpg" alt=""><br>
-<img src="IMG_20210613_112757779_HDR_s.jpg" alt=""><br>
-<img src="IMG_20210613_112832265_s.jpg" alt=""><br>
-<img src="IMG_20210613_112841380_BURST001_s.jpg" alt=""><br>
-<img src="IMG210613-112857F.JPG_s.jpg" alt=""><br>
-<img src="IMG_20210613_113335702_s.jpg" alt=""><br>
-<img src="IMG_20210613_113341843_s.jpg" alt=""><br>
-<img src="IMG210613-120409F.JPG_s.jpg" alt=""><br>
-<img src="IMG210613-120630F.JPG_s.jpg" alt=""><br>
-<img src="IMG_20210613_124509674_s.jpg" alt=""></p>
-<h2 id="route">Route</h2>
-<p>You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.</p>
-
-
-<a href="20210613.jpg" alt=""><img src="20210613.jpg"></a>
-
-
-
-<h2 id="stats">Stats</h2>
-<pre><code>Total Distance:         34.5 km (plus a tiny a bit more)
-Time:                   2:13
-Calories:               1386
-Calories from fat:    	  22 %
-Average Heart Rate:      125
-Maximum Heart Rate:      148
-Fat Burn:               0:32
-Fitness:                1:41
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Rained out OTW to Pielenhofen</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20210606/</link>
-            <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20210606/</guid>
-            <description>It was supposed to rain all day. I was excited to see a break predicted, so I saddled up and trudged on.
+  <channel>
+    <title>Bike Rides on Accessible Minimalism</title>
+    <link>http://example.org/posts/bikerides/</link>
+    <description>Recent content in Bike Rides on Accessible Minimalism</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/posts/bikerides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zweimal Irading, Graßlfing, Zwei Mal Gebraching</title>
+      <link>http://example.org/posts/bikerides/20210620/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20210620/</guid>
+      <description>What&amp;rsquo;s with all the -ings around here, anyways?
+I&amp;rsquo;ve ridden past zur Walba more times than I can count over the last year, and I&amp;rsquo;ve always looked up the hill on the cross street and shuddered at the thought of biking past it. Well, today, I bit the bullet and did it. It was long and slow, but much less steep than I imagined.
+It was supposed to be 32 °C by noon today, so I made sure to get started before 8:00.</description>
+    </item>
+    
+    <item>
+      <title>Do the big hills first...works much better!</title>
+      <link>http://example.org/posts/bikerides/20210613/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20210613/</guid>
+      <description>I went up thosehillssouth of Regensburg on the way to Pentling that used to discourage me. I won&amp;rsquo;t say they&amp;rsquo;re easy now, but I can chug along in my lowest gear without feeling like I&amp;rsquo;m risking a heart attack. Basically abandon all hope, ye who enter Kumpfmühl&amp;hellip;it&amp;rsquo;s a long, mostly uphill slog to Hohengebraching. But after that it was pretty nice all the rest of the way back home.
+Snaps Route You might need to tap or click the map to make it bigger.</description>
+    </item>
+    
+    <item>
+      <title>Rained out OTW to Pielenhofen</title>
+      <link>http://example.org/posts/bikerides/20210606/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20210606/</guid>
+      <description>It was supposed to rain all day. I was excited to see a break predicted, so I saddled up and trudged on.
 I left the garage to find a fine mist greeting me on the street. I thought to myself:
  You got this, Self. Press on, you&amp;rsquo;re tougher than this.
  I pressed on. I GOT DRENCHED.
 By the time I got to Mariaort, I was just done. I can handle being cold.</description>
-            <content type="html"><![CDATA[<p>It was supposed to rain all day.  I was excited to see a break predicted, so I saddled up and trudged on.</p>
-<p>I left the garage to find a fine mist greeting me on the street.  I thought to myself:</p>
-<blockquote>
-<p><em>You got this, Self.  Press on, you&rsquo;re tougher than this.</em></p>
-</blockquote>
-<p>I pressed on.  I GOT DRENCHED.</p>
-<p>By the time I got to Mariaort, I was just <em>done.</em>  I can handle being cold.  I can handle being wet.  But both is another story.  And so I turned back.  Still got almost exactly half of my route in, so there&rsquo;s that.</p>
-<p>Couple final points on this trip:</p>
-<ol>
-<li>
-<p>The north bank bike path is still off-limits, so I rode through Niederwinzer.  That was a nice stretch; I&rsquo;d do that again any time, whether the bike path is open or now.</p>
-</li>
-<li>
-<p>The mount for my cheapo action cam snapped off due to cobblestones when I was most of the way home.  Gotta find another way to mount it&hellip;maybe strap it onto my head?</p>
-</li>
-</ol>
-<h2 id="snap">Snap</h2>
-<p><img src="IMG210606-101805F.jpeg" alt=""></p>
-<h2 id="route">Route</h2>
-<p>You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.</p>
-
-
-<a href="20210606.jpg" alt=""><img src="20210606.jpg"></a>
-
-
-
-<h2 id="stats">Stats</h2>
-<pre><code>Total Distance:       18.5 km 
-Time:                 1:16 
-Calories:              786
-Calories from fat:      25 %
-Average Heart Rate:    124
-Maximum Heart Rate:    158
-Fat Burn:             0:26
-Fitness:              0:50
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Irlbach and Grünthal</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20210604/</link>
-            <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20210604/</guid>
-            <description>Thursday, June 3rd was Fronleichnam (&amp;ldquo;Happy Cadaver&amp;rdquo;). Most people I work with took Friday as a Brückentag (bridge day)&amp;hellip;but not me. I worked a good chunk of a normal day, finishing what I wanted to achieve before next week, and headed out for an evening ride, on purpose shooting for about 20 km. I took a brand new (to me) route to the northeast heading through the Konradsiedlung, Wutzlhofen, on a tangent to Haslbach on my way to Irlbach.</description>
-            <content type="html"><![CDATA[<p>Thursday, June 3rd was <em>Fronleichnam</em> (&ldquo;Happy Cadaver&rdquo;).  Most people I work with took Friday as a <em>Brückentag</em> (bridge day)&hellip;but not me.  I worked a good chunk of a normal day, finishing what I wanted to achieve before next week, and headed out for an evening ride, on purpose shooting for about 20 km.  I took a brand new (to me) route to the northeast heading through the Konradsiedlung, Wutzlhofen, on a tangent to Haslbach on my way to Irlbach.  I looped around some neighborhoods on my way down a long, slow hill past Grünthal back down into Regensburg.  The weather was ideal; quite the opposite of what I rode through a couple days later.</p>
-<h2 id="snap">Snap</h2>
-<p><img src="IMG_20210604_180429131.jpg" alt=""></p>
-<h2 id="video-recap">Video Recap</h2>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/R1Tg9w0o9eo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-<h2 id="route">Route</h2>
-<p>You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.</p>
-
-
-<a href="20210604.jpg" alt=""><img src="20210604.jpg"></a>
-
-
-
-<h2 id="stats">Stats</h2>
-<pre><code>Total Distance:       20.5 km 
-Time:                 1:20
-Calories:              890 
-Calories from fat:      19 %
-Average Heart Rate:    130
-Maximum Heart Rate:    159
-Fat Burn:             0:18
-Fitness:              1:02
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Hainsacker→Pettendorf→Mariaort</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20210530/</link>
-            <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20210530/</guid>
-            <description>It was a nice day for a ride. Not as long as some of my other ones, but man&amp;hellip;them hills up to Hainsacker are a real slog.
+    </item>
+    
+    <item>
+      <title>Irlbach and Grünthal</title>
+      <link>http://example.org/posts/bikerides/20210604/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20210604/</guid>
+      <description>Thursday, June 3rd was Fronleichnam (&amp;ldquo;Happy Cadaver&amp;rdquo;). Most people I work with took Friday as a Brückentag (bridge day)&amp;hellip;but not me. I worked a good chunk of a normal day, finishing what I wanted to achieve before next week, and headed out for an evening ride, on purpose shooting for about 20 km. I took a brand new (to me) route to the northeast heading through the Konradsiedlung, Wutzlhofen, on a tangent to Haslbach on my way to Irlbach.</description>
+    </item>
+    
+    <item>
+      <title>Hainsacker→Pettendorf→Mariaort</title>
+      <link>http://example.org/posts/bikerides/20210530/</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20210530/</guid>
+      <description>It was a nice day for a ride. Not as long as some of my other ones, but man&amp;hellip;them hills up to Hainsacker are a real slog.
 Snaps Video Recap   Route You might need to tap or click the map to make it bigger. The red solid route was my intention. The blue dashed route is my actual route.
  Stats Total Distance: 28.8 km Time: 1:58 Calories: 1467 Calories from fat: 15 % Average Heart Rate: 138 Maximum Heart Rate: 170 Fat Burn: 0:06 Fitness: 1:52 </description>
-            <content type="html"><![CDATA[<p>It was a nice day for a ride.  Not as long as some of my other ones, but man&hellip;them hills up to Hainsacker are a real slog.</p>
-<h2 id="snaps">Snaps</h2>
-<p><img src="IMG210530-112122F.JPG" alt=""><br>
-<img src="IMG210530-112236F.JPG" alt=""><br>
-<img src="IMG210530-112345F.JPG" alt=""><br>
-<img src="IMG_20210530_112416407_s.jpg" alt=""><br>
-<img src="IMG_20210530_113122834_s.jpg" alt=""><br>
-<img src="IMG210530-114252F.JPG" alt=""><br>
-<img src="IMG_20210530_114322113_s.jpg" alt=""><br>
-<img src="IMG210530-114452F.JPG" alt=""><br>
-<img src="IMG_20210530_114842376_s.jpg" alt=""><br>
-<img src="IMG210530-115243F.JPG" alt=""><br>
-<img src="IMG210530-115433F.JPG" alt=""><br>
-<img src="IMG210530-120816F.JPG" alt=""></p>
-<h2 id="video-recap">Video Recap</h2>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/6nk8bcPK5as" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-<h2 id="route">Route</h2>
-<p>You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.</p>
-
-
-<a href="20210530.jpg" alt=""><img src="20210530.jpg"></a>
-
-
-
-<h2 id="stats">Stats</h2>
-<pre><code>Total Distance:       28.8 km 
-Time:                 1:58 
-Calories:             1467
-Calories from fat:      15 %
-Average Heart Rate:    138
-Maximum Heart Rate:    170
-Fat Burn:             0:06          
-Fitness:              1:52
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Holiday Glide</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20210524/</link>
-            <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20210524/</guid>
-            <description>It was Pfingstmontag and I had the day off of work. I intended a nice long ride, but
+    </item>
+    
+    <item>
+      <title>Holiday Glide</title>
+      <link>http://example.org/posts/bikerides/20210524/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20210524/</guid>
+      <description>It was Pfingstmontag and I had the day off of work. I intended a nice long ride, but
  I just wasn&amp;rsquo;t feeling it, and I took a wrong turn near Burgweinting, and again at Obertraubling, and decided to swing by the airstrip, and the rain was threatening the whole time  So I cut it drastically short. But it was still a pretty good ride. Kinda got the impression that glider was following me though.</description>
-            <content type="html"><![CDATA[<p>It was <em>Pfingstmontag</em> and I had the day off of work.  I intended a nice long ride, but</p>
-<ul>
-<li>I just wasn&rsquo;t feeling it, and</li>
-<li>I took a wrong turn near Burgweinting, and again at Obertraubling, and decided to swing by the airstrip, and</li>
-<li>the rain was threatening the whole time</li>
-</ul>
-<p>So I cut it drastically short.  But it was still a pretty good ride.  Kinda got the impression that glider was following me though.</p>
-<h2 id="snaps">Snaps</h2>
-<p><img src="IMG_20210524_153231222_s.jpg" alt=""><br>
-<img src="IMG_20210524_153236032_s.jpg" alt=""><br>
-<img src="IMG_20210524_154708286_s.jpg" alt=""><br>
-<img src="IMG_20210524_154728971_s.jpg" alt=""></p>
-<h2 id="video-recap">Video Recap</h2>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/OeNJYv57EZw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-<h2 id="route">Route</h2>
-<p>You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.</p>
-
-
-<a href="20210524.jpg" alt=""><img src="20210524.jpg"></a>
-
-
-
-<h2 id="stats">Stats</h2>
-<pre><code>Total Distance:       20.8 km 
-Time:                 1:14 
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Regenstauf Restock</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20210514/</link>
-            <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20210514/</guid>
-            <description>I needed to hit the packaging-free store again, and it was kind of a holiday weekend (Christi Himmelfahrt, or Ascension for those keeping score at home), and there was a window of agreeable weather. (The rest of this weekend has been pretty iffy, weather-wise.) So, after work on Friday, I got on the ol&#39; Drahtesel once again and headed up to Regenstauf to Quantum Satis to refill my own containers of</description>
-            <content type="html"><![CDATA[<p>I needed to hit the packaging-free store again, and it was kind of a holiday weekend (<em>Christi Himmelfahrt</em>, or Ascension for those keeping score at home), and there was a window of agreeable weather.  (The rest of this weekend has been pretty iffy, weather-wise.)  So, after work on Friday, I got on the ol' <em>Drahtesel</em> once again and headed up to Regenstauf to <a href="https://www.quantum-satis.de/">Quantum Satis</a> to refill my own containers of</p>
-<ul>
-<li>basmatic rice</li>
-<li>pinto (a.k.a. <em>borlotti</em> a.k.a. <em>Wacholder</em>) beans</li>
-<li>green caradmom pods</li>
-<li>star anise</li>
-<li>chick peas (a.k.a. garbanzo beans and <em>Kichererbsen</em>)</li>
-</ul>
-<p>It&rsquo;s a nice smooth 15 km ride one-way.  On the way back, I saw a game of cricket in progress!  I have never seen that before in Germany.  I managed to snap a photo of it.</p>
-<h2 id="snaps">Snaps</h2>
-<p><img src="snaps/IMG210514-160531F.JPG" alt=""><br>
-<img src="snaps/IMG210514-160859F.JPG" alt=""><br>
-<img src="snaps/IMG_20210514_163312268_s.jpg" alt=""><br>
-<img src="snaps/IMG210514-171307F.JPG" alt=""><br>
-<img src="snaps/IMG_20210514_171309632_s.jpg" alt=""><br>
-<img src="snaps/IMG_20210514_173041828_HDR_s.jpg" alt=""><br>
-<img src="snaps/IMG_20210514_173124211_s.jpg" alt=""><br>
-<img src="snaps/IMG210514-173153F.JPG" alt=""><br>
-<img src="snaps/IMG_20210514_173854504_s.jpg" alt="">  )<br>
-<img src="snaps/IMG_20210514_174341341_BURST000_COVER_TOP_s.jpg" alt=""></p>
-<h2 id="video-recap">Video Recap</h2>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/gbOiQY886uA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-<h2 id="route">Route</h2>
-<p>You might need to tap or click the map to make it bigger.  The red solid route was my path up to Regenstauf.  The blue dashed route was my route back.</p>
-
-
-<a href="20210514.jpg" alt=""><img src="20210514.jpg"></a>
-
-
-
-<h2 id="stats">Stats</h2>
-<pre><code>Total Distance:       ~30 km 
-Time:                1:42 
-Calories:            1261 
-Calories from fat:     13 %
-Average Heart Rate:  138 
-Maximum Heart Rate:  158
-Fat Burn:            0:02 
-Fitness:             1:40
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Big ambition...but no</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20210509/</link>
-            <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20210509/</guid>
-            <description>It had been a couple weeks, so I guess I&amp;rsquo;m not all that surprised that I bailed about a quarter of the way through and chopped the route in half. Nothing hurt particularly — I could just tell I wasn&amp;rsquo;t feeling it would regret not crossing the Danube at Donaustauf when I had the chance.
+    </item>
+    
+    <item>
+      <title>Regenstauf Restock</title>
+      <link>http://example.org/posts/bikerides/20210514/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20210514/</guid>
+      <description>I needed to hit the packaging-free store again, and it was kind of a holiday weekend (Christi Himmelfahrt, or Ascension for those keeping score at home), and there was a window of agreeable weather. (The rest of this weekend has been pretty iffy, weather-wise.) So, after work on Friday, I got on the ol&#39; Drahtesel once again and headed up to Regenstauf to Quantum Satis to refill my own containers of</description>
+    </item>
+    
+    <item>
+      <title>Big ambition...but no</title>
+      <link>http://example.org/posts/bikerides/20210509/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20210509/</guid>
+      <description>It had been a couple weeks, so I guess I&amp;rsquo;m not all that surprised that I bailed about a quarter of the way through and chopped the route in half. Nothing hurt particularly — I could just tell I wasn&amp;rsquo;t feeling it would regret not crossing the Danube at Donaustauf when I had the chance.
 Snaps Video Recaps   Route You might need to tap or click the map to make it bigger.</description>
-            <content type="html"><![CDATA[<p>It had been a couple weeks, so I guess I&rsquo;m not all that surprised that I bailed about a quarter of the way through and chopped the route in half.  Nothing hurt particularly — I could just tell I wasn&rsquo;t feeling it would regret not crossing the Danube at Donaustauf when I had the chance.</p>
-<h2 id="snaps">Snaps</h2>
-<p><img src="./snaps/IMG_20210509_104140490_HDR_s.jpg" alt=""><br>
-<img src="./snaps/IMG210509-104244F.JPG" alt=""><br>
-<img src="./snaps/IMG_20210509_104549329_s.jpg" alt=""><br>
-<img src="./snaps/IMG210509-104607F.JPG" alt=""><br>
-<img src="./snaps/IMG_20210509_104813988_s.jpg" alt=""><br>
-<img src="./snaps/IMG_20210509_105003464_s.jpg" alt=""><br>
-<img src="./snaps/IMG210509-105048F.JPG" alt=""><br>
-<img src="./snaps/IMG_20210509_105739257_s.jpg" alt=""><br>
-<img src="./snaps/IMG_20210509_112003418_s.jpg" alt=""><br>
-<img src="./snaps/IMG_20210509_112020543_BURST000_COVER_TOP_s.jpg" alt=""><br>
-<img src="./snaps/IMG210509-113700F.JPG" alt=""></p>
-<h2 id="video-recaps">Video Recaps</h2>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/mI6JqTgNxe0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-<h2 id="route">Route</h2>
-<p>You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.</p>
-
-
-<a href="20210509.jpg" alt=""><img src="20210509.jpg"></a>
-
-
-
-<h2 id="stats">Stats</h2>
-<pre><code>Total Distance:      24 km 
-Time:              1:23 
-Calories:           834
-Calories from fat:   23 %
-Average Heart Rate: 122 
-Maximum Heart Rate: 142 
-Fat Burn:          0:07  
-Fitness:           1:16 
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Flat Loop</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20210425/</link>
-            <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20210425/</guid>
-            <description>It&amp;rsquo;s been two weeks since I took a Sunday ride, so I was happy the route I chose was very flat. I rode over to a buddy&amp;rsquo;s house in Neutraubling, met him there, and then we followed the Danube back towards Mariaort. At least we&amp;rsquo;d planned to: the bike/walking path along the north back is still all torn up — probably for the same reason as it was on March 21st.</description>
-            <content type="html"><![CDATA[<p>It&rsquo;s been two weeks since I took a Sunday ride, so I was happy the route I chose was very flat.  I rode over to a buddy&rsquo;s house in Neutraubling, met him there, and then we followed the Danube back towards Mariaort.  At least we&rsquo;d planned to:  the bike/walking path along the north back is still all torn up — probably for the same reason as it was <a href="../20210321/">on March 21st</a>.  We had to divert towards Winzer, which added a little to the route.  We rode one of the paths to the end and then realized we were stuck in an empty field and had to press on back over the embankment onto a paved surface at Kneiting.  I hope they finish that section of path soon.</p>
-<p>Another observation:  the train trestle foot/bike bath at Mariaort is not equipped for social distancing.  See the video.</p>
-<p>Oh, and remember that <a href="../20201101-daredevil-chicken/">Daredevil Chicken</a>?  I think (s)he&rsquo;s been reincarnated.    See the video.</p>
-<h2 id="snaps">Snaps</h2>
-<p><img src="IMG210425-101229F.JPG" alt=""><br>
-<img src="IMG_20210425_110046143_s.jpg" alt=""></p>
-<h2 id="video-recaps">Video Recaps</h2>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/u0Fxq042EIk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/BpFu63WHhoY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-<h2 id="route">Route</h2>
-<p>You might need to tap or click the map to make it bigger.  The red solid route was our intention.  The blue dashed route is our actual route.</p>
-
-
-<a href="20210425.jpg" alt=""><img src="20210425.jpg"></a>
-
-
-
-<h2 id="stats">Stats</h2>
-<pre><code>Total Distance:      42.6 km 
-Time:              2:54
-Calories:          2251
-Calories from fat:   14 %
-Average Heart Rate: 141
-Maximum Heart Rate: 166
-Fat Burn:          0:10
-Fitness:           2:44
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Kelheim, First Time</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20210411/</link>
-            <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20210411/</guid>
-            <description>W00T! First time venturing this far west on the ol&#39; Drahtesel. Whether that&amp;rsquo;s kosher at the moment is another story. I neglected to think about that while planning this route. I am looking forward to taking little trips on the train and then biking back home. That should open up places like Parsberg and Beratzhausen and Landshut and Straubing. But it requires good behavior on the part of all my fellow residents, such that the pandemic restrictions can ease up, and &amp;hellip; Schaumermal.</description>
-            <content type="html"><![CDATA[<p>W00T!  First time venturing this far west on the ol' <em>Drahtesel.</em>  Whether that&rsquo;s kosher at the moment is another story.  I neglected to think about that while planning this route.  I am looking forward to taking little trips on the train and then biking back home.  That should open up places like Parsberg and Beratzhausen and Landshut and Straubing.  But it requires good behavior on the part of all my fellow residents, such that the pandemic restrictions can ease up, and &hellip; <em>Schaumermal.</em></p>
-<p>Some observations on this route:</p>
-<ul>
-<li>
-<p>It was almost ALL on the road.  Drivers were considerate, and it never felt particularly unsafe.  But there were almost no stretches of bike path along this route.</p>
-</li>
-<li>
-<p>Several teams of bikers were out there enjoying the weather.  One group of about 6 appeared to be collectively repairing a puncture on the bridge into Bad Abbach from Poikam.  That can&rsquo;t have been Covid-19-compliant.</p>
-</li>
-</ul>
-<h2 id="snaps">Snaps</h2>
-<p>Note that for the bike-mounted images and video I got the date wrong, but the time is accurate.</p>
-<p><img src="IMG_20210411_090725688_s.jpg" alt=""><br>
-<img src="IMG_20210411_090846452_s.jpg" alt=""><br>
-<img src="IMG210410-091128F.JPG" alt=""><br>
-<img src="IMG210410-091934F.JPG" alt=""><br>
-<img src="IMG210410-092313F.JPG" alt=""><br>
-<img src="IMG_20210411_092347745_s.jpg" alt=""><br>
-<img src="IMG210410-092530F.JPG" alt=""><br>
-<img src="IMG210410-092719F.JPG" alt=""><br>
-<img src="IMG210410-093028F.JPG" alt=""><br>
-<img src="IMG210410-093229F.JPG" alt=""><br>
-<img src="IMG_20210411_094021672_BURST000_COVER_TOP_s.jpg" alt=""><br>
-<img src="IMG_20210411_104030110_s.jpg" alt=""><br>
-<img src="IMG_20210411_113251064_BURST001_s.jpg" alt=""><br>
-<img src="IMG_20210411_113257416_s.jpg" alt=""><br>
-<img src="IMG_20210411_111424927_BURST000_COVER_TOP_s.jpg" alt=""><br>
-<img src="IMG210410-122145F.JPG" alt=""><br>
-<img src="IMG210410-124416F.JPG" alt=""><br>
-<img src="IMG210410-124739F.JPG" alt=""></p>
-<h2 id="video-recap">Video Recap</h2>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/DCPPDT2ltQc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-<h2 id="route">Route</h2>
-<p>You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.  I deviated from the planned route on purpose on the way back to head back via Seedorf and Scharmassing, trying to avoid the hills of Großberg and Pentling.  In the end, Hohengebraching and Neudorf and Scharmassing presented their own hills, so I don&rsquo;t know if it was worth it.</p>
-
-
-<a href="20210411.jpg" alt=""><img src="20210411.jpg"></a>
-
-
-
-<h2 id="stats">Stats</h2>
-<pre><code>Total Distance:      55.4 km 
-Time:              3:24
-Calories:          2839
-Calories from fat:   11 %
-Average Heart Rate: 147
-Maximum Heart Rate: 166
-Fat Burn:          0:04
-Fitness:           3:20
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Easter 2021</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20210404/</link>
-            <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20210404/</guid>
-            <description>Happy Easter!
+    </item>
+    
+    <item>
+      <title>Flat Loop</title>
+      <link>http://example.org/posts/bikerides/20210425/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20210425/</guid>
+      <description>It&amp;rsquo;s been two weeks since I took a Sunday ride, so I was happy the route I chose was very flat. I rode over to a buddy&amp;rsquo;s house in Neutraubling, met him there, and then we followed the Danube back towards Mariaort. At least we&amp;rsquo;d planned to: the bike/walking path along the north back is still all torn up — probably for the same reason as it was on March 21st.</description>
+    </item>
+    
+    <item>
+      <title>Kelheim, First Time</title>
+      <link>http://example.org/posts/bikerides/20210411/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20210411/</guid>
+      <description>W00T! First time venturing this far west on the ol&#39; Drahtesel. Whether that&amp;rsquo;s kosher at the moment is another story. I neglected to think about that while planning this route. I am looking forward to taking little trips on the train and then biking back home. That should open up places like Parsberg and Beratzhausen and Landshut and Straubing. But it requires good behavior on the part of all my fellow residents, such that the pandemic restrictions can ease up, and &amp;hellip; Schaumermal.</description>
+    </item>
+    
+    <item>
+      <title>Easter 2021</title>
+      <link>http://example.org/posts/bikerides/20210404/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20210404/</guid>
+      <description>Happy Easter!
 It&amp;rsquo;s been an ecumenical year since I started doing this. Time flies even when you&amp;rsquo;ve got nowhere (on the larger scale) to go.
 I went back to the region where I slid down a mountain on my butt, but this time I was very careful about the elevation over horizontal distance. I learned from that mistake, for sure.
 It was not even 45 kilometers, but more of those were uphill than I am ready for, so I am moving slowly around the house for the rest of today.</description>
-            <content type="html"><![CDATA[<p>Happy Easter!</p>
-<p>It&rsquo;s been an ecumenical year since <a href="../20200412_easter-sunday/">I started doing this</a>.  Time flies even when you&rsquo;ve got nowhere (on the larger scale) to go.</p>
-<p>I went back to the region where <a href="../20210206-sinzing-ring/">I slid down a mountain on my butt</a>, but this time I was <em>very</em> careful about the elevation over horizontal distance.  I learned from that mistake, for sure.</p>
-<p>It was not even 45 kilometers, but more of those were uphill than I am ready for, so I am moving slowly around the house for the rest of today.  I&rsquo;d say the skies and views made it worth it, though.</p>
-<p>Some observations on this route:</p>
-<ul>
-<li>Saxberg&hellip;I thought that street called &ldquo;Regensburger Steig&rdquo; was going to be my undoing, but I got through it OK, and looking at my average pulse for the whole trip, I did better than I thought.</li>
-<li>Watch for Shetland ponies between Reichenstetten and Dürrnstetten.</li>
-<li>Lindach is very smelly.  <em>Frische Landluft.</em>  Some people like that.</li>
-</ul>
-<h2 id="snaps">Snaps</h2>
-<p><img src="IMG_20210404_100336096_s.jpg" alt=""><br>
-<img src="IMG210404-102220F.JPG" alt=""><br>
-Watch out for them high-speed frogs!<br>
-<img src="IMG210404-102606F.JPG" alt=""><br>
-<img src="IMG_20210404_102811066_s.jpg" alt=""><br>
-<img src="IMG_20210404_103224336_HDR_s.jpg" alt=""><br>
-<img src="IMG_20210404_103542644_s.jpg" alt=""><br>
-<img src="IMG_20210404_103638319_HDR_s.jpg" alt=""><br>
-<img src="IMG_20210404_110348608_s.jpg" alt=""><br>
-<img src="IMG_20210404_110359878_s.jpg" alt=""><br>
-<img src="IMG_20210404_110426387_s.jpg" alt=""><br>
-<img src="IMG_20210404_110435320_s.jpg" alt=""><br>
-<img src="IMG_20210404_110555864_s.jpg" alt=""><br>
-<img src="IMG_20210404_114158161_s.jpg" alt=""><br>
-<img src="IMG_20210404_114648608_BURST000_COVER_TOP_s.jpg" alt=""><br>
-<img src="IMG_20210404_114906330_s.jpg" alt=""><br>
-<img src="IMG_20210404_114916181_s.jpg" alt=""><br>
-<img src="IMG_20210404_115024085_BURST001_s.jpg" alt=""><br>
-<img src="IMG_20210404_115124064_s.jpg" alt=""><br>
-<img src="IMG_20210404_115650245_s.jpg" alt=""><br>
-<img src="IMG_20210404_115657664_s.jpg" alt=""><br>
-<img src="IMG_20210404_120156744_HDR_s.jpg" alt=""><br>
-<img src="IMG_20210404_120205558_s.jpg" alt=""><br>
-<img src="IMG_20210404_120507489_s.jpg" alt=""><br>
-Saw a few Shetland ponies near Reichenstetten and Dürrnstetten.
-<img src="IMG_20210404_125021671_s.jpg" alt=""><br>
-This is where I was <em>supposed</em> to come down from the hill when I slid down on my butt.
-<img src="IMG_20210404_125933674_s.jpg" alt=""><br>
-Golfers gonna golf.</p>
-<h2 id="video-recap">Video Recap</h2>
-<p>These are a couple descents:</p>
-<ul>
-<li>a steep one down into and through Eilsbrunn (past the World&rsquo;s Oldest Gaststätte)</li>
-<li>a gentle one headed into Reichenstetten</li>
-</ul>
-<p>I removed the audio track because it&rsquo;s just buzzy vibrations of the camera inside its protective case.</p>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/JuAICRfOdj8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-<h2 id="route">Route</h2>
-<p>You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.  I deviated from the planned route on purpose on the way back to go through the Roter-Brach-Weg neighborhoods.</p>
-
-
-<a href="20210404.jpg" alt=""><img src="20210404.jpg"></a>
-
-
-
-<h2 id="stats">Stats</h2>
-<pre><code>Total Distance:      44.6 km 
-Time:              3:19
-Calories:          2394
-Calories from fat:   15 %
-Average Heart Rate: 135
-Maximum Heart Rate: 166
-Fat Burn:          0:17
-Fitness:           3:02
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Bad Abbach, But Great Cheese</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20210328/</link>
-            <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20210328/</guid>
-            <description>It&amp;rsquo;s Palm Sunday. Instead of the Bierpilgerfahrt to Adlersberg&amp;rsquo;s Prösslbrau for their Palmator, I opted to swing by a semi-local buddy&amp;rsquo;s house for a cheese sample. Wie lecker. Might be antithetical to the intent of this blog, though.
+    </item>
+    
+    <item>
+      <title>Bad Abbach, But Great Cheese</title>
+      <link>http://example.org/posts/bikerides/20210328/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20210328/</guid>
+      <description>It&amp;rsquo;s Palm Sunday. Instead of the Bierpilgerfahrt to Adlersberg&amp;rsquo;s Prösslbrau for their Palmator, I opted to swing by a semi-local buddy&amp;rsquo;s house for a cheese sample. Wie lecker. Might be antithetical to the intent of this blog, though.
 Try Saint Agur Blue if you like the concept of bleu cheese but wish it were just little milder. Smear it on bread or crackers. Also this Pecorino Fantasia is a damn fine snackin&#39; cheese.</description>
-            <content type="html"><![CDATA[<p>It&rsquo;s Palm Sunday.  Instead of the <em>Bierpilgerfahrt</em> to Adlersberg&rsquo;s Prösslbrau for their <em>Palmator</em>, I opted to swing by a semi-local buddy&rsquo;s house for a cheese sample.  <em>Wie lecker.</em>  Might be antithetical to the intent of this blog, though.</p>
-<p>Try <a href="https://en.wikipedia.org/wiki/Saint_Agur_Blue">Saint Agur Blue</a> if you like the concept of bleu cheese but wish it were just little milder.  Smear it on bread or crackers.  Also this <a href="https://www.amazon.de/Pecorino-Fantasia-ca-800g-Schafsk%C3%A4se/dp/B00A3BQXMU">Pecorino Fantasia</a> is a damn fine snackin' cheese.</p>
-<p>My GPS app of choice says it was only a total of 89 meters uphill, but it felt like more than that on the push from Köfering past the south end of Seedorf towards Bad Abbach.  But in general, this was not supposed to be a very hilly trip, and I am happy that that came true.  I would have preferred a bit more bike path overall (that same stretch had me on the road with cars), but given the superb paths out of Bad Abbach back along the Danube towards Regensburg, <em>das ist Kritik auf hohem Niveau.</em></p>
-<h2 id="snaps">Snaps</h2>
-<p><img src="IMG210328-090607F.JPG" alt=""><br>
-<img src="IMG210328-091146F.JPG" alt=""><br>
-<img src="IMG210328-091657F.JPG" alt=""><br>
-<img src="IMG210328-092118F.JPG" alt=""><br>
-<img src="IMG_20210328_094634596_s.jpg" alt=""><br>
-<img src="IMG_20210328_102247069_s.jpg" alt=""><br>
-<img src="IMG210328-104520F.JPG" alt=""><br>
-<img src="IMG_20210328_095652851_BURST000_COVER_TOP_s.jpg" alt=""><br>
-<img src="IMG210328-105934F.JPG" alt=""><br>
-<img src="IMG210328-110744F.JPG" alt=""><br>
-<img src="IMG210328-111205F.JPG" alt=""><br>
-<img src="IMG210328-111419F.JPG" alt=""><br>
-<img src="IMG_20210328_114759070_s.jpg" alt=""><br>
-<img src="IMG_20210328_115159397_s.jpg" alt=""><br>
-<img src="IMG_20210328_115710882_s.jpg" alt=""><br>
-<img src="IMG_20210328_120008503_s.jpg" alt=""><br>
-<img src="IMG_20210328_120016713_BURST000_COVER_TOP_s.jpg" alt=""><br>
-<img src="IMG_20210328_121518582_s.jpg" alt=""></p>
-<h2 id="video-recap">Video Recap</h2>
-<p>None today.</p>
-<h2 id="route">Route</h2>
-<p>You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.  I didn&rsquo;t deviate from the planned route this time; it was mostly me taking an unpaved bike path that was &ldquo;paved enough&rdquo; for me, but not for the <a href="https://www.graphhopper.com/maps">GraphHopper</a> mapping service, whom I told I have a &ldquo;racing bike.&rdquo;  Ha.  Oh, and one quickly corrected wrong turn in Köfering.</p>
-
-
-<a href="20210328.jpg" alt=""><img src="20210328.jpg"></a>
-
-
-
-<h2 id="stats">Stats</h2>
-<pre><code>Total Distance:      43.8 km 
-Time:              2:40
-Calories:          2108
-Calories from fat:   11 %
-Average Heart Rate: 143
-Maximum Heart Rate: 164
-Fat Burn:          0:04
-Fitness:           2:36
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Regensburg Loop Plagued by Detours</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20210321/</link>
-            <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20210321/</guid>
-            <description>Despite the weather prediction I got out there again today. I had planned to do a ring around Regensburg so that I wouldn&amp;rsquo;t be obligated to wear a mask, which I rather dislike while on my bike (it&amp;rsquo;s not so bad except for the fact that I wear glasses). Almost right off the bat, I veered off from my planned course, but this only resulted in a a total route of a few kilometers less than the original route.</description>
-            <content type="html"><![CDATA[<p>Despite the weather prediction I got out there again today.  I had planned to do a ring around Regensburg so that I wouldn&rsquo;t be obligated to wear a mask, which I rather dislike while on my bike (it&rsquo;s not so bad except for the fact that I wear glasses).  Almost right off the bat, I veered off from my planned course, but this only resulted in a a total route of a few kilometers less than the original route.  At at least two more points along the way, path closures forced me to deviate.</p>
-<p>I was a little underdressed, but it was mostly fine as long as I kept moving.  My <em>jamaica</em> tea break along the Danube was well-placed.</p>
-<h2 id="snaps">Snaps</h2>
-<p><img src="IMG210321-110333F.JPG" alt=""><br>
-<img src="IMG_20210321_112109148_s.jpg" alt=""><br>
-The snow was the wet, blowy, sting-y kind that hurts upon impact with your face.<br>
-<img src="IMG_20210321_114615920_s.jpg" alt=""></p>
-<blockquote>
-<p><em>Wenn Wasser oder Feuersnoth</em>           <br>
-<em>Verderben Deinern Kindern droht</em>       <br>
-<em>Dan Herr nim uns in Deinen Schutz</em>     <br>
-<em>und biet dem Elementen Trutz</em></p>
-</blockquote>
-<p>My Q&amp;D translation:</p>
-<blockquote>
-<p>Should a water or fire emergency<br>
-Threaten to ruin your children<br>
-Then Lord protect us<br>
-and show the element defiance</p>
-</blockquote>
-<p><img src="IMG_20210321_115932850_s.jpg" alt=""><br>
-<img src="IMG210321-123415F.JPG" alt=""><br>
-I didn&rsquo;t realize I was on a closed path until I got to the end of these hundreds of meters of pipes.</p>
-<h2 id="video-recap">Video Recap</h2>
-<p>None today; just a still of me exceeding the speed limit.</p>
-<p><img src="vlcsnap-2021-03-21-17h43m41s151.jpg" alt=""></p>
-<h2 id="route">Route</h2>
-<p>You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.<br>
-
-
-<a href="20210321.jpg" alt=""><img src="20210321.jpg"></a>
-
-
-</p>
-<h2 id="stats">Stats</h2>
-<pre><code>Total Distance:      28 km 
-Time:              2:02
-Calories:          1563
-Calories from fat:   12 %
-Average Heart Rate: 140
-Maximum Heart Rate: 164
-Fat Burn:          0:03
-Fitness:           1:59
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Over the Donau to Donaustauf, then Obertraubling and Oberhinkofen</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20210307-obertraubling-oberhinkofen/</link>
-            <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20210307-obertraubling-oberhinkofen/</guid>
-            <description>I intended this week&amp;rsquo;s ride to be a little on the short side, but I missed a turn in Obertraubling, tried to invent a new route to Oberhinkofen, had to backtrack, and got there the long way. It was cold, but not unbearably so, and a hot jamaica break in Obertraubling was a good way to warm up internally.
+    </item>
+    
+    <item>
+      <title>Regensburg Loop Plagued by Detours</title>
+      <link>http://example.org/posts/bikerides/20210321/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20210321/</guid>
+      <description>Despite the weather prediction I got out there again today. I had planned to do a ring around Regensburg so that I wouldn&amp;rsquo;t be obligated to wear a mask, which I rather dislike while on my bike (it&amp;rsquo;s not so bad except for the fact that I wear glasses). Almost right off the bat, I veered off from my planned course, but this only resulted in a a total route of a few kilometers less than the original route.</description>
+    </item>
+    
+    <item>
+      <title>Over the Donau to Donaustauf, then Obertraubling and Oberhinkofen</title>
+      <link>http://example.org/posts/bikerides/20210307-obertraubling-oberhinkofen/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20210307-obertraubling-oberhinkofen/</guid>
+      <description>I intended this week&amp;rsquo;s ride to be a little on the short side, but I missed a turn in Obertraubling, tried to invent a new route to Oberhinkofen, had to backtrack, and got there the long way. It was cold, but not unbearably so, and a hot jamaica break in Obertraubling was a good way to warm up internally.
 Snaps Video Recap Donaustauf to Barbing, sped up by a factor of 4   Route You might need to tap or click the map to make it bigger.</description>
-            <content type="html"><![CDATA[<p>I intended this week&rsquo;s ride to be a little on the short side, but I missed a turn in Obertraubling, tried to invent a new route to Oberhinkofen, had to backtrack, and got there the long way.  It was cold, but not unbearably so, and a hot jamaica break in Obertraubling was a good way to warm up internally.</p>
-<h2 id="snaps">Snaps</h2>
-<p><img src="/IMG210307-112532F.JPG" alt=""><br>
-<img src="/IMG210307-113029F.JPG" alt=""><br>
-<img src="/IMG_20210307_093538019_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20210307_095600388_s.jpg" alt=""><br>
-<img src="/IMG_20210307_100551511_s.jpg" alt=""><br>
-<img src="/IMG_20210307_100844951_s.jpg" alt=""><br>
-<img src="/IMG_20210307_100903909_s.jpg" alt=""></p>
-<h2 id="video-recap">Video Recap</h2>
-<h3 id="donaustauf-to-barbing-sped-up-by-a-factor-of-4">Donaustauf to Barbing, sped up by a factor of 4</h3>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/Jj6RtE5pfpU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-<h2 id="route">Route</h2>
-<p>You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.<br>
-
-
-<a href="/20210307.jpg" alt=""><img src="/20210307.jpg"></a>
-
-
-</p>
-<h2 id="stats">Stats</h2>
-<pre><code>Total Distance:    36 km 
-Time:              2:21
-Calories:          1759
-Calories from fat:   14%
-Average Heart Rate: 138
-Maximum Heart Rate: 167
-Fat Burn:          0:07
-Fitness:           2:14
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Pielenhofen via Adlersberg and back along the Naab</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20210228-pielenhofen/</link>
-            <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20210228-pielenhofen/</guid>
-            <description>I figure if I do the climb at Adlersberg enough, one of these days I&amp;rsquo;ll be up at the top and reward myself with a nice Radler (I mean, what else?) and maybe some lunch. That hill is a beast. Today I took a water and Schüttelbrot break in the bus shelter just outside the Prösslbräu grounds (and&amp;hellip;good to know that there is bus service up there; that brewery makes delicious things).</description>
-            <content type="html"><![CDATA[<p>I figure if I do the climb at Adlersberg enough, one of these days I&rsquo;ll be up at the top and reward myself with a nice <em>Radler</em> (I mean, what else?) and maybe some lunch.  That hill is a beast.  Today I took a water and <em>Schüttelbrot</em> break in the bus shelter just outside the Prösslbräu grounds (and&hellip;good to know that there is bus service up there; that brewery makes delicious things).  But the route down from there was new from me.  See the indicated time of 10:04 to note just how narrow that ROAD is with the 16% grade and 30 km/h speed limit.  Glad I didn&rsquo;t end up on someone&rsquo;s porch!</p>
-<h2 id="snaps">Snaps</h2>
-<p><img src="/IMG_20210228_085646268_s.jpg" alt=""><br>
-<img src="/IMG_20210228_090123787_s.jpg" alt=""><br>
-<img src="/IMG210228-092010F_s.jpg" alt=""><br>
-<img src="/IMG_20210228_092504814_s.jpg" alt=""><br>
-<img src="/IMG_20210228_092929586_s.jpg" alt=""><br>
-<img src="/IMG_20210228_093153792_s.jpg" alt=""><br>
-<img src="/IMG_20210228_093451393_s.jpg" alt=""><br>
-<img src="/IMG_20210228_094820182_s.jpg" alt=""><br>
-<img src="/IMG_20210228_094827088_s.jpg" alt=""><br>
-<img src="/IMG210228-095230F_s.jpg" alt=""><br>
-<img src="/IMG_20210228_100754947_s.jpg" alt=""><br>
-<img src="/IMG210228-101346F_s.jpg" alt=""><br>
-<img src="/IMG210228-102531F_s.jpg" alt="">
-<img src="/IMG_20210228_104809421_s.jpg" alt=""><br>
-<img src="/IMG_20210228_104853745_s.jpg" alt=""><br>
-<img src="/IMG_20210228_104857037_s.jpg" alt=""><br>
-<img src="/IMG_20210228_104954789_s.jpg" alt=""></p>
-<h2 id="video-recap">Video Recap</h2>
-<h3 id="sped-up-by-a-factor-of-4">Sped up by a factor of 4</h3>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/dwDif2l5EXo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-<h3 id="or-eleven-minutes-of-real-time">Or eleven minutes of real time?</h3>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/lCQYV7Exp2I" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-<h2 id="route">Route</h2>
-<p>You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.<br>
-<a href="/20210228.jpg"><img src="/20210228.jpg" alt=""></a></p>
-<h2 id="stats">Stats</h2>
-<pre><code>Total Distance:    35.1 km 
-Time:              2:23
-Calories:          1762
-Calories from fat:   14%
-Average Heart Rate: 137
-Maximum Heart Rate: 165
-Fat Burn:          0:06
-Fitness:           2:17
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Cloudy, Cold, Windy Guggi-See</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20210221-guggisee/</link>
-            <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20210221-guggisee/</guid>
-            <description>It was supposed to be as glorious as yesterday.
+    </item>
+    
+    <item>
+      <title>Pielenhofen via Adlersberg and back along the Naab</title>
+      <link>http://example.org/posts/bikerides/20210228-pielenhofen/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20210228-pielenhofen/</guid>
+      <description>I figure if I do the climb at Adlersberg enough, one of these days I&amp;rsquo;ll be up at the top and reward myself with a nice Radler (I mean, what else?) and maybe some lunch. That hill is a beast. Today I took a water and Schüttelbrot break in the bus shelter just outside the Prösslbräu grounds (and&amp;hellip;good to know that there is bus service up there; that brewery makes delicious things).</description>
+    </item>
+    
+    <item>
+      <title>Cloudy, Cold, Windy Guggi-See</title>
+      <link>http://example.org/posts/bikerides/20210221-guggisee/</link>
+      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20210221-guggisee/</guid>
+      <description>It was supposed to be as glorious as yesterday.
 It never got there. I delayed the start of my ride as much as I could, hoping for sunny skies and warmer temperatures, and while I didn&amp;rsquo;t get rained on, I never saw the sun after all.
 Snaps Video Recap None today!
 Route You might need to tap or click the map to make it bigger. The red solid route was my intention.</description>
-            <content type="html"><![CDATA[<p>It was supposed to be as glorious as yesterday.</p>
-<p>It never got there.  I delayed the start of my ride as much as I could, hoping for sunny skies and warmer temperatures, and while I didn&rsquo;t get rained on, I never saw the sun after all.</p>
-<h2 id="snaps">Snaps</h2>
-<p><img src="/IMG210221-134049F.JPG" alt=""><br>
-<img src="/IMG_20210221_130052430_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20210221_130248436_s.jpg" alt=""><br>
-<img src="/IMG_20210221_130256277_s.jpg" alt=""><br>
-<img src="/IMG_20210221_130655098_s.jpg" alt=""><br>
-<img src="/IMG_20210221_130731012_s.jpg" alt=""><br>
-<img src="/IMG_20210221_131247234_s.jpg" alt=""></p>
-<h2 id="video-recap">Video Recap</h2>
-<p>None today!</p>
-<h2 id="route">Route</h2>
-<p>You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.</p>
-<p><a href="/20210221.jpg"><img src="/20210221.jpg" alt=""></a></p>
-<h2 id="stats">Stats</h2>
-<pre><code>Total Distance:    23.6 km 
-Time:              1:30
-Calories:          1033
-Calories from fat:   17%
-Average Heart Rate: 132
-Maximum Heart Rate: 150
-Fat Burn:          0:05
-Fitness:           1:25
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>I ❤️ Bad Abbach</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20210214-obertraubling-bad-abbach/</link>
-            <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20210214-obertraubling-bad-abbach/</guid>
-            <description>It&amp;rsquo;s Valentine&amp;rsquo;s Day, so why not? And I bike to/from it frequently enough. The position of the town lends itself to round trips, whether I&amp;rsquo;m feeling bergy or flussy.
+    </item>
+    
+    <item>
+      <title>I ❤️ Bad Abbach</title>
+      <link>http://example.org/posts/bikerides/20210214-obertraubling-bad-abbach/</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20210214-obertraubling-bad-abbach/</guid>
+      <description>It&amp;rsquo;s Valentine&amp;rsquo;s Day, so why not? And I bike to/from it frequently enough. The position of the town lends itself to round trips, whether I&amp;rsquo;m feeling bergy or flussy.
 Today&amp;rsquo;s route was supposed to trace the Danube back more of the way home, but even before the halfway point at — you guessed it! — Bad Abbach, my feet were hurting from the cold. So at Großprüfening I cut it short.</description>
-            <content type="html"><![CDATA[<p>It&rsquo;s Valentine&rsquo;s Day, so why not?  And I bike to/from it frequently enough.  The position of the town lends itself to round trips, whether I&rsquo;m feeling <em>berg</em>y or <em>fluss</em>y.</p>
-<p>Today&rsquo;s route was supposed to trace the Danube back more of the way home, but even before the halfway point at — you guessed it! — Bad Abbach, my feet were hurting from the cold.  So at Großprüfening I cut it short.  Still got in just shy of 40 clicks.</p>
-<h2 id="snaps">Snaps</h2>
-<p><img src="/IMG_20210214_093859213_s.jpg" alt=""><br>
-Here I am doing a crane kick on my bike.<br>
-<img src="/IMG_20210214_093910132_s.jpg" alt=""><br>
-New shades!<br>
-<img src="/IMG_20210214_093935970_s.jpg" alt=""><br>
-No slope here, it&rsquo;s action photography.  This was on a very flat part of the route.<br>
-<img src="/IMG_20210214_095232581_HDR_s.jpg" alt=""><br>
-Most of the first half was through farmland, but there were some woods around the edges.<br>
-<img src="/IMG_20210214_112314866_s.jpg" alt=""><br>
-I suspect the blurriness here might be due to condenstation on the phone&rsquo;s camera&rsquo;s lens.  It gets drippy wet inside this jacket&rsquo;s inside pocket.<br>
-<img src="/IMG_20210214_112324496_BURST001_s.jpg" alt=""><br>
-Here is a nice stretch of the Danube outside of Unterirading.<br>
-<img src="/IMG_20210214_112326352_s.jpg" alt=""><br>
-Approaching <em>zur Walba</em> &ndash; I will very much appreciate stopping in here for a Schnitzel and a Radler when weather and other conditions allow it.</p>
-<h2 id="video-recap">Video Recap</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oWOk9Dz7X54" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<h2 id="route">Route</h2>
-<p>You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.</p>
-<p><a href="/20210214.jpg"><img src="/20210214.jpg" alt=""></a></p>
-<h2 id="stats">Stats</h2>
-<pre><code>Total Distance:          39.5 km 
-Time Part 1:              1:12
-Calories Part 1:          509
-Calories from fat Part 1:   41%
-Average Heart Rate Part 1: 105
-Maximum Heart Rate Part 1: 121
-Fat Burn Part 1:          1:10
-Fitness Part 1:           0:02
-
-
-Time Part 2:              1:17
-Calories Part 2:          1134
-Calories from fat Part 2:   10%
-Average Heart Rate Part 2: 152
-Maximum Heart Rate Part 2: 166
-Fat Burn Part 2:          0:01
-Fitness Part 2:           1:16
-
-Weight:     not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Sinzing Ring</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20210206-sinzing-ring/</link>
-            <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20210206-sinzing-ring/</guid>
-            <description>Snaps I started off crossing the Danube at Kleinprüfening. Notice the water level. This was warning sign #1 and will be important later.
+    </item>
+    
+    <item>
+      <title>Sinzing Ring</title>
+      <link>http://example.org/posts/bikerides/20210206-sinzing-ring/</link>
+      <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20210206-sinzing-ring/</guid>
+      <description>Snaps I started off crossing the Danube at Kleinprüfening. Notice the water level. This was warning sign #1 and will be important later.
 I got all the way up the hill above Eilsbrunn (home of Gaststätte Röhrl, the oldest continuously operating restaurant in the world, according to the Guinness Book of Records. I&amp;rsquo;ve eaten there a few times. It&amp;rsquo;s good.) before taking a break. That hill was serious.
 Zooming down from there towards Hardt was fun.</description>
-            <content type="html"><![CDATA[<h2 id="snaps">Snaps</h2>
-<p><img src="/IMG_20210206_100755514_s.jpg" alt=""><br>
-I started off crossing the Danube at Kleinprüfening.  Notice the water level.  This was warning sign #1 and will be important later.</p>
-<p><img src="/IMG_20210206_100822174_s.jpg" alt=""><br>
-<img src="/IMG_20210206_104320426_s.jpg" alt=""><br>
-I got all the way up the hill above Eilsbrunn (home of <a href="https://en.wikipedia.org/wiki/Gastst%C3%A4tte_R%C3%B6hrl"><em>Gaststätte Röhrl</em></a>, the oldest continuously operating restaurant in the world, according to the Guinness Book of Records.  I&rsquo;ve eaten there a few times.  It&rsquo;s good.) before taking a break.  That hill was serious.</p>
-<p><img src="/IMG_20210206_110753617_s.jpg" alt=""><br>
-Zooming down from there towards Hardt was fun.  But then I got back up another hill almost right away and a weird plateau farmy place.</p>
-<p><img src="/IMG_20210206_112827314_s.jpg" alt=""><br>
-<img src="/IMG_20210206_113542123_s.jpg" alt=""><br>
-What is this house built into a mound with low-slooping rooves (hi Susie) and solar panels out in the middle of a field?</p>
-<p><img src="/IMG_20210206_114555326_s.jpg" alt=""><br>
-Here is where things started to go <em>schief</em>.  My planned route had me climb from Saxberg to Bergmatting (warning sign #2:  &ldquo;<em>Anything</em>-berg-<em>anything</em>&quot;) through some woods to lead me to the ferry at Matting to cross the Danube and have a nice easy stretch of riverlands back towards Regensburg with optional final hilly bits leading up into Pentling and Graß.  Boy, was I optimistic.  &ldquo;Through some woods&rdquo; doesn&rsquo;t really describe it.</p>
-<p><img src="/IMG_20210206_115818405_s.jpg" alt=""><br>
-Holy crap.  That is a heckuva slope on foot, let alone on a bike.  And mine is a city bike.  And beneath these soggy leaves is modeling-clay mud.  I painstakingly traversed the mountainside, skidding and sliding with a bike in-tow.</p>
-<p><img src="/IMG_20210206_122430123_s.jpg" alt=""><br>
-I walked my bike down several hundred meters of this slope, thinking &ldquo;well, this stinks, but just get to the ferry and you can take it easy the rest of the way home.&rdquo;</p>
-<p>And in the end I completely lost my footing and scooted the last 50 feet on my butt.  My bike came along behind me and then <em>over</em> me, bonking me on the head in the process.  So, we know my helmet works.</p>
-<p>I found a sign at the entrance to the &ldquo;path&rdquo; that read something to the effect of &ldquo;you will be fined if you deviate from the path.&rdquo;  I challenge that sign publisher to identify the path.</p>
-<p><img src="/IMG_20210206_123602609_s.jpg" alt=""><br>
-Hopes and dreams dashed.  The ferry is closed due to high water.</p>
-<p><img src="/IMG_20210206_124909822_s.jpg" alt=""><br>
-<em>*sigh*</em> <br>
-Biking through a golf course so close to the end of that nightmarish mudslide just pissed me off.  I was so tired after skidding down that hill on foot that it took me several hours longer than planned for about the same overall distance traveled.</p>
-<p><img src="/dirt_pants.jpeg" alt=""><br>
-It was not until I got home that I could see how much of that mountain came along with me.</p>
-<h2 id="video-recap">Video Recap</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OcLCpgIWr4s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p>I gotta say, I&rsquo;m impressed that the mounts and cases for my camera and phone protected my gear so well.  Both were completely unscatched, even though they were caked in mud on the outside.</p>
-<h2 id="route">Route</h2>
-<p>You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.</p>
-<p><a href="/20210206.jpg"><img src="/20210206.jpg" alt=""></a></p>
-<h2 id="stats">Stats</h2>
-<pre><code>Distance:          35.2 km 
-Time:              3:59
-Calories:          3329
-Calories from fat:   12%
-Average Heart Rate: 147
-Maximum Heart Rate: 173
-Fat Burn:          0:08
-Fitness:           3:50 
-Weight:     not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>to Baiern</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20210110-baiern/</link>
-            <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20210110-baiern/</guid>
-            <description>First ride of the year! I&amp;rsquo;d taken a couple weekends off, which stretched out to over a month, because I was worried about the moisture on the ground and the wintry temperatures resulting in icy conditions. I tried to walk more in the meantime. That kinda worked, but not as much as I&amp;rsquo;d hoped.
+    </item>
+    
+    <item>
+      <title>to Baiern</title>
+      <link>http://example.org/posts/bikerides/20210110-baiern/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20210110-baiern/</guid>
+      <description>First ride of the year! I&amp;rsquo;d taken a couple weekends off, which stretched out to over a month, because I was worried about the moisture on the ground and the wintry temperatures resulting in icy conditions. I tried to walk more in the meantime. That kinda worked, but not as much as I&amp;rsquo;d hoped.
 I thought it was a little weird to leave Regensburg and cross into Baiern. I mean the standard local historical thing is that Regensburg was a free imperial city for a long time and by crossing the Danube into Stadtamhof, one was leaving Regensburg and entering Bavaria (Bayern).</description>
-            <content type="html"><![CDATA[<p>First ride of the year!  I&rsquo;d taken a couple weekends off, which stretched out
-to over a month, because I was worried about the moisture on the ground and the
-wintry temperatures resulting in icy conditions.  I tried to walk more in
-the meantime.  That kinda worked, but not as much as I&rsquo;d hoped.</p>
-<p>I thought it was a little weird to leave Regensburg and cross into Baiern.  I mean the standard local historical thing is that Regensburg was a free imperial city for a long time and by crossing the Danube into Stadtamhof, one was leaving Regensburg and entering Bavaria (<em>Bayern</em>).  But I crossed the municipal limits into a town called <em>Baiern</em>.  It seems there are a whole mess of these:  <a href="https://de.wikipedia.org/wiki/Bayern_(Begriffskl%C3%A4rung)"><a href="https://de.wikipedia.org/wiki/Bayern_(Begriffskl%C3%A4rung)">https://de.wikipedia.org/wiki/Bayern_(Begriffskl%C3%A4rung)</a></a></p>
-<p>Today was the first time back in the saddle, so I chose a route that I thought
-the ol' cheeks could handle — just 25ish km.  I goofed up a little around
-Lappersdorf and had to backtrack a bit.  And I opted to head back home via the
-Nibelungenbrücke instead of cutting through the Altstadt, which would have
-obligated me to wear a mask.  And they are getting <em>serious</em> about enforcement
-(rightly so!).  So, bonus.</p>
-<h2 id="snap">Snap</h2>
-<p><img src="/IMG_20210110_100234711.jpg" alt=""></p>
-<p>Just one of me today.  You can watch the video if you like.  The snow around 10:30 a.m. was kinda pretty, but the rest of it is quite gray and drab.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lFMDQ9AC04I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<h2 id="route">Route</h2>
-<p>You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.</p>
-<p><a href="/20210110.jpg"><img src="/20210110.jpg" alt=""></a></p>
-<h2 id="stats">Stats</h2>
-<pre><code>Distance:          27.8 km 
-Time:              1:48
-Calories:          1478
-Calories from fat:   12%
-Average Heart Rate: 146
-Maximum Heart Rate: 171
-Fat Burn:          0:02
-Fitness:           1:46
-Weight:     not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Around Donau Park</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20201206-donau-park/</link>
-            <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20201206-donau-park/</guid>
-            <description>After last week&amp;rsquo;s flat Danube odyssey, I thought I could probably handle at least the uphill bits on the way to Pentling and bask in the river bank&amp;rsquo;s flat glory on my way back — especially since I didn&amp;rsquo;t feel like a three-hour tour (a three-hour tour) today, and chopped my route down to a mere 20 km.
+    </item>
+    
+    <item>
+      <title>Around Donau Park</title>
+      <link>http://example.org/posts/bikerides/20201206-donau-park/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20201206-donau-park/</guid>
+      <description>After last week&amp;rsquo;s flat Danube odyssey, I thought I could probably handle at least the uphill bits on the way to Pentling and bask in the river bank&amp;rsquo;s flat glory on my way back — especially since I didn&amp;rsquo;t feel like a three-hour tour (a three-hour tour) today, and chopped my route down to a mere 20 km.
 I was right in theory; but in practice, GraphHopper picked a route for me right up a tractor track between a couple of fields, which was steeper than I expected.</description>
-            <content type="html"><![CDATA[<p>After last week&rsquo;s flat Danube odyssey, I thought I could probably handle at least the uphill bits on the way to Pentling and bask in the river bank&rsquo;s flat glory on my way back — especially since I didn&rsquo;t feel like a three-hour tour (a three-hour tour) today, and chopped my route down to a mere 20 km.</p>
-<p>I was right in theory; but in practice, GraphHopper picked a route for me right up a tractor track between a couple of fields, which was steeper than I expected.  Probably would have been NBD in June, but in December, with my city tires, eventually I spun my rear wheel and had to get off and push a bit.  Fortunately the downhills were all clear and dry, and the rest of the snowy bits were not icy.  Lesson learned:  probably &ldquo;bike&rdquo; is a just-fine setting for GraphHopper in the spring, summer, and fall, but for the possibility of icy hills in the winter, I need to tell it I want &ldquo;racing bike&rdquo; routes to keep me outta them frozen tractor tracks.</p>
-<p>You can see that everyone else wanted to use the Danube banks for a walk/jog/ride today, too.  It got kinda hard to enforce a 2-meter distance what with oncoming traffic and all.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nfhmqW_vlkI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<h2 id="snap">Snap</h2>
-<p>Just one to speak of.  I saw a mess of ducks just floating there in a calm stretch of Danube.  It was a good time for a little water break, so I stopped at the nearest bench and approached them to take this shot.  However, my presence (on the shore!) seemed to alarm them and they bugged out for the opposite shore.  I wonder if they have negative associations with people in day-glo flourescent outerwear&hellip;</p>
-<p><img src="/IMG_20201206_102313525.jpg" alt=""></p>
-<h2 id="route">Route</h2>
-<p>You might need to tap or click the map to make it bigger.</p>
-<p><a href="/20201206.jpg"><img src="/20201206.jpg" alt=""></a></p>
-<h2 id="stats">Stats</h2>
-<pre><code>Distance:         20.8 km 
-Time:              1:30
-Calories:          1079
-Calories from fat:   15%
-Average Heart Rate: 135
-Maximum Heart Rate: 174
-Fat Burn:          0:14
-Fitness:           1:16
-Weight:     not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Flatter to Pfatter</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20201130-flatter-to-pfatter/</link>
-            <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20201130-flatter-to-pfatter/</guid>
-            <description>It&amp;rsquo;s cold enough now for a full-on winter jacket out there, thus the attire switch.
+    </item>
+    
+    <item>
+      <title>Flatter to Pfatter</title>
+      <link>http://example.org/posts/bikerides/20201130-flatter-to-pfatter/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20201130-flatter-to-pfatter/</guid>
+      <description>It&amp;rsquo;s cold enough now for a full-on winter jacket out there, thus the attire switch.
 I thought I would give the ol&#39; quadriceps a break and stick to some very level terrain. You can&amp;rsquo;t go wrong with following the Danube for a nice, level ride. I still managed to take a wrong turn or two, but I never had to backtrack. In a couple places along my route, it&amp;rsquo;s not obvious whether a biker should go left or right to stay on a path.</description>
-            <content type="html"><![CDATA[<p>It&rsquo;s cold enough now for a full-on winter jacket out there, thus the attire switch.</p>
-<p>I thought I would give the ol' quadriceps a break and stick to some very level terrain.  You can&rsquo;t go wrong with following the Danube for a nice, level ride.  I still managed to take a wrong turn or two, but I never had to backtrack.  In a couple places along my route, it&rsquo;s not obvious whether a biker should go left or right to stay on a path.  At one point, I ended up on a frozed-grass-and-mud tractor trail, but the end was in sight, so I just pressed on.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g9iGfAy39VM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<h2 id="snaps">Snaps</h2>
-<p><img src="/IMG_20201130_111712850_s.jpg" alt=""><br>
-I got buzzed by a helicopter over a farm.</p>
-<p><img src="/IMG_20201130_112046956_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20201130_112936591_s.jpg" alt=""><br>
-I stopped here (and have done so before) for a clementine and water break.</p>
-<p><img src="/IMG_20201130_123026878_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20201130_123056690_s.jpg" alt=""><br>
-The river was very calm today.</p>
-<p><img src="/IMG_20201130_130528796_HDR_s.jpg" alt=""><br>
-What the heck is this, an ambient temperature sauna?</p>
-<p><img src="/IMG_20201130_133146725_s.jpg" alt=""><br>
-OK, so <em>FINALLY</em> the Romantischer Weihnachtsmarkt is not following the same procedure as every year.  But <em>verschoben</em> to when?  Will this be a <em>Weihnachtsfrühling</em>?</p>
-<h2 id="route">Route</h2>
-<p>You might need to tap or click the map to make it bigger.  The solid red line is the route I intended to take.  The blue dotted line is the route I actually took.</p>
-<p><a href="/20201130.jpg"><img src="/20201130.jpg" alt=""></a></p>
-<h2 id="stats">Stats</h2>
-<pre><code>Distance:         49 km 
-Time:              2:58
-Calories:          2417
-Calories from fat:  11%
-Average Heart Rate: 145
-Maximum Heart Rate: 165
-Fat Burn:          0:06
-Fitness:           2:52
-Weight:     not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Still no Kallmünz</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20201122-still-no-kallmuenz/</link>
-            <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20201122-still-no-kallmuenz/</guid>
-            <description>Ever since this dang pandemic hit and I began exploring the region on my bike, I&amp;rsquo;ve been itching to bike up to Kallmünz and back. One thing or another hat foiled each of my attempts. I took another shot at it today. Foiled again.
- I got off to a weak start just north of Stadtamhof at the Dreifaltigkeitsberg. A one-lane road shared with cars in both directions is daunting enough on its own.</description>
-            <content type="html"><![CDATA[<p>Ever since this dang pandemic hit and I began exploring the region on my bike, I&rsquo;ve been itching to bike up to Kallmünz and back.  One thing or another hat foiled each of my attempts.  I took another shot at it today.  Foiled again.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eLRlVoIVpUY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p>I got off to a weak start just north of Stadtamhof at the Dreifaltigkeitsberg.  A one-lane road shared with cars in both directions is daunting enough on its own.  Add steepness to it, and I thought to myself</p>
-<blockquote>
-<p>Better pull over before you keel over, homes!</p>
-</blockquote>
-<p>So, much to my chagrin, I shoved my bike up the last third of that hill and panted a bit to catch my breath.  I had plenty of other hills along today&rsquo;s route, but I managed to stay on the bike for all of them.  But on my way to Kallmünz, I passed a sign for Steinsberg and remembered that that was a waypoint on my route home <em>after</em> Kallmünz, and it was pretty cold, and I was getting hungry, and&hellip;and&hellip;you can see that I postponed my Kallmünz aspirations for another ride at 1:34 in the video (11:04 by the timestamps).  Oh well, it&rsquo;ll still be there.</p>
-<h2 id="snaps">Snaps</h2>
-<p><img src="/IMG_20201122_102004118_s.jpg" alt=""><br>
-<img src="/IMG_20201122_103858522_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20201122_104539218_s.jpg" alt=""><br>
-<img src="/IMG201122-110330F.JPG" alt=""><br>
-<img src="/IMG_20201122_112130810_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20201122_113559332_s.jpg" alt=""><br>
-<img src="/IMG201122-114307F.JPG" alt=""><br>
-<img src="/IMG_20201122_115815024_s.jpg" alt=""><br>
-<img src="/IMG_20201122_120137389_s.jpg" alt=""><br>
-<img src="/IMG_20201122_123334527_s.jpg" alt=""></p>
-<h2 id="route">Route:</h2>
-<p>You might need to tap or click the map to make it bigger.  The solid red line is the route I intended to take.  The blue dotted line is the route I actually took.</p>
-<p><a href="/20201122.jpg"><img src="/20201122.jpg" alt=""></a></p>
-<pre><code>Distance:       34.4 km 
-Time:              2:56
-Calories:          2205
-Calories from fat:  15%
-Average Heart Rate: 139
-Maximum Heart Rate: 179
-Fat Burn:          0:18
-Fitness:           2:38
-Weight:     not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Victory Loop Foiled by Construction</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20201108-victory-loop-foiled/</link>
-            <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20201108-victory-loop-foiled/</guid>
-            <description>I thought I&amp;rsquo;d take a victory loop after the momentous occasions of late. I carefully mapped my route using GraphHopper and thought I was good-to-go for a route mostly following three rivers
+    </item>
+    
+    <item>
+      <title>Still no Kallmünz</title>
+      <link>http://example.org/posts/bikerides/20201122-still-no-kallmuenz/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20201122-still-no-kallmuenz/</guid>
+      <description>Ever since this dang pandemic hit and I began exploring the region on my bike, I&amp;rsquo;ve been itching to bike up to Kallmünz and back. One thing or another hat foiled each of my attempts. I took another shot at it today. Foiled again.
+I got off to a weak start just north of Stadtamhof at the Dreifaltigkeitsberg. A one-lane road shared with cars in both directions is daunting enough on its own.</description>
+    </item>
+    
+    <item>
+      <title>Victory Loop Foiled by Construction</title>
+      <link>http://example.org/posts/bikerides/20201108-victory-loop-foiled/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20201108-victory-loop-foiled/</guid>
+      <description>I thought I&amp;rsquo;d take a victory loop after the momentous occasions of late. I carefully mapped my route using GraphHopper and thought I was good-to-go for a route mostly following three rivers
  Danube Naab Schwarze Laber  &amp;hellip; with a little hilliness in the middle to keep it interesting. The stretch up the hill from Etterzhausen to Nittendorf was a slog, but I knew that was coming, and I thought perhaps I&amp;rsquo;d progressed in my endurance such that it wouldn&amp;rsquo;t kill me.</description>
-            <content type="html"><![CDATA[<p>I thought I&rsquo;d take a victory loop after the momentous occasions of late.  I carefully mapped my route using <a href="http://graphhopper.com/maps">GraphHopper</a> and thought I was good-to-go for a route mostly following three rivers</p>
-<ul>
-<li>Danube</li>
-<li>Naab</li>
-<li>Schwarze Laber</li>
-</ul>
-<p>&hellip; with a little hilliness in the middle to keep it interesting.  The stretch up the hill from Etterzhausen to Nittendorf was a slog, but I knew that was coming, and I thought perhaps I&rsquo;d progressed in my endurance such that it wouldn&rsquo;t kill me.  I was right.</p>
-<p>It was foggy the whole dang way.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rN3DY3LTmlc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p>What brought me to a dead stop was Deuerling.  That was the first time I had to give up and walk my bike up a hill in a while.  So, I thought it was as good a time as any for a water-and-clementine break.</p>
-<p><img src="/IMG_20201108_111013644_HDR_s.jpg" alt=""></p>
-<p>My next break was less exhaustion-based and more in awe at the leafy path leading into a forest outside of Irgertshofen.</p>
-<p><img src="/IMG_20201108_113815993_s.jpg" alt=""></p>
-<p>I was feeling pretty good about my ride and looking forward to a nice downhill coast to follow the Schwarze Laber back towards Sinzing and the Danube, but construction foiled me.  I got to the bottom of the hill outside Thumhausen and saw the road to Sinzing was blocked off.  DAG NABBIT.  This meant another slog back north into Undorf and back home the way I came.  I seriously thought about calling Sarah to come get me with the car as I paused outside the Undorf train station to catch my breath.  I briefly considered checking the train schedule, but</p>
-<ol>
-<li>Sunday morning, and</li>
-<li>Corona</li>
-</ol>
-<p>So I sucked it up and got home under my own power.  A long hot shower afterwards did wonders.</p>
-<h2 id="route">Route:</h2>
-<p>You might need to tap or click the map to make it bigger.  The red line is the route I intended to take.  The blue line is the route I actually took.  Where the blue line looks solid, it&rsquo;s actually not &ndash; that&rsquo;s my unintended backtracking.</p>
-<p><a href="/20201108.jpg"><img src="/20201108.jpg" alt=""></a></p>
-<pre><code>Distance:       47.5 km 
-Time:              3:26
-Calories:          2815
-Calories from fat:  11%
-Average Heart Rate: 146
-Maximum Heart Rate: 170
-Fat Burn:          0:02
-Fitness:           3:24
-Weight:     not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Daredevil Chicken</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20201101-daredevil-chicken/</link>
-            <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20201101-daredevil-chicken/</guid>
-            <description>This dude is definitely undeserving of his reputation!
- Note to self: remember that the camera has no internal battery and you have to set the date and time with every battery change!
-I took a suggestion from local pal Markus and went out southwest towards Mangolding, Mintraching and Geisling. Those were new towns for me, but the route back along the B8 through Barbing was old hat. Pretty flat the whole way, so it should have been a good opportunity to keep my heart rate low and steady.</description>
-            <content type="html"><![CDATA[<p>This dude is definitely undeserving of his reputation!</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_8pCCAvb5wA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p><small>Note to self:  remember that the camera has no internal battery and you have to set the date and time with every battery change!</small></p>
-<p>I took a suggestion from <a href="http://markusfeilner.de">local pal Markus</a> and went out southwest towards Mangolding, Mintraching and Geisling.  Those were new towns for me, but the route back along the B8 through Barbing was old hat.  Pretty flat the whole way, so it should have been a good opportunity to keep my heart rate low and steady.  Alas, I pushed it more than I should have for the optimal effort/effect ratio.</p>
-<p>Only one snap to speak of from this ride &ndash; they all kinda looked like this.  Gray skies, rainy glasses, some orangey colors, but also still some greens.</p>
-<p><img src="/IMG_20201101_095056392_HDR_s.jpg" alt=""></p>
-<p>Route:</p>
-<p><a href="/20201101.jpg"><img src="/20201101.jpg" alt=""></a></p>
-<pre><code>Distance:  42.2 km 
-Time:  2:20 
-Calories:  1742
-Calories from fat:  16% 
-Average Heart Rate:  134 
-Maximum Heart Rate:  152
-Fat Burn:  0:08
-Fitness:   2:20
-Weight:  not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Down one side and back up the other</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20201025-pentling-matting-ferry-bad-abbach/</link>
-            <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20201025-pentling-matting-ferry-bad-abbach/</guid>
-            <description>I biked up the hill to Pentling (hey! The bridge over the A3 is open again!) and down the hill from there towards Matting where I met up with my pal Sam for lunch. Then we took the ferry across (1€ per person) to the west (north?) bank of the Danube towards Bad Abbach, where we crossed it again using the bridge there. That&amp;rsquo;s where we parted ways; I headed back downstream (north/east) towards Regensburg.</description>
-            <content type="html"><![CDATA[<p>I biked up the hill to Pentling (hey! The bridge over the A3 is open again!) and down the hill from there towards Matting where I met up with my pal Sam for lunch.  Then we took the ferry across (1€ per person) to the west (north?) bank of the Danube towards Bad Abbach, where we crossed it again using the bridge there.  That&rsquo;s where we parted ways; I headed back downstream (north/east) towards Regensburg.</p>
-<p>It was a decent day, but I had planned on more sunshine to warm me up.  I tried out a video camera I bought (I suppose it&rsquo;s a GoPro knock off), mounted to my handle bars, and I&rsquo;m pretty happy with it for the price I paid.  Here&rsquo;s a video of the trip down the hill from Pentling towards Weichsmühle on my way to the ferry:</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPi7dNxzM5g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p>The snaps!</p>
-<h3 id="ferry-shots">Ferry Shots</h3>
-<p><img src="/IMG201025-144034F.JPG" alt=""><br>
-<img src="/IMG201025-144122F.JPG" alt=""><br>
-<img src="/IMG201025-144132F.JPG" alt=""><br>
-<img src="/IMG201025-144258F.JPG" alt=""><br>
-<img src="/IMG201025-144334F.JPG" alt=""></p>
-<h3 id="others">Others</h3>
-<p><img src="/IMG_20201025_121321745_s.jpg" alt=""><br>
-<img src="/IMG_20201025_121340003_s.jpg" alt=""><br>
-<img src="/IMG_20201025_140108898_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20201025_140121938_s.jpg" alt=""><br>
-<img src="/IMG_20201025_141059168_BURST000_COVER_TOP_s.jpg" alt=""><br>
-<img src="/IMG_20201025_141809502_s.jpg" alt=""><br>
-<img src="/IMG_20201025_144540667_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20201025_152010272_BURST000_COVER_TOP_s.jpg" alt=""></p>
-<p>Route:</p>
-<p><a href="/20201025.jpg"><img src="/20201025.jpg" alt=""></a></p>
-<pre><code>Distance:  39.5 km 
-Time:  2:52 
-Calories:  2168
-Calories from fat:  14% 
-Average Heart Rate:  140 
-Maximum Heart Rate:  167
-Fat Burn:  0:13
-Fitness:   2:39
-Weight:  not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>October Ride</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20201018-october-ride/</link>
-            <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20201018-october-ride/</guid>
-            <description>First time back in the saddle after about a month, and it is no longer Panama Jack helmet weather. Also, when I got started this morning, it was foggy as heck, so I through on an eye-catching vest just for good measure. After about 30 minutes, it wasn&amp;rsquo;t really necessary anymore &amp;ndash; the sun burned off the low-hanging clouds.
+    </item>
+    
+    <item>
+      <title>Daredevil Chicken</title>
+      <link>http://example.org/posts/bikerides/20201101-daredevil-chicken/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20201101-daredevil-chicken/</guid>
+      <description>This dude is definitely undeserving of his reputation!
+  Note to self: remember that the camera has no internal battery and you have to set the date and time with every battery change!I took a suggestion from local pal Markus and went out southwest towards Mangolding, Mintraching and Geisling. Those were new towns for me, but the route back along the B8 through Barbing was old hat. Pretty flat the whole way, so it should have been a good opportunity to keep my heart rate low and steady.</description>
+    </item>
+    
+    <item>
+      <title>Down one side and back up the other</title>
+      <link>http://example.org/posts/bikerides/20201025-pentling-matting-ferry-bad-abbach/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20201025-pentling-matting-ferry-bad-abbach/</guid>
+      <description>I biked up the hill to Pentling (hey! The bridge over the A3 is open again!) and down the hill from there towards Matting where I met up with my pal Sam for lunch. Then we took the ferry across (1€ per person) to the west (north?) bank of the Danube towards Bad Abbach, where we crossed it again using the bridge there. That&amp;rsquo;s where we parted ways; I headed back downstream (north/east) towards Regensburg.</description>
+    </item>
+    
+    <item>
+      <title>October Ride</title>
+      <link>http://example.org/posts/bikerides/20201018-october-ride/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20201018-october-ride/</guid>
+      <description>First time back in the saddle after about a month, and it is no longer Panama Jack helmet weather. Also, when I got started this morning, it was foggy as heck, so I through on an eye-catching vest just for good measure. After about 30 minutes, it wasn&amp;rsquo;t really necessary anymore &amp;ndash; the sun burned off the low-hanging clouds.
 I stuck to a very familiar route, since I haven&amp;rsquo;t been on the bike in about a month.</description>
-            <content type="html"><![CDATA[<p>First time back in the saddle after about a month, and it is no longer Panama Jack helmet weather.  Also, when I got started this morning, it was foggy as heck, so I through on an eye-catching vest just for good measure.  After about 30 minutes, it wasn&rsquo;t really necessary anymore &ndash; the sun burned off the low-hanging clouds.</p>
-<p>I stuck to a very familiar route, since I haven&rsquo;t been on the bike in about a month.  I&rsquo;d planned to extend it into Stadtamhof or the Oberer Wöhrd, but when I got to Großprüfening my quads were aching, and so I cut it short.  Almost the exact same distance as my previous ride, so that&rsquo;s good, I guess.</p>
-<p>The snaps!</p>
-<p><img src="/IMG_20201018_095544954_BURST000_COVER_TOP_s.jpg" alt=""><br>
-<img src="/IMG_20201018_112038600_s.jpg" alt=""><br>
-<img src="/IMG_20201018_112715297_s.jpg" alt=""><br>
-<img src="/IMG_20201018_112720921_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20201018_114930914_s.jpg" alt=""><br>
-<img src="/IMG_20201018_115004418_s.jpg" alt=""><br>
-<img src="/IMG_20201018_121327284_s.jpg" alt=""><br>
-<img src="/IMG_20201018_121723715_s.jpg" alt=""></p>
-<p>Route:</p>
-<p><a href="/20201018.jpg"><img src="/20201018.jpg" alt=""></a></p>
-<pre><code>Distance:  34.9 km 
-Time:  2:24 
-Calories:  1752
-Calories from fat:  15% 
-Average Heart Rate:  137 
-Maximum Heart Rate:  163
-Fat Burn:  0:10
-Fitness:   2:14
-Weight:  not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Mornin&#39;, punkins!</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20200920-mornin-punkins/</link>
-            <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20200920-mornin-punkins/</guid>
-            <description>No denying it &amp;ndash; autumn is here, at least a day or two early. You can see it in the produce.
+    </item>
+    
+    <item>
+      <title>Mornin&#39;, punkins!</title>
+      <link>http://example.org/posts/bikerides/20200920-mornin-punkins/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20200920-mornin-punkins/</guid>
+      <description>No denying it &amp;ndash; autumn is here, at least a day or two early. You can see it in the produce.
 I had mapped out a nice route of nearly exactly 50 km, heading south on our street to Oberhinkofen, and then turning west towards Teugn to come up into Bad Abbach from the south, but &amp;hellip; something was amiss in the state of Denmark, if you know what I mean, and given that it was a Sunday morning before 9:00, and nothing was going to be open, I opted to head into Bad Abbach from the east and headed home from there.</description>
-            <content type="html"><![CDATA[<p>No denying it &ndash; autumn is here, at least a day or two early.  You can see it in the produce.</p>
-<p>I had mapped out a nice route of nearly exactly 50 km, heading south on our street to Oberhinkofen, and then turning west towards Teugn to come up into Bad Abbach from the south, but &hellip; <em>something was amiss in the state of Denmark,</em> if you know what I mean, and given that it was a Sunday morning before 9:00, and <em>nothing</em> was going to be open, I opted to head into Bad Abbach from the east and headed home from there.  Still turned out to be almost 35 km, and I&rsquo;m fine with that.</p>
-<p>The snaps!</p>
-<p>There were three or four patches like this along my route.<br>
-<img src="/IMG_20200920_083545310_s.jpg" alt=""></p>
-<p>Someday I&rsquo;d like to stop at either of these restaurants / <em>Biergarten</em> and see how those places are.  Can anyone vouch for them?  Get in touch with me, please.  Gaststätte Vocht (an Asian restaurant):
-<img src="/IMG_20200920_092044915_s.jpg" alt=""></p>
-<p>Brauerei Gasthof Berghammer:<br>
-<img src="/IMG_20200920_092238033_s.jpg" alt=""></p>
-<p>These sheep didn&rsquo;t seem to mind the weather, but I kinda did.  I was a little cold for the first time since, like, March!
-<img src="/IMG_20200920_094721837_BURST000_COVER_TOP_s.jpg" alt=""></p>
-<p>Route:</p>
-<p><a href="/20200920.jpg"><img src="/20200920.jpg" alt=""></a></p>
-<pre><code>Distance:  34.7 km 
-Time:  2:00 
-Calories:  1160
-Calories from fat:  25% 
-Average Heart Rate:  121 
-Maximum Heart Rate:  150
-Fat Burn:  0:40
-Fitness:   1:20
-Weight:  not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Secret Flugplatz!</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20200913-secret-flugplatz/</link>
-            <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20200913-secret-flugplatz/</guid>
-            <description>Well, secret to me, anyways. I didn&amp;rsquo;t know it was there. I woke up just before 6, got my coffee on, and was out on the road at 7:45. I&amp;rsquo;ve started a couple bikerides this year intending to make it all the way to Kallmünz. Today was another of those that fell short. Not that the ride wasn&amp;rsquo;t fulfilling. I didn&amp;rsquo;t know there was a Flugplatz in Oberhub, so I detoured even more up a hill to check it out.</description>
-            <content type="html"><![CDATA[<p>Well, secret to me, anyways.  I didn&rsquo;t know it was there.  I woke up just before 6, got my coffee on, and was out on the road at 7:45.  I&rsquo;ve started a couple bikerides this year intending to make it all the way to Kallmünz.  Today was another of those that fell short.  Not that the ride wasn&rsquo;t fulfilling.  I didn&rsquo;t know there was a <em>Flugplatz</em> in Oberhub, so I detoured even more up a hill to check it out.  It was apparently active, because a half an hour while taking a water break on top of another hill several kilometers away I saw a plane take off from it.</p>
-<p>That <em>Flugplatz</em> distracted me from my original route and I continued on to Schnepfenberg instead of bearing northwest towards Oberhub and, ultimately Kallmünz.  I turned south at Buchenlohe, cruised through Hohenwarth, and then tried a shortcut through a forest west of Steinsberg.  Not a good idea.  I backtracked and finally came back down onto paved roads for the rest of the trip.  Note well:  I hit 54 km/h on the hill headed south out of the <em>Schwaighauser Forst</em> on R15 towards Kaulhausen!</p>
-<p>The snaps!</p>
-<p>It was cool this morning and I was happy to get into the sun.<br>
-<img src="/IMG_20200913_083708161_s.jpg" alt=""></p>
-<p>Most of the climb on the first half of the trip was fairly gentle.<br>
-<img src="/IMG_20200913_083920777_s.jpg" alt=""></p>
-<p><em>Flugplatz?</em>  Baroo?<br>
-<img src="/IMG_20200913_084756762_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20200913_084502542_HDR_s.jpg" alt=""></p>
-<p>Then a whole lotta farmland after missing my turn towards Kallmünz.
-<img src="/IMG_20200913_084856682_s.jpg" alt=""><br>
-<img src="/IMG_20200913_090252177_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20200913_090935841_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20200913_091235947_BURST000_COVER_TOP_s.jpg" alt=""><br>
-<img src="/IMG_20200913_092331750_s.jpg" alt=""></p>
-<p>Tried to short-cut it through some woods.  Bad idea.  Had to backtrack.  Did not escape fully unscathed.<br>
-<img src="/IMG_20200913_092837441_s.jpg" alt=""><br>
-<img src="/IMG_20200913_102103359_s.jpg" alt=""></p>
-<p>But that did not dampen my spirits.<br>
-<img src="/IMG_20200913_095900782_BURST000_COVER_TOP_s.jpg" alt=""><br>
-<img src="/IMG_20200913_095912122_BURST000_COVER_TOP_s.jpg" alt=""><br>
-<img src="/IMG_20200913_100254295_s.jpg" alt=""></p>
-<p><img src="/IMG_20200913_101837241_s.jpg" alt=""><br>
-<img src="/IMG_20200913_101843844_s.jpg" alt=""><br>
-<img src="/IMG_20200913_101901704_s.jpg" alt=""></p>
-<p>And when I got back into town, I saw that tour groups are running again, to my surprise.  Lots of chin-masking there.  They looked like river cruisers, but there were no ships in port that I saw, so I wonder if that was a bus group.
-<img src="/IMG_20200913_105154107_s.jpg" alt=""></p>
-<p>Route:</p>
-<p><a href="/20200913.jpg"><img src="/20200913.jpg" alt=""></a></p>
-<pre><code>Distance:  41.9 km 
-Time:  2:32 
-Calories:  1742
-Calories from fat:  17% 
-Average Heart Rate:  132 
-Maximum Heart Rate:  166
-Fat Burn:  0:15
-Fitness:   2:17
-Weight:  not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>To Prösslbräu, Matting, and Back</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20200906-proesslbraeu-matting-and-back/</link>
-            <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20200906-proesslbraeu-matting-and-back/</guid>
-            <description>It&amp;rsquo;s been a couple weeks (weather and general life happening), but the weather was supposed to be great today (and it was), so I wanted to take advantage of it. A couple weekends ago our pal Special K came up to visit and brought her bike. That Saturday it rained like God had decided on a Do-Over, but there was a pottery market happening at Kloster Adlersberg. I thought that would be a nice bike destination under decent weather conditions, and I was right.</description>
-            <content type="html"><![CDATA[<p>It&rsquo;s been a couple weeks (weather and general life happening), but the weather was supposed to be great today (and it was), so I wanted to take advantage of it.  A couple weekends ago our pal <em>Special K</em> came up to visit and brought her bike.  That Saturday it rained like God had decided on a Do-Over, but there was a pottery market happening at Kloster Adlersberg.  I thought that would be a nice bike destination under decent weather conditions, and I was right.</p>
-<p>The snaps:</p>
-<p>The <em>Eiserner Brücke</em> has been temporarily renamed after Michael Buschheuer, the founder of the <a href="https://sea-eye.org/">Sea-Eye</a> Mediterranean rescue organization HQ&rsquo;d in Regensburg:<br>
-<img src="/IMG_20200906_083409979_s.jpg" alt=""></p>
-<p>The Danube was very peaceful this morning before 9:00 a.m.<br>
-<img src="/IMG_20200906_084705973_HDR_s.jpg" alt=""></p>
-<p>I turned north about 3/4 of the way to Mariaort and headed towards Adlersberg.<br>
-<img src="/IMG_20200906_090130719_s.jpg" alt="">
-<img src="/IMG_20200906_090323577_s.jpg" alt=""></p>
-<p>Honestly I could have gone for a beer and a plate of cheese and a few sausages right then upon arrival, and they looked ready for me, but not a creature was stirring.<br>
-<img src="/IMG_20200906_090825758_s.jpg" alt=""></p>
-<p>So I admired the view and the ride down into the valley.<br>
-<img src="/IMG_20200906_091221701_HDR_s.jpg" alt="">
-<img src="/IMG_20200906_091920677_HDR_s.jpg" alt="">
-<img src="/IMG_20200906_092140868_HDR_s.jpg" alt=""></p>
-<p>I took a break at the Naab and watched a rowing crew obey the sing-songy stroke orders through a megaphone as they propelled themselves upstream.<br>
-<img src="/IMG_20200906_093718880_s.jpg" alt=""></p>
-<p>I continued along the train tracks, crossing the Danube too, and made my way south towards Matting.  I realized I missed my turn-off at Unterirading and tried to short-cut my way through the woods.  That did not work so well and I wore myself out getting up the hill on the off-road paths.  I had to push my bike for a few hundred meters until I got back onto a gravel-paved path and continued toward Niedergebraching, and my old arch-enemy Großberg.  This time I made it all the way up to the top of Großberg without stopping, but it was a slog.  At least everything from Ziegetsdorf back home was an easy coast.</p>
-<p><img src="/IMG_20200906_095831251_s.jpg" alt="">
-<img src="/IMG_20200906_101149899_s.jpg" alt=""></p>
-<p>I especially liked the irony of the half-torn off &ldquo;stickers forbidden&rdquo; sticker on the post with all the other stickers on it.<br>
-<img src="/IMG_20200906_113524324_s.jpg" alt=""></p>
-<p>Route:</p>
-<p><a href="/20200906.jpg"><img src="/20200906.jpg" alt=""></a></p>
-<pre><code>Distance:  39.1 km 
-Time:  3:00 
-Calories:  2046
-Calories from fat:  18% 
-Average Heart Rate:  132 
-Maximum Heart Rate:  172
-Fat Burn:  0:25
-Fitness:   2:35
-Weight:  not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Loch LMAO</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20200816-loch-ellmau/</link>
-            <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20200816-loch-ellmau/</guid>
-            <description>After last week&amp;rsquo;s 60+km record breaker, I toned it back down again to 50ish today. I thought I would treat myself to some nice flat stretches along a river for the last leg. I am not so sure that is the right approach; &amp;ldquo;mostly flat&amp;rdquo; is &amp;ldquo;partly hilly&amp;rdquo; and even where truly flat, I was tired of being in the saddle, and mad at friction for forcing me to keep pedaling.</description>
-            <content type="html"><![CDATA[<p>After last week&rsquo;s 60+km record breaker, I toned it back down again to 50ish today.  I thought I would treat myself to some nice flat stretches along a river for the last leg.  I am not so sure that is the right approach; &ldquo;mostly flat&rdquo; is &ldquo;partly hilly&rdquo; and even where truly flat, I was tired of being in the saddle, and mad at friction for forcing me to keep pedaling.</p>
-<p>I went north and west in a counter-clockwise loop to some places with goofy-sounding names:</p>
-<ul>
-<li>Oberschlag (reminds of <em>Schlagobers</em> in Austrian hot chocolate contexts)</li>
-<li>Ellmau (made me <em>L</em>augh <em>M</em>y <em>A</em>ss <em>O</em>ff)</li>
-<li>Loch (&ldquo;hole&rdquo;!?)</li>
-</ul>
-<p>Notes:</p>
-<ul>
-<li>GPS didn&rsquo;t start tracking my progress until I was already across the Donau for some damn reason</li>
-<li>5 storks in one field (at least one was a youngster and harder to see)!</li>
-<li>More river sportos out there today (we are still deep in the <em>Sommerferien</em> after all):  paddleboards, personal watercraft, fishing huts</li>
-<li>Along the Naab, south of Pielenhofen, maybe around Distelhausen there were a bunch of very non-typical German-looking houses.  The kind I rather would have expected in the fancier neighborhoods of KCMO.  Weird.</li>
-<li>I rather enjoyed the 4 km downhill stretch from Trischlberg towards Heitzenhofen.</li>
-<li>Around Duggendorf I took a little break and accidentally stopped counting my calories and exertion times.</li>
-</ul>
-<p>The snaps:</p>
-<p><img src="/IMG_20200816_082100621_s.jpg" alt="">
-<img src="/IMG_20200816_083555557_s.jpg" alt="">
-<img src="/IMG_20200816_084831966_s.jpg" alt="">
-<img src="/IMG_20200816_090004244_s.jpg" alt="">
-<img src="/IMG_20200816_091251319_s.jpg" alt="">
-<img src="/IMG_20200816_092430384_HDR_s.jpg" alt="">
-<img src="/IMG_20200816_095912404_s.jpg" alt="">
-<img src="/IMG_20200816_100314283_s.jpg" alt="">
-<img src="/IMG_20200816_100535156_s.jpg" alt=""></p>
-<p>Route:</p>
-<p><a href="/2020-08-16.jpg"><img src="/2020-08-16.jpg" alt=""></a></p>
-<pre><code>Distance:  &gt;= 50 km 
-Time:  1:50 + 1:18
-Calories:  951 +  794
-Calories from fat:  31%, 25% 
-Average Heart Rate:  115, 124 
-Maximum Heart Rate:  141, 144
-Fat Burn:  1:07 + 17 
-Fitness:   0:43 + 1:01
-Weight:  not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Was it Wörth it?</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20200809_was-it-woerth-it/</link>
-            <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20200809_was-it-woerth-it/</guid>
-            <description>I was pretty sure I don&amp;rsquo;t like rides over 50 km in length. Walking the next day is a real pain. But those 50ish km rides have all been with a mixture of terrain. So I thought I would try a longer — but flatter — ride along the Danube today. I rode from our house to Wörth an der Donau and back.
+    </item>
+    
+    <item>
+      <title>Secret Flugplatz!</title>
+      <link>http://example.org/posts/bikerides/20200913-secret-flugplatz/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20200913-secret-flugplatz/</guid>
+      <description>Well, secret to me, anyways. I didn&amp;rsquo;t know it was there. I woke up just before 6, got my coffee on, and was out on the road at 7:45. I&amp;rsquo;ve started a couple bikerides this year intending to make it all the way to Kallmünz. Today was another of those that fell short. Not that the ride wasn&amp;rsquo;t fulfilling. I didn&amp;rsquo;t know there was a Flugplatz in Oberhub, so I detoured even more up a hill to check it out.</description>
+    </item>
+    
+    <item>
+      <title>To Prösslbräu, Matting, and Back</title>
+      <link>http://example.org/posts/bikerides/20200906-proesslbraeu-matting-and-back/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20200906-proesslbraeu-matting-and-back/</guid>
+      <description>It&amp;rsquo;s been a couple weeks (weather and general life happening), but the weather was supposed to be great today (and it was), so I wanted to take advantage of it. A couple weekends ago our pal Special K came up to visit and brought her bike. That Saturday it rained like God had decided on a Do-Over, but there was a pottery market happening at Kloster Adlersberg. I thought that would be a nice bike destination under decent weather conditions, and I was right.</description>
+    </item>
+    
+    <item>
+      <title>Loch LMAO</title>
+      <link>http://example.org/posts/bikerides/20200816-loch-ellmau/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20200816-loch-ellmau/</guid>
+      <description>After last week&amp;rsquo;s 60+km record breaker, I toned it back down again to 50ish today. I thought I would treat myself to some nice flat stretches along a river for the last leg. I am not so sure that is the right approach; &amp;ldquo;mostly flat&amp;rdquo; is &amp;ldquo;partly hilly&amp;rdquo; and even where truly flat, I was tired of being in the saddle, and mad at friction for forcing me to keep pedaling.</description>
+    </item>
+    
+    <item>
+      <title>Was it Wörth it?</title>
+      <link>http://example.org/posts/bikerides/20200809_was-it-woerth-it/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20200809_was-it-woerth-it/</guid>
+      <description>I was pretty sure I don&amp;rsquo;t like rides over 50 km in length. Walking the next day is a real pain. But those 50ish km rides have all been with a mixture of terrain. So I thought I would try a longer — but flatter — ride along the Danube today. I rode from our house to Wörth an der Donau and back.
 Guess what? The knees are a little better off for it, but DA BUTT is not.</description>
-            <content type="html"><![CDATA[<p>I was pretty sure I don&rsquo;t like rides over 50 km in length.  Walking the next day is a real pain.  But those 50ish km rides have all been with a mixture of terrain.  So I thought I would try a longer — but <em>flatter</em> — ride along the Danube today.  I rode from our house to Wörth an der Donau and back.</p>
-<p>Guess what?  The knees are a little better off for it, but DA BUTT is not.  Ow.  50 hilly kilometers is for sure my knees' limit, but also the hind parts begin to howl around then, no matter the elevation.</p>
-<p>Notes:</p>
-<ul>
-<li>Lots of river sportos out there today:  paddleboards, personal watercraft, fishing huts</li>
-<li>Wörth an der Donau is a cute little town that might warrant a closer look sometime</li>
-<li>I suprised a baby deer among the corn rows</li>
-<li>I crossed the river more times than I intended, but according to OsmAnd, that was the quickest route back from Pfatter/Geisling</li>
-</ul>
-<p>The snaps (not necessarily in chronological order):</p>
-<p><img src="/IMG_20200809_094948240_s.jpg" alt="">
-<img src="/IMG_20200809_091117131_s.jpg" alt="">
-<img src="/IMG_20200809_091702468_s.jpg" alt="">
-<img src="/IMG_20200809_093328301_s.jpg" alt="">
-<img src="/IMG_20200809_093430841_s.jpg" alt="">
-<img src="/IMG_20200809_094453028_s.jpg" alt="">
-<img src="/IMG_20200809_095131365_s.jpg" alt="">
-<img src="/IMG_20200809_095539466_s.jpg" alt="">
-<img src="/IMG_20200809_100105643_s.jpg" alt="">
-<img src="/IMG_20200809_102035328_s.jpg" alt="">
-<img src="/IMG_20200809_103928875_s.jpg" alt="">
-<img src="/IMG_20200809_110554566_s.jpg" alt="">
-<img src="/IMG_20200809_110838665_s.jpg" alt="">
-<img src="/IMG_20200809_111354643_s.jpg" alt="">
-<img src="/IMG_20200809_112713494_s.jpg" alt="">
-<img src="/IMG_20200809_100805355_s.jpg" alt=""></p>
-<p>Route:</p>
-<p><a href="/2020-08-09.jpg"><img src="/2020-08-09.jpg" alt=""></a></p>
-<pre><code>Distance:  62.9 km
-Time:  3:32
-Calories:  2262 
-Calories from fat:  20%
-Average Heart Rate:  127
-Maximum Heart Rate:  156
-Fat Burn:  0:39 
-Fitness:   2:53
-Weight:  not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Dog Scared Me Off</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20200726-dog-scared-me-off/</link>
-            <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20200726-dog-scared-me-off/</guid>
-            <description>I&amp;rsquo;ve been doing my rides mostly on the weekends, since Kurzarbeit is over for me now. I&amp;rsquo;ve been lazy about posting them, but less lazy about actually doing them. So that&amp;rsquo;s good.
+    </item>
+    
+    <item>
+      <title>Dog Scared Me Off</title>
+      <link>http://example.org/posts/bikerides/20200726-dog-scared-me-off/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20200726-dog-scared-me-off/</guid>
+      <description>I&amp;rsquo;ve been doing my rides mostly on the weekends, since Kurzarbeit is over for me now. I&amp;rsquo;ve been lazy about posting them, but less lazy about actually doing them. So that&amp;rsquo;s good.
 In my last post, I picked GraphHopper.com as a mapping service, but I&amp;rsquo;m wary of it now. This time it routed me through a farm at the top of a long, slow hill at Aignhof&amp;hellip; and a Rottweiler-looking dog was quite angry at my presence.</description>
-            <content type="html"><![CDATA[<p>I&rsquo;ve been doing my rides mostly on the weekends, since <em>Kurzarbeit</em> is over for me now.  I&rsquo;ve been lazy about posting them, but less lazy about actually doing them.  So that&rsquo;s good.</p>
-<p>In my last post, I picked GraphHopper.com as a mapping service, but I&rsquo;m wary of it now.  This time it routed me through a farm at the top of a long, slow hill at Aignhof&hellip; and a Rottweiler-looking dog was quite angry at my presence.  I high-tailed it back down the hill, with the dog loudly baring teeth at calf-height and decided to try to get around the hill, and the farm, through a different <em>Dorf</em> past a <em>Ponyhof</em> to get back to my original route.  Well, guess what?  That also led to Mr. Choppers.  But this time there was a sign.</p>
-<p><img src="/warnung_bissiger_hund.jpg" alt=""></p>
-<p>At that point, I cut my route short, from the original 50 km down to a little over 30.  There were a lot more hills in the mix this time, so I didn&rsquo;t mind heading home early at all.</p>
-<p>Notes:</p>
-<ul>
-<li>Tremmelhauserhöhe looks like a lovely place for a walk</li>
-<li>Think real hard about bike routes suggested by GraphHopper.com and maybe have an alternative plan in mind</li>
-<li>Biding my time with predictions from the <em>RegenRadar</em> worked out great &ndash; missed the morning and afternoon showers</li>
-</ul>
-<p>The snaps:</p>
-<p><img src="/IMG_20200726_115432208_s.jpg" alt=""><br>
-<img src="/IMG_20200726_125551209_s.jpg" alt=""><br>
-<img src="/IMG_20200726_125841043_s.jpg" alt=""><br>
-<img src="/IMG_20200726_125941557_s.jpg" alt=""><br>
-<img src="/IMG_20200726_130118217_s.jpg" alt=""><br>
-<img src="/IMG_20200726_130129476_s.jpg" alt=""><br>
-<img src="/IMG_20200726_130301434_s.jpg" alt=""><br>
-<img src="/IMG_20200726_130307500_BURST000_COVER_TOP_s.jpg" alt=""></p>
-<p>Route:</p>
-<p><a href="/20200726.jpg"><img src="/20200726.jpg" alt=""></a></p>
-<pre><code>Distance:  34.1 km
-Time:  2:11
-Calories:  1603 
-Calories from fat:  16%
-Average Heart Rate:  137
-Maximum Heart Rate:  165
-Fat Burn:  0:16
-Fitness:   1:55
-Weight:  not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Laaber and Back</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20200628-laaber-and-back/</link>
-            <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20200628-laaber-and-back/</guid>
-            <description>Kurzarbeit tomorrow &amp;ndash; presumably the last one for this round of economic crises (or, let&amp;rsquo;s hope so anyways). I had an important week at work last week, so to be there for all of it, I opted to make my last Kurzabeit day of the month the last Monday of the month instead of Friday.
+    </item>
+    
+    <item>
+      <title>Laaber and Back</title>
+      <link>http://example.org/posts/bikerides/20200628-laaber-and-back/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20200628-laaber-and-back/</guid>
+      <description>Kurzarbeit tomorrow &amp;ndash; presumably the last one for this round of economic crises (or, let&amp;rsquo;s hope so anyways). I had an important week at work last week, so to be there for all of it, I opted to make my last Kurzabeit day of the month the last Monday of the month instead of Friday.
 I planned out my route using GraphHopper.com &amp;ndash; first time using that service, but I am sure I&amp;rsquo;ll be back.</description>
-            <content type="html"><![CDATA[<p><em>Kurzarbeit</em> tomorrow &ndash; presumably the last one for this round of economic crises (or, let&rsquo;s hope so anyways).  I had an important week at work last week, so to be there for all of it, I opted to make my last <em>Kurzabeit</em> day of the month the last Monday of the month instead of Friday.</p>
-<p>I planned out my route using GraphHopper.com &ndash; first time using that service, but I am sure I&rsquo;ll be back.  It lets you pick multiple destinations, rearrange their order (similar to that Big Internet Company With a Prominent G&rsquo;s mapping product), but also download that route result as a GPX track.  Which means I could follow that exact route on my bike.</p>
-<p>Notes:</p>
-<ul>
-<li>the 15% grade down the hill towards Pielenhofen is fun</li>
-<li>but pause a moment there (if you can) to take in the Kloster&rsquo;s beauty from up there on the hill</li>
-<li>GET THAT BRAKE MAINTENANCE</li>
-</ul>
-<p>The snaps:</p>
-<p><img src="/IMG_20200628_102531595_s.jpg" alt="">
-<img src="/IMG_20200628_102537454_s.jpg" alt="">
-<img src="/IMG_20200628_102708359_HDR_s.jpg" alt="">
-<img src="/IMG_20200628_102714412_BURST000_COVER_TOP_s.jpg" alt="">
-<img src="/IMG_20200628_102945396_s.jpg" alt="">
-<img src="/IMG_20200628_103040990_s.jpg" alt="">
-<img src="/IMG_20200628_111346550_HDR_s.jpg" alt="">
-<img src="/IMG_20200628_111530633_s.jpg" alt="">
-<img src="/IMG_20200628_111656331_s.jpg" alt=""></p>
-<p>Route:</p>
-<p><a href="/20200628.jpg"><img src="/20200628.jpg" alt=""></a></p>
-<pre><code>Distance:  51.8 km
-Time:  3:39
-Calories:  2616 
-Calories from fat:  15%
-Average Heart Rate:  136
-Maximum Heart Rate:  162
-Fat Burn:  0:16
-Fitness:   3:23
-Weight:  not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Flattening the Curve</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20200529-flattening-the-curve/</link>
-            <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20200529-flattening-the-curve/</guid>
-            <description>Kurzarbeit again today. I decided not to torture myself with a mountainous bike ride, but instead stick to a flat loop out south and east of town. This was along the R7 route recommended by the Landkreis Regensburg.
+    </item>
+    
+    <item>
+      <title>Flattening the Curve</title>
+      <link>http://example.org/posts/bikerides/20200529-flattening-the-curve/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20200529-flattening-the-curve/</guid>
+      <description>Kurzarbeit again today. I decided not to torture myself with a mountainous bike ride, but instead stick to a flat loop out south and east of town. This was along the R7 route recommended by the Landkreis Regensburg.
 The snaps:
 Sarching&amp;rsquo;s amphibious cacophony:
-Your browser does not support the HTML5 Video element.  Route:
+Route:
 I messed up my own GPX track recording on this one, forgetting to separate this track from an aborted one on Wednesday, which explains the teleportation from home to the Ostbahnhof area.</description>
-            <content type="html"><![CDATA[<p><em>Kurzarbeit</em> again today.  I decided not to torture myself with a mountainous bike ride, but instead stick to a flat loop out south and east of town.  This was along the <a href="https://www.landkreis-regensburg.de/freizeit-tourismus/radeln/beschilderte-touren/#/de/landkreis-regensburg/default/detail/Tour/t_2599/radtour-r7-ins-drei-seen-land">R7</a> route recommended by the <em>Landkreis Regensburg</em>.</p>
-<p>The snaps:</p>
-<p><img src="/IMG_20200529_103848433_s.jpg" alt=""><br>
-<img src="/IMG_20200529_104513312_s.jpg" alt=""><br>
-<img src="/IMG_20200529_104615471_s.jpg" alt=""><br>
-<img src="/IMG_20200529_105728970_s.jpg" alt=""><br>
-<img src="/IMG_20200529_111317787_s.jpg" alt=""></p>
-<p>Sarching&rsquo;s amphibious cacophony:</p>
-<video controls="controls" src="/frog_pond.mp4" width="600">
-    Your browser does not support the HTML5 Video element.
-</video>
-<p>Route:</p>
-<p><img src="/20200529.jpg" alt=""></p>
-<p>I messed up my own GPX track recording on this one, forgetting to separate this track from an aborted one on Wednesday, which explains the teleportation from home to the <em>Ostbahnhof</em> area.</p>
-<pre><code>Distance:  about 40 km
-Time:  2:21
-Calories: 1353
-Calories from fat:  29%
-Average Heart Rate:  121
-Maximum Heart Rate:  144
-Fat Burn:  0:31
-Fitness:   1:50 
-Weight:  not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Finally beat that hill!</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20200524-finally-beat-that-hill/</link>
-            <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20200524-finally-beat-that-hill/</guid>
-            <description>Well, sorta. I cheated by telling my GPS to route me only on paved routes, which obviated huffing and puffing up the muddy hill.
+    </item>
+    
+    <item>
+      <title>Finally beat that hill!</title>
+      <link>http://example.org/posts/bikerides/20200524-finally-beat-that-hill/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20200524-finally-beat-that-hill/</guid>
+      <description>Well, sorta. I cheated by telling my GPS to route me only on paved routes, which obviated huffing and puffing up the muddy hill.
 It was not another beautiful day. It started off with ominous clouds, that were true omens, because the hail they pelted me with stung. But at least not for long. By the time I got to my destination (delivering a borrowed item back to its owner), I was dry again and the sun warmed me back up.</description>
-            <content type="html"><![CDATA[<p>Well, sorta.  I cheated by telling my GPS to route me only on paved routes, which obviated huffing and puffing up the muddy hill.</p>
-<p>It was not another beautiful day.  It started off with ominous clouds, that were true omens, because the hail they pelted me with stung.  But at least not for long.  By the time I got to my destination (delivering a borrowed item back to its owner), I was dry again and the sun warmed me back up.</p>
-<p>I actually rode a little further than the route suggests; I forgot to start recording my GPX track until I was already up the hill near Ziegetsdorf.</p>
-<p>More people were out on the path taking advantage of the rain having stopped than I expected.  And I passed a Biergarten (<em>zur Walba</em>, in Unterirading) with <em>Blasmusik</em>.  I was tempted to stop and eat and drink something, but I also wanted to get home.</p>
-<p>The snaps:</p>
-<p><img src="/IMG_20200524_104104562_s.jpg" alt=""><br>
-<img src="/IMG_20200524_115629123_s.jpg" alt=""><br>
-<img src="/IMG_20200524_120330233_s.jpg" alt=""><br>
-<img src="/IMG_20200524_120708517_s.jpg" alt=""><br>
-<img src="/IMG_20200524_121200720_s.jpg" alt=""><br>
-<img src="/IMG_20200524_122236196_s.jpg" alt=""><br>
-<img src="/IMG_20200524_122659482_s.jpg" alt=""></p>
-<p>A couple movies:</p>
-<video controls="controls" src="/grassy.mp4" width="600">
-    Your browser does not support the HTML5 Video element.
-</video>
-<video controls="controls" src="/blassy.mp4" width="400">
-    Your browser does not support the HTML5 Video element.
-</video>
-<p>Route:</p>
-<p><img src="/20200524.jpg" alt=""></p>
-<pre><code>Distance:  31.7 km + 3.5 ≈ 35ish km 
-Time:  2:14
-Calories: 1540
-Calories from fat:  18%
-Average Heart Rate:  133
-Maximum Heart Rate:  162
-Fat Burn:  0:23
-Fitness:   1:51 
-Weight:  not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>It&#39;s right there in the name!</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20200516-its-right-there-in-the-name/</link>
-            <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20200516-its-right-there-in-the-name/</guid>
-            <description>Another beautiful day. I mostly followed the R9 from the Landkreis Regensburg. 1
+    </item>
+    
+    <item>
+      <title>It&#39;s right there in the name!</title>
+      <link>http://example.org/posts/bikerides/20200516-its-right-there-in-the-name/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20200516-its-right-there-in-the-name/</guid>
+      <description>Another beautiful day. I mostly followed the R9 from the Landkreis Regensburg. 1
 I think I need to accept that the difficulty level listed as medium by the Landkreis does not (yet) match up to my expectations for medium. OTOH, I neglected to notice a town called &amp;ldquo;Großberg&amp;rdquo; on the itinerary. Duh!
 I actually rode a little further than the route suggests; I forgot to start recording my GPX track until I was already up the hill at Bajuwarenstraße.</description>
-            <content type="html"><![CDATA[<p>Another beautiful day.  I mostly followed the <a href="https://www.landkreis-regensburg.de/freizeit-tourismus/radeln/beschilderte-touren/#/de/landkreis-regensburg/default/detail/Tour/t_842/radtour-r9-zwischen-donau-und-gaeuboden">R9</a> from the <em>Landkreis Regensburg</em>.  <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
-<p>I think I need to accept that the difficulty level listed as <em>medium</em> by the Landkreis does not (yet) match up to my expectations for <em>medium</em>.  OTOH, I neglected to notice a town called &ldquo;<em>Großberg</em>&rdquo; on the itinerary.  Duh!</p>
-<p>I actually rode a little further than the route suggests; I forgot to start recording my GPX track until I was already up the hill at <em>Bajuwarenstraße</em>.</p>
-<p>The snaps:</p>
-<p><img src="/IMG_20200516_103559476_s.jpg" alt=""><br>
-<img src="/IMG_20200516_103611536_s.jpg" alt=""><br>
-<img src="/IMG_20200516_103753181_s.jpg" alt=""><br>
-<img src="/IMG_20200516_111453536_BURST001_s.jpg" alt=""><br>
-<img src="/IMG_20200516_113014097_s.jpg" alt=""><br>
-<img src="/IMG_20200516_114612420_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20200516_114755141_s.jpg" alt=""><br>
-<img src="/IMG_20200516_114928847_s.jpg" alt=""><br>
-<img src="/IMG_20200516_115014075_BURST000_COVER_TOP_s.jpg" alt=""><br>
-<img src="/IMG_20200516_120116424_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20200516_120355108_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20200516_120452648_s.jpg" alt=""><br>
-<img src="/IMG_20200516_120736428_s.jpg" alt=""><br>
-<img src="/IMG_20200516_122315062_s.jpg" alt=""><br>
-<img src="/IMG_20200516_122319722_s.jpg" alt=""><br>
-<img src="/IMG_20200516_122735539_s.jpg" alt=""><br>
-<img src="/IMG_20200516_125641180_s.jpg" alt=""><br>
-<img src="/IMG_20200516_130120183_HDR_s.jpg" alt=""></p>
-<p>Route:</p>
-<p><a href="/20200516.jpg"><img src="/20200516.jpg" alt=""></a></p>
-<pre><code>Distance:  47.1 km + 2.3 ≈ 49ish km 
-Time:  3:23
-Calories: 2614
-Calories from fat:  15%
-Average Heart Rate:  139
-Maximum Heart Rate:  169
-Fat Burn:  0:204
-Fitness:   3:08 
-Weight:  not weighed
-</code></pre><section class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1" role="doc-endnote">
-<p>Landkreis Regensburg has a <a href="https://www.landkreis-regensburg.de/freizeit-tourismus/radeln/">nice collection of bike routes</a>.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</section>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Kürn Around Bright Eyes</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20200509-kuern-around-bright-eyes/</link>
-            <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20200509-kuern-around-bright-eyes/</guid>
-            <description>Another beautiful day. I mostly followed the Schlössertour from the Landkreis Regensburg. 1
+    </item>
+    
+    <item>
+      <title>Kürn Around Bright Eyes</title>
+      <link>http://example.org/posts/bikerides/20200509-kuern-around-bright-eyes/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20200509-kuern-around-bright-eyes/</guid>
+      <description>Another beautiful day. I mostly followed the Schlössertour from the Landkreis Regensburg. 1
 The first leg was on the west bank of the Regen up to Regenstauf. I&amp;rsquo;d done that before. Very nice and level.
 The new bits started at Ramspau. It got lots more challenging from that point on. I thought it would be done with at Kürn, but nope. The path was sometimes paved, sometimes supposed to be paved, but under construction, and sometimes forest trail.</description>
-            <content type="html"><![CDATA[<p>Another beautiful day.  I mostly followed the <a href="https://www.landkreis-regensburg.de/freizeit-tourismus/radeln/nicht-beschilderte-touren/#/de/landkreis-regensburg/default/detail/Tour/t_100081303/schloessertour-radtour"><em>Schlössertour</em></a> from the <em>Landkreis Regensburg</em>.  <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
-<p>The first leg was on the west bank of the Regen up to Regenstauf.  I&rsquo;d done that before.  Very nice and level.</p>
-<p>The new bits started at Ramspau.  It got lots more challenging from that point on.  I thought it would be done with at Kürn, but nope.  The path was sometimes paved, sometimes supposed to be paved, but under construction, and sometimes forest trail.  Wherever it wasn&rsquo;t paved, there were big potholes to avoid.  My setup has no shock absorbers but the ones built into <em>me</em>, so I swerved a lot to avoid them &ndash; especially on the downhill traily parts.</p>
-<p>The snaps:</p>
-<p><img src="/IMG_20200509_094954091_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20200509_100211305_s.jpg" alt=""><br>
-<img src="/IMG_20200509_100413259_s.jpg" alt=""><br>
-<img src="/IMG_20200509_100522876_s.jpg" alt=""><br>
-<img src="/IMG_20200509_100544070_s.jpg" alt=""><br>
-<img src="/IMG_20200509_101808572_s.jpg" alt=""><br>
-<img src="/IMG_20200509_101836048_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20200509_101852938_s.jpg" alt=""><br>
-<img src="/IMG_20200509_101859002_s.jpg" alt=""><br>
-<img src="/IMG_20200509_102327882_s.jpg" alt=""><br>
-<img src="/IMG_20200509_102816777_s.jpg" alt=""><br>
-<img src="/IMG_20200509_102847957_s.jpg" alt=""><br>
-<img src="/IMG_20200509_103112043_s.jpg" alt=""><br>
-<img src="/IMG_20200509_103139274_s.jpg" alt=""><br>
-<img src="/IMG_20200509_103200517_s.jpg" alt=""><br>
-<img src="/IMG_20200509_103308285_s.jpg" alt=""><br>
-<img src="/IMG_20200509_103347814_s.jpg" alt=""><br>
-<img src="/IMG_20200509_111658240_BURST001_s.jpg" alt=""><br>
-<img src="/IMG_20200509_111721571_s.jpg" alt=""><br>
-<img src="/IMG_20200509_112341692_s.jpg" alt=""><br>
-<img src="/IMG_20200509_112351221_s.jpg" alt=""><br>
-<img src="/IMG_20200509_113049712_s.jpg" alt=""><br>
-<img src="/IMG_20200509_114411724_s.jpg" alt=""><br>
-<img src="/IMG_20200509_114607327_s.jpg" alt=""><br>
-<img src="/IMG_20200509_115016048_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20200509_115800970_s.jpg" alt=""><br>
-<img src="/IMG_20200509_120006841_s.jpg" alt=""></p>
-<p>Route:</p>
-<p><a href="/20200509.jpg"><img src="/20200509.jpg" alt=""></a></p>
-<pre><code>Distance:  49.6 km
-Time:  3:23
-Calories: 2412
-Calories from fat:  15%
-Average Heart Rate:  135
-Maximum Heart Rate:  166
-Fat Burn:  0:14
-Fitness:   3:10 
-Weight:  not weighed
-</code></pre><section class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1" role="doc-endnote">
-<p>Landkreis Regensburg has a <a href="https://www.landkreis-regensburg.de/freizeit-tourismus/radeln/">nice collection of bike routes</a>.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</section>
-]]></content>
-        </item>
-        
-        <item>
-            <title>to Wolfsegg and Back</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20200504-to-wolfsegg-and-back/</link>
-            <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20200504-to-wolfsegg-and-back/</guid>
-            <description>Another beautiful day. At least at the start of it — the clouds rolled in towards the end of my ride.
+    </item>
+    
+    <item>
+      <title>to Wolfsegg and Back</title>
+      <link>http://example.org/posts/bikerides/20200504-to-wolfsegg-and-back/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20200504-to-wolfsegg-and-back/</guid>
+      <description>Another beautiful day. At least at the start of it — the clouds rolled in towards the end of my ride.
 The rivery parts along the Naab all the way up to Pielenhofen and the monastery on the river were nice and gentle. I took a little water and banana break there. But that&amp;rsquo;s where it started to get demanding. Just outside of Wall I thought to myself
  This is an appropriately-named hamlet.</description>
-            <content type="html"><![CDATA[<p>Another beautiful day.  At least at the start of it — the clouds rolled in towards the end of my ride.</p>
-<p>The rivery parts along the Naab all the way up to Pielenhofen and the monastery on the river were nice and gentle.  I took a little water and banana break there.  But that&rsquo;s where it started to get demanding.  Just outside of Wall I thought to myself</p>
-<blockquote>
-<p>This is an appropriately-named hamlet.</p>
-</blockquote>
-<p>The woodsy bits were not as challenging as I had feared, but the warning about caterpillars did put me off a bit.  I had to dodge a logging operation that took up the whole road, and around Adlersberg I had to deviate from the planned route <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> due to construction.</p>
-<p>But it all worked out.</p>
-<p>The snaps:</p>
-<p><img src="/IMG_20200504_085423704_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20200504_085517013_s.jpg" alt=""><br>
-<img src="/IMG_20200504_085823720_s.jpg" alt=""><br>
-<img src="/IMG_20200504_091354780_s.jpg" alt=""><br>
-<img src="/IMG_20200504_092111364_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20200504_092227775_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20200504_092730101_s.jpg" alt=""><br>
-<img src="/IMG_20200504_092836612_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20200504_094707540_s.jpg" alt=""><br>
-<img src="/IMG_20200504_101839653_s.jpg" alt=""><br>
-<img src="/IMG_20200504_102736174_s.jpg" alt=""><br>
-<img src="/IMG_20200504_102744369_BURST000_COVER_TOP_s.jpg" alt=""><br>
-<img src="/IMG_20200504_103118950_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20200504_104215718_s.jpg" alt=""><br>
-<img src="/IMG_20200504_104658960_s.jpg" alt=""><br>
-<img src="/IMG_20200504_104704559_s.jpg" alt=""><br>
-<img src="/IMG_20200504_110706400_s.jpg" alt=""><br>
-<img src="/IMG_20200504_113335588_s.jpg" alt=""><br>
-<img src="/IMG_20200504_113344044_s.jpg" alt=""><br>
-<img src="/IMG_20200504_113421754_BURST000_COVER_TOP_s.jpg" alt=""></p>
-<p>Route:</p>
-<p><a href="/20200504.jpg"><img src="/20200504.jpg" alt=""></a></p>
-<pre><code>Distance:  48.8 km
-Time:  3:34
-Calories: 2257
-Calories from fat:  21%
-Average Heart Rate:  127
-Maximum Heart Rate:  164
-Fat Burn:  1:09
-Fitness:   2:25 
-Weight:  not weighed
-</code></pre><section class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1" role="doc-endnote">
-<p>Landkreis Regensburg has a <a href="https://www.landkreis-regensburg.de/freizeit-tourismus/radeln/">nice collection of bike routes</a>. This one was <a href="https://www.landkreis-regensburg.de/freizeit-tourismus/radeln/nicht-beschilderte-touren/#/de/landkreis-regensburg/default/detail/Tour/t_100053843/besuch-bei-der-weissen-frau-rundtour">&ldquo;Besuch bei der Weißen Frau&rdquo;</a> — mostly.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</section>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Running up that hill...towards Bad Abbach again</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20200501-runnin-up-that-hill/</link>
-            <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20200501-runnin-up-that-hill/</guid>
-            <description>It started out another beautiful day. Didn&amp;rsquo;t stick. Thought I&amp;rsquo;d conquer that hill through the woods outside Leoprechting. Nope! Had to push my bike for a lot of it. At least partly that&amp;rsquo;s because the dirt track had turned into mud and a tractor chewed it up real good 5 minutes before me.
+    </item>
+    
+    <item>
+      <title>Running up that hill...towards Bad Abbach again</title>
+      <link>http://example.org/posts/bikerides/20200501-runnin-up-that-hill/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20200501-runnin-up-that-hill/</guid>
+      <description>It started out another beautiful day. Didn&amp;rsquo;t stick. Thought I&amp;rsquo;d conquer that hill through the woods outside Leoprechting. Nope! Had to push my bike for a lot of it. At least partly that&amp;rsquo;s because the dirt track had turned into mud and a tractor chewed it up real good 5 minutes before me.
 I rode past the Continental Arena and then through a field (didn&amp;rsquo;t like that so much; felt like trespassing), towards Leoprechting, onto Niedergebraching 1, and the clouds were ominous.</description>
-            <content type="html"><![CDATA[<p>It started out another beautiful day.  Didn&rsquo;t stick.  Thought I&rsquo;d conquer that hill through the woods outside Leoprechting.  Nope!  Had to push my bike for a lot of it.  At least partly that&rsquo;s because the dirt track had turned into mud and a tractor chewed it up real good 5 minutes before me.</p>
-<p>I rode past the <del>Continental</del> Arena and then through a field (didn&rsquo;t like that so much; felt like trespassing), towards Leoprechting, onto Niedergebraching <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>, and the clouds were ominous.  I thought I would be lucky and my route would take me around the edge of the rainy patch of sky.  When I finally reached the outskirts of Bad Abbach, I got rained on pretty good there, so I ducked into a parking shelter and waited out the worst of it.</p>
-<p>I hauled ass on the way back because I was cold and wet.  By the time I got home, I was dry, but still cold.  I fell asleep in the tub.</p>
-<p>Snaps:</p>
-<p><img src="/IMG_20200501_134623400_BURST000_COVER_TOP_s.jpg" alt=""><br>
-<img src="/IMG_20200501_135854537_s.jpg" alt=""><br>
-<img src="/IMG_20200501_135903262_s.jpg" alt=""><br>
-<img src="/IMG_20200501_142527608_s.jpg" alt=""><br>
-<img src="/IMG_20200501_142537534_s.jpg" alt=""><br>
-<img src="/IMG_20200501_142738113_s.jpg" alt=""><br>
-<img src="/IMG_20200501_142742220_s.jpg" alt=""></p>
-<p>Route:</p>
-<p><a href="/20200501.jpg"><img src="/20200501.jpg" alt=""></a></p>
-<pre><code>Distance:  34.9 km
-Time:  2:25 
-Calories:  1895
-Calories from fat:  17%
-Average Heart Rate:  133
-Maximum Heart Rate: 173
-Fat Burn:  0:26 
-Fitness:   2:18 
-Weight:  not weighed
-</code></pre><section class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1" role="doc-endnote">
-<p>The ladies on horses loved how well my shirt matched the rapeseed blooming behind me.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</section>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Bernhardswald Loop</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20200428-berhardswald-loop/</link>
-            <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20200428-berhardswald-loop/</guid>
-            <description>Another beautiful day.
+    </item>
+    
+    <item>
+      <title>Bernhardswald Loop</title>
+      <link>http://example.org/posts/bikerides/20200428-berhardswald-loop/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20200428-berhardswald-loop/</guid>
+      <description>Another beautiful day.
 I thought by doing another few dozen kilometers today after just doing it on Sunday I would feel less sore, and build up some butt callouses.
 Nope! But it was a nice ride anyways. The part of the Regensburg-Falkenstein bike route on an old train track was great and deserves more attention. The bit through the Kreuther Forst was a bit much going up, but coming down above the Donaustauf Klinik was nice.</description>
-            <content type="html"><![CDATA[<p>Another beautiful day.</p>
-<p>I thought by doing another few dozen kilometers today after just doing it on Sunday I would feel less sore, and build up some butt callouses.</p>
-<p>Nope!  But it was a nice ride anyways.  The part of the Regensburg-Falkenstein bike route on an old train track was great and deserves more attention.  The bit through the <em>Kreuther Forst</em> was a bit much going up, but coming down above the <em>Donaustauf Klinik</em> was nice.</p>
-<p><img src="/IMG_20200428_074016074_s.jpg" alt=""><br>
-<img src="/IMG_20200428_074022569_s.jpg" alt=""><br>
-<img src="/IMG_20200428_075330652_s.jpg" alt=""><br>
-<img src="/IMG_20200428_075713335_s.jpg" alt=""><br>
-<img src="/IMG_20200428_075755159_HDR_s.jpg" alt=""><br>
-<img src="/IMG_20200428_080626033_s.jpg" alt=""><br>
-<img src="/IMG_20200428_084455561_s.jpg" alt=""><br>
-<img src="/IMG_20200428_085812017_BURST000_COVER_TOP_s.jpg" alt=""><br>
-<img src="/IMG_20200428_092942296_s.jpg" alt=""><br>
-<img src="/IMG_20200428_094745586_s.jpg" alt=""></p>
-<p>Route:</p>
-<p><a href="/20200428.jpg"><img src="/20200428.jpg" alt=""></a></p>
-<pre><code>Distance:  40.6km
-Time:  2:55 
-Calories:  1874
-Calories from fat:  23%
-Average Heart Rate:  124
-Maximum Heart Rate: 157
-Fat Burn:  1:00 
-Fitness:   2:55 
-Weight:  not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Pfatter, Not Fatter</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20200426-pfatter-not-fatter/</link>
-            <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20200426-pfatter-not-fatter/</guid>
-            <description>Another beautiful day.
+    </item>
+    
+    <item>
+      <title>Pfatter, Not Fatter</title>
+      <link>http://example.org/posts/bikerides/20200426-pfatter-not-fatter/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20200426-pfatter-not-fatter/</guid>
+      <description>Another beautiful day.
 I&amp;rsquo;ve seen the Donau Radweg route signs for 16 years, but I never followed them outside of town.
 I rode towards work, took the Osttangente / Odessaring bridge to the baseball stadium, started tracing the Danube right away. But it didn&amp;rsquo;t last too long, jutting south of Tegernheim and catching back up to the river bank about two thirds of the way to Donaustauf.
 About half way through, my butt started hurting, so I took an inland shortcut instead of following the last Danube curve towards the bridge outside Pfatter, and then opted for the straighter inland route back into Regensburg, past IKEA and work again.</description>
-            <content type="html"><![CDATA[<p>Another beautiful day.</p>
-<p>I&rsquo;ve seen the <em>Donau Radweg</em> route signs for 16 years, but I never followed them outside of town.</p>
-<p>I rode towards work, took the <em>Osttangente</em> / <em>Odessaring</em> bridge to the baseball stadium, started tracing the Danube right away.  But it didn&rsquo;t last too long, jutting south of Tegernheim and catching back up to the river bank about two thirds of the way to Donaustauf.</p>
-<p>About half way through, my butt started hurting, so I took an inland shortcut instead of following the last Danube curve towards the bridge outside Pfatter, and then opted for the straighter inland route back into Regensburg, past IKEA and work again.</p>
-<p>Wonder when that&rsquo;ll be my destination again&hellip;</p>
-<p><img src="/IMG_7510.JPG" alt=""><br>
-<img src="/IMG_7511.JPG" alt=""><br>
-<img src="/IMG_7512.JPG" alt=""><br>
-<img src="/IMG_7513.JPG" alt=""><br>
-<img src="/IMG_7514.JPG" alt="">
-<img src="/IMG_7515.JPG" alt=""></p>
-<p>Route:</p>
-<p><a href="/20200426.jpg"><img src="/20200426.jpg" alt=""></a></p>
-<pre><code>Distance:  48.6km
-Time:  2:47 
-Calories:  1773
-Calories from fat:  22%
-Average Heart Rate:  127
-Maximum Heart Rate: 152
-Fat Burn:  0:32 
-Fitness:   2:15 
-Weight:  not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Kurzarbeit Rivery Loop </title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20200422-kurzarbeit-rivery-loop/</link>
-            <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20200422-kurzarbeit-rivery-loop/</guid>
-            <description>Another beautiful day, and one mandated off work. Thanks, Corona.
+    </item>
+    
+    <item>
+      <title>Kurzarbeit Rivery Loop </title>
+      <link>http://example.org/posts/bikerides/20200422-kurzarbeit-rivery-loop/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20200422-kurzarbeit-rivery-loop/</guid>
+      <description>Another beautiful day, and one mandated off work. Thanks, Corona.
 My brain still woke me up at workday time, so why not make a bike ride of it? It was kind of cold for just shorts and a teesh, but I figured that&amp;rsquo;s motivation for me to keep moving. Right in the first 10 minutes I spotted two old pals, one of whom has a new doggy, &amp;ldquo;Spock&amp;rdquo;. That was along the Danube.</description>
-            <content type="html"><![CDATA[<p>Another beautiful day, and one mandated off work.  Thanks, Corona.</p>
-<p>My brain still woke me up at workday time, so why not make a bike ride of it?  It was kind of cold for just shorts and a teesh, but I figured that&rsquo;s motivation for me to keep moving.  Right in the first 10 minutes I spotted two old pals, one of whom has a new doggy, &ldquo;Spock&rdquo;.  That was along the Danube.  I followed pieces of two more rivers (the Naab and the Schwarze Laaber) on this trip.</p>
-<p>Also happened upon three separate groups of geese.</p>
-<p><img src="/IMG_20200422_085753538.jpg" alt=""><br>
-<img src="/IMG_20200422_090111259.jpg" alt=""><br>
-<img src="/IMG_20200422_093014709.jpg" alt=""><br>
-<img src="/IMG_7468.JPEG" alt=""><br>
-<img src="/IMG_20200422_093953403.jpg" alt=""><br>
-<img src="/IMG_20200422_100140638.jpg" alt=""><br>
-<img src="/IMG_20200422_100451785_HDR.jpg" alt=""><br>
-<img src="/IMG_20200422_101929326.jpg" alt=""><br>
-<img src="/IMG_20200422_101941793.jpg" alt=""><br>
-<img src="/IMG_20200422_102641730.jpg" alt=""><br>
-<img src="/IMG_20200422_102837588_HDR.jpg" alt=""><br>
-<img src="/IMG_20200422_102848660_HDR.jpg" alt=""></p>
-<p>Route:</p>
-<p><a href="/20200422.jpg"><img src="/20200422.jpg" alt=""></a></p>
-<pre><code>Distance (total):  40.6km
-Time:  3:05 
-Calories:  1940
-Calories from fat:  23%
-Average Heart Rate:  126
-Maximum Heart Rate: 159
-Fat Burn:  0:52 
-Fitness:   2:13 
-Weight:  not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Saturday Bad Abbach Loop</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20200418_saturday_bad_abbach_loop/</link>
-            <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20200418_saturday_bad_abbach_loop/</guid>
-            <description>Another beautiful day — well, at the beginning. By the end of my ride, the clouds started looming and threatening rain, but I got home before that started. And it blew over anyways.
+    </item>
+    
+    <item>
+      <title>Saturday Bad Abbach Loop</title>
+      <link>http://example.org/posts/bikerides/20200418_saturday_bad_abbach_loop/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20200418_saturday_bad_abbach_loop/</guid>
+      <description>Another beautiful day — well, at the beginning. By the end of my ride, the clouds started looming and threatening rain, but I got home before that started. And it blew over anyways.
 I had worried about two things:
   Headed south out of Regensburg is a more direct route, but getting up those hills and down in to Bad Abbach would be a real pain.
   The ferry at Matting would be closed due to Corona stuff.</description>
-            <content type="html"><![CDATA[<p>Another beautiful day — well, at the beginning.  By the end of my ride, the clouds started looming and threatening rain, but I got home before that started.  And it blew over anyways.</p>
-<p>I had worried about two things:</p>
-<ol>
-<li>
-<p>Headed south out of Regensburg is a more direct route, but getting up those hills and down in to Bad Abbach would be a real pain.</p>
-</li>
-<li>
-<p>The ferry at Matting would be closed due to Corona stuff.</p>
-</li>
-</ol>
-<p><em>I was right about both of them.</em>  But no matter.  It was still a pleasant ride — at least back from Bad Abbach.</p>
-<p><img src="/IMG_7442.JPG" alt=""><br>
-<img src="/IMG_7415.JPG" alt=""><br>
-<img src="/IMG_7418.JPG" alt=""><br>
-<img src="/IMG_7420.JPG" alt=""><br>
-<img src="/IMG_7441.JPG" alt=""><br>
-<img src="/IMG_7445.JPG" alt=""><br>
-<img src="/IMG_7443.JPG" alt=""><br>
-<img src="/IMG_7434.JPG" alt=""><br>
-<img src="/IMG_7438.JPG" alt=""><br>
-<img src="/IMG_7437.JPG" alt=""><br>
-<img src="/IMG_7433.JPG" alt=""><br>
-<img src="/IMG_7432.JPG" alt=""><br>
-<img src="/IMG_7431.JPG" alt=""></p>
-<p>Route:</p>
-<p><img src="/20200418.jpg" alt=""></p>
-<pre><code>Distance (total):  35.6km
-Time:  2:41 
-Calories:  1921
-Calories from fat:  16%
-Average Heart Rate:  136
-Maximum Heart Rate: 174
-Fat Burn:  0:19 
-Fitness:   2:22 
-Weight:  not weighed
-</code></pre>]]></content>
-        </item>
-        
-        <item>
-            <title>Easter Sunday 2020 Ride</title>
-            <link>https://fat.cliff1976.net/posts/bikerides/20200412_easter-sunday/</link>
-            <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://fat.cliff1976.net/posts/bikerides/20200412_easter-sunday/</guid>
-            <description>First bike ride post evar. I wore my HRM and have some stats to report. It&amp;rsquo;s harder than I thought to ride my bike a medium pace.
-Your browser does not support the HTML5 Video element.  Route:
+    </item>
+    
+    <item>
+      <title>Easter Sunday 2020 Ride</title>
+      <link>http://example.org/posts/bikerides/20200412_easter-sunday/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20200412_easter-sunday/</guid>
+      <description>First bike ride post evar. I wore my HRM and have some stats to report. It&amp;rsquo;s harder than I thought to ride my bike a medium pace.
+Route:
 
 Distance (total): 28.7km First leg:
-Machine(s): bike Time: 59 mins Calories: 658 Calories from fat: 20% Average Heart Rate: 130 Maximum Heart Rate: 158 Fat Burn: 9 mins Fitness: 50 min Weight: not weighed Second leg:</description>
-            <content type="html"><![CDATA[<p>First bike ride post <strong>evar</strong>.  I wore my HRM and have some stats to report.  It&rsquo;s harder than I thought to ride my bike a medium pace.</p>
-<video controls="controls" src="/what_a_great_day.mp4">
-    Your browser does not support the HTML5 Video element.
-</video>
-<p><img src="/IMG_7291.JPG" alt="">
-<img src="/IMG_7293.JPG" alt="">
-<img src="/IMG_7295.JPG" alt="">
-<img src="/IMG_7304.JPG" alt="">
-<img src="/IMG_7305.JPG" alt="">
-<img src="/IMG_7307.JPG" alt="">
-<img src="/IMG_7310.JPG" alt=""></p>
-<p>Route:</p>
-<p><a href="/20200412.jpg"><img src="/20200412.jpg" alt=""></a></p>
-<pre><code>Distance (total):  28.7km
-</code></pre><p>First leg:</p>
-<pre><code>Machine(s):  bike
-Time:  59 mins
-Calories:  658
-Calories from fat:  20%
-Average Heart Rate:  130
-Maximum Heart Rate: 158
-Fat Burn:  9 mins
-Fitness:   50 min
-Weight:  not weighed
-</code></pre><p>Second leg:</p>
-<pre><code>Machine(s):  bike
-Time:  47 mins
-Calories:  544
-Calories from fat:  19%
-Average Heart Rate:  133
-Maximum Heart Rate: 152
-Fat Burn:  11 mins
-Fitness:   36 min
-Weight:  not weighed
-</code></pre>]]></content>
-        </item>
-        
-    </channel>
+Machine(s): bike Time: 59 mins Calories: 658 Calories from fat: 20% Average Heart Rate: 130 Maximum Heart Rate: 158 Fat Burn: 9 mins Fitness: 50 min Weight: not weighed Second leg:
+Machine(s): bike Time: 47 mins Calories: 544 Calories from fat: 19% Average Heart Rate: 133 Maximum Heart Rate: 152 Fat Burn: 11 mins Fitness: 36 min Weight: not weighed </description>
+    </item>
+    
+  </channel>
 </rss>

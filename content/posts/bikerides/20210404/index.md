@@ -18,7 +18,7 @@ Some observations on this route:
 + Lindach is very smelly.  *Frische Landluft.*  Some people like that.
 
 ## Snaps
-![](IMG_20210404_100336096_s.jpg)  
+![](./IMG_20210404_100336096_s.jpg)  
 ![](IMG210404-102220F.JPG)  
 Watch out for them high-speed frogs!  
 ![](IMG210404-102606F.JPG)  

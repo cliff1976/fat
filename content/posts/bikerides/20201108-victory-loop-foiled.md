@@ -18,11 +18,9 @@ It was foggy the whole dang way.
 
 What brought me to a dead stop was Deuerling.  That was the first time I had to give up and walk my bike up a hill in a while.  So, I thought it was as good a time as any for a water-and-clementine break.
 
-![](/IMG_20201108_111013644_HDR_s.jpg) 
 
 My next break was less exhaustion-based and more in awe at the leafy path leading into a forest outside of Irgertshofen.
   
-![](/IMG_20201108_113815993_s.jpg)
 
 I was feeling pretty good about my ride and looking forward to a nice downhill coast to follow the Schwarze Laber back towards Sinzing and the Danube, but construction foiled me.  I got to the bottom of the hill outside Thumhausen and saw the road to Sinzing was blocked off.  DAG NABBIT.  This meant another slog back north into Undorf and back home the way I came.  I seriously thought about calling Sarah to come get me with the car as I paused outside the Undorf train station to catch my breath.  I briefly considered checking the train schedule, but 
 

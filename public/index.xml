@@ -1,28 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tryna Get Less Fat, Yo.</title>
-    <link>https://fat.cliff1976.net/</link>
-    <description>Recent content on Tryna Get Less Fat, Yo.</description>
+    <title>Accessible Minimalism</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Accessible Minimalism</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>cliff1976  &lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fat.cliff1976.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zweimal Irading, Graßlfing, Zwei Mal Gebraching</title>
+      <link>http://example.org/posts/bikerides/20210620/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bikerides/20210620/</guid>
+      <description>What&amp;rsquo;s with all the -ings around here, anyways?
+I&amp;rsquo;ve ridden past zur Walba more times than I can count over the last year, and I&amp;rsquo;ve always looked up the hill on the cross street and shuddered at the thought of biking past it. Well, today, I bit the bullet and did it. It was long and slow, but much less steep than I imagined.
+It was supposed to be 32 °C by noon today, so I made sure to get started before 8:00.</description>
+    </item>
+    
     <item>
       <title>Do the big hills first...works much better!</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210613/</link>
+      <link>http://example.org/posts/bikerides/20210613/</link>
       <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210613/</guid>
-      <description>I went up those hills south of Regensburg on the way to Pentling that used to discourage me. I won&amp;rsquo;t say they&amp;rsquo;re easy now, but I can chug along in my lowest gear without feeling like I&amp;rsquo;m risking a heart attack. Basically abandon all hope, ye who enter Kumpfmühl&amp;hellip;it&amp;rsquo;s a long, mostly uphill slog to Hohengebraching. But after that it was pretty nice all the rest of the way back home.</description>
+      <guid>http://example.org/posts/bikerides/20210613/</guid>
+      <description>I went up thosehillssouth of Regensburg on the way to Pentling that used to discourage me. I won&amp;rsquo;t say they&amp;rsquo;re easy now, but I can chug along in my lowest gear without feeling like I&amp;rsquo;m risking a heart attack. Basically abandon all hope, ye who enter Kumpfmühl&amp;hellip;it&amp;rsquo;s a long, mostly uphill slog to Hohengebraching. But after that it was pretty nice all the rest of the way back home.
+Snaps Route You might need to tap or click the map to make it bigger.</description>
     </item>
     
     <item>
       <title>Rained out OTW to Pielenhofen</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210606/</link>
+      <link>http://example.org/posts/bikerides/20210606/</link>
       <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210606/</guid>
+      <guid>http://example.org/posts/bikerides/20210606/</guid>
       <description>It was supposed to rain all day. I was excited to see a break predicted, so I saddled up and trudged on.
 I left the garage to find a fine mist greeting me on the street. I thought to myself:
  You got this, Self. Press on, you&amp;rsquo;re tougher than this.
@@ -32,19 +43,19 @@ By the time I got to Mariaort, I was just done. I can handle being cold.</descri
     
     <item>
       <title>Irlbach and Grünthal</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210604/</link>
+      <link>http://example.org/posts/bikerides/20210604/</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210604/</guid>
+      <guid>http://example.org/posts/bikerides/20210604/</guid>
       <description>Thursday, June 3rd was Fronleichnam (&amp;ldquo;Happy Cadaver&amp;rdquo;). Most people I work with took Friday as a Brückentag (bridge day)&amp;hellip;but not me. I worked a good chunk of a normal day, finishing what I wanted to achieve before next week, and headed out for an evening ride, on purpose shooting for about 20 km. I took a brand new (to me) route to the northeast heading through the Konradsiedlung, Wutzlhofen, on a tangent to Haslbach on my way to Irlbach.</description>
     </item>
     
     <item>
       <title>Hainsacker→Pettendorf→Mariaort</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210530/</link>
+      <link>http://example.org/posts/bikerides/20210530/</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210530/</guid>
+      <guid>http://example.org/posts/bikerides/20210530/</guid>
       <description>It was a nice day for a ride. Not as long as some of my other ones, but man&amp;hellip;them hills up to Hainsacker are a real slog.
 Snaps Video Recap   Route You might need to tap or click the map to make it bigger. The red solid route was my intention. The blue dashed route is my actual route.
  Stats Total Distance: 28.8 km Time: 1:58 Calories: 1467 Calories from fat: 15 % Average Heart Rate: 138 Maximum Heart Rate: 170 Fat Burn: 0:06 Fitness: 1:52 </description>
@@ -52,67 +63,67 @@ Snaps Video Recap   Route You might need to tap or click the map to make it bigg
     
     <item>
       <title>Holiday Glide</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210524/</link>
+      <link>http://example.org/posts/bikerides/20210524/</link>
       <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210524/</guid>
+      <guid>http://example.org/posts/bikerides/20210524/</guid>
       <description>It was Pfingstmontag and I had the day off of work. I intended a nice long ride, but
  I just wasn&amp;rsquo;t feeling it, and I took a wrong turn near Burgweinting, and again at Obertraubling, and decided to swing by the airstrip, and the rain was threatening the whole time  So I cut it drastically short. But it was still a pretty good ride. Kinda got the impression that glider was following me though.</description>
     </item>
     
     <item>
       <title>Still Here</title>
-      <link>https://fat.cliff1976.net/posts/still-here/</link>
+      <link>http://example.org/posts/still-here/</link>
       <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/still-here/</guid>
+      <guid>http://example.org/posts/still-here/</guid>
       <description>Lest ye fret: I&amp;rsquo;m still here, and still walking and biking (though not as consistently as I&amp;rsquo;d like). I&amp;rsquo;ve got a couple bike ride reports in the hopper. The walks are a lot less interesting than they were at first (lots of repitition). But they&amp;rsquo;re still happening.
 Happy stalking me!</description>
     </item>
     
     <item>
       <title>Regenstauf Restock</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210514/</link>
+      <link>http://example.org/posts/bikerides/20210514/</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210514/</guid>
+      <guid>http://example.org/posts/bikerides/20210514/</guid>
       <description>I needed to hit the packaging-free store again, and it was kind of a holiday weekend (Christi Himmelfahrt, or Ascension for those keeping score at home), and there was a window of agreeable weather. (The rest of this weekend has been pretty iffy, weather-wise.) So, after work on Friday, I got on the ol&#39; Drahtesel once again and headed up to Regenstauf to Quantum Satis to refill my own containers of</description>
     </item>
     
     <item>
       <title>Big ambition...but no</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210509/</link>
+      <link>http://example.org/posts/bikerides/20210509/</link>
       <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210509/</guid>
+      <guid>http://example.org/posts/bikerides/20210509/</guid>
       <description>It had been a couple weeks, so I guess I&amp;rsquo;m not all that surprised that I bailed about a quarter of the way through and chopped the route in half. Nothing hurt particularly — I could just tell I wasn&amp;rsquo;t feeling it would regret not crossing the Danube at Donaustauf when I had the chance.
 Snaps Video Recaps   Route You might need to tap or click the map to make it bigger.</description>
     </item>
     
     <item>
       <title>Flat Loop</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210425/</link>
+      <link>http://example.org/posts/bikerides/20210425/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210425/</guid>
+      <guid>http://example.org/posts/bikerides/20210425/</guid>
       <description>It&amp;rsquo;s been two weeks since I took a Sunday ride, so I was happy the route I chose was very flat. I rode over to a buddy&amp;rsquo;s house in Neutraubling, met him there, and then we followed the Danube back towards Mariaort. At least we&amp;rsquo;d planned to: the bike/walking path along the north back is still all torn up — probably for the same reason as it was on March 21st.</description>
     </item>
     
     <item>
       <title>Kelheim, First Time</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210411/</link>
+      <link>http://example.org/posts/bikerides/20210411/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210411/</guid>
+      <guid>http://example.org/posts/bikerides/20210411/</guid>
       <description>W00T! First time venturing this far west on the ol&#39; Drahtesel. Whether that&amp;rsquo;s kosher at the moment is another story. I neglected to think about that while planning this route. I am looking forward to taking little trips on the train and then biking back home. That should open up places like Parsberg and Beratzhausen and Landshut and Straubing. But it requires good behavior on the part of all my fellow residents, such that the pandemic restrictions can ease up, and &amp;hellip; Schaumermal.</description>
     </item>
     
     <item>
       <title>Easter 2021</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210404/</link>
+      <link>http://example.org/posts/bikerides/20210404/</link>
       <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210404/</guid>
+      <guid>http://example.org/posts/bikerides/20210404/</guid>
       <description>Happy Easter!
 It&amp;rsquo;s been an ecumenical year since I started doing this. Time flies even when you&amp;rsquo;ve got nowhere (on the larger scale) to go.
 I went back to the region where I slid down a mountain on my butt, but this time I was very careful about the elevation over horizontal distance. I learned from that mistake, for sure.
@@ -121,50 +132,50 @@ It was not even 45 kilometers, but more of those were uphill than I am ready for
     
     <item>
       <title>Haha, phone.  Very funny.</title>
-      <link>https://fat.cliff1976.net/posts/walks/20210401/</link>
+      <link>http://example.org/posts/walks/20210401/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/20210401/</guid>
+      <guid>http://example.org/posts/walks/20210401/</guid>
       <description>I think my phone&amp;rsquo;s GPS was playing a prank on me. This shouldn&amp;rsquo;t have been a 7 km walk.
 Route  Distance: 7.1 km Time: 1:12 Calories: 560 Calories from fat: 37 % Average Heart Rate: 108 Maximum Heart Rate: 123 Fat Burn: 1:06 Fitness: 0:06 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://fat.cliff1976.net/posts/walks/20210330/</link>
+      <link>http://example.org/posts/walks/20210330/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/20210330/</guid>
+      <guid>http://example.org/posts/walks/20210330/</guid>
       <description>Last minute decision, kinda, to run over to a buddy&amp;rsquo;s place to pick up some fruit preserves he made and kept for us. Cut it kinda close with regard to the curfew in place due to Regensburg&amp;rsquo;s infection rates.
 Route  Distance: ~5 km </description>
     </item>
     
     <item>
       <title>Bad Abbach, But Great Cheese</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210328/</link>
+      <link>http://example.org/posts/bikerides/20210328/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210328/</guid>
+      <guid>http://example.org/posts/bikerides/20210328/</guid>
       <description>It&amp;rsquo;s Palm Sunday. Instead of the Bierpilgerfahrt to Adlersberg&amp;rsquo;s Prösslbrau for their Palmator, I opted to swing by a semi-local buddy&amp;rsquo;s house for a cheese sample. Wie lecker. Might be antithetical to the intent of this blog, though.
 Try Saint Agur Blue if you like the concept of bleu cheese but wish it were just little milder. Smear it on bread or crackers. Also this Pecorino Fantasia is a damn fine snackin&#39; cheese.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://fat.cliff1976.net/posts/walks/20210327/</link>
+      <link>http://example.org/posts/walks/20210327/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/20210327/</guid>
+      <guid>http://example.org/posts/walks/20210327/</guid>
       <description>Just a Saturday shopping trip on foot. I think the longer the longer you stand around in one place (like while waiting for mantı at Lezizel), the less reliable the GPS readings become.
 Route  Distance: 4.95 km Time: 1:38 </description>
     </item>
     
     <item>
       <title>IT BEGINS</title>
-      <link>https://fat.cliff1976.net/posts/walks/20210326/</link>
+      <link>http://example.org/posts/walks/20210326/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/20210326/</guid>
+      <guid>http://example.org/posts/walks/20210326/</guid>
       <description>Die Spargelzeit, that is.
 German asparagus is available at REWE near us. Lass den Spargelwahn krachen.
 Snaps That building across the street from REWE and Candis Park is getting bigger everytime I walk by.
@@ -173,29 +184,29 @@ Not all of the stuff shown here is domestic or even regional. But at least the w
     
     <item>
       <title></title>
-      <link>https://fat.cliff1976.net/posts/walks/20210324/</link>
+      <link>http://example.org/posts/walks/20210324/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/20210324/</guid>
+      <guid>http://example.org/posts/walks/20210324/</guid>
       <description>A quiet, gray riverside morning. With the bonus of an unexpected Irish Wolfhound.
 Snaps Route  Distance: 6.2 km Time: 1:17 Calories: 668 Calories from fat: 32 % Average Heart Rate: 114 Maximum Heart Rate: 129 Fat Burn: 0:49 Fitness: 0:28 </description>
     </item>
     
     <item>
       <title>Regensburg Loop Plagued by Detours</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210321/</link>
+      <link>http://example.org/posts/bikerides/20210321/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210321/</guid>
+      <guid>http://example.org/posts/bikerides/20210321/</guid>
       <description>Despite the weather prediction I got out there again today. I had planned to do a ring around Regensburg so that I wouldn&amp;rsquo;t be obligated to wear a mask, which I rather dislike while on my bike (it&amp;rsquo;s not so bad except for the fact that I wear glasses). Almost right off the bat, I veered off from my planned course, but this only resulted in a a total route of a few kilometers less than the original route.</description>
     </item>
     
     <item>
       <title>2021-03-18</title>
-      <link>https://fat.cliff1976.net/posts/walks/20210318/</link>
+      <link>http://example.org/posts/walks/20210318/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/20210318/</guid>
+      <guid>http://example.org/posts/walks/20210318/</guid>
       <description>Got up way too early today. Why not turn it into a walk? The timezone shift is coming soon; might as well embrace the sunlight.
 Snaps The OTH pond was nice and still.
 I liked the irony of both a car and a bike swerving onto the sidewalk to drive around the crew applying a Fahrradstrasse sign on the street.
@@ -204,10 +215,10 @@ Route  Distance: 6.5 km Time: 1:30 Calories: 781 Calories from fat: 30% Average 
     
     <item>
       <title>Blood Drive...walk, actually.</title>
-      <link>https://fat.cliff1976.net/posts/walks/20210316/</link>
+      <link>http://example.org/posts/walks/20210316/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/20210316/</guid>
+      <guid>http://example.org/posts/walks/20210316/</guid>
       <description>It was time to donate blood again today.
 I didn&amp;rsquo;t get my morning walk in, so I took a three kilometer stroll up to the Jahnstadion after work and got there dreadfully early for my 18:30 appointment. So I kept strolling and killed a little time, padding out my walk to five kilometers.
 I had my phone set to mark my position every 30 seconds, and that makes my traversal of the parking lot rows look sloppy.</description>
@@ -215,20 +226,20 @@ I had my phone set to mark my position every 30 seconds, and that makes my trave
     
     <item>
       <title>Pastry Loop</title>
-      <link>https://fat.cliff1976.net/posts/walks/20210314/</link>
+      <link>http://example.org/posts/walks/20210314/</link>
       <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/20210314/</guid>
+      <guid>http://example.org/posts/walks/20210314/</guid>
       <description>We took a walk today instead of my usual Sunday bike ride. We stopped in at Opera in der Prüfeninger Straße and scooped up some (counter-productive) baked goods. It reminded us that we are really looking forward to a time when we can have some Kaffee und Kuchen out at a place like Opera.
 Snaps Route  Distance: 8.42 km Time: 1:47 </description>
     </item>
     
     <item>
       <title>2021-03-12</title>
-      <link>https://fat.cliff1976.net/posts/walks/2021-03-12/</link>
+      <link>http://example.org/posts/walks/2021-03-12/</link>
       <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/2021-03-12/</guid>
+      <guid>http://example.org/posts/walks/2021-03-12/</guid>
       <description>Windy and rainy. But I discovered a bike path to Oberhinkofen near the SE corner of this route, and a BMX &amp;ldquo;Dirtpark&amp;rdquo;, should I ever feel so inclined.
 Also gas prices &amp;ndash; WAY UP.
 Snaps Route  Distance: 5.0 km Time: 1:06 Calories: 571 Calories from fat: 30 % Average Heart Rate: 114 Maximum Heart Rate: 127 Fat Burn: 0:30 Fitness: 0:36 </description>
@@ -236,10 +247,10 @@ Snaps Route  Distance: 5.0 km Time: 1:06 Calories: 571 Calories from fat: 30 % A
     
     <item>
       <title></title>
-      <link>https://fat.cliff1976.net/posts/walks/2021-03-09/</link>
+      <link>http://example.org/posts/walks/2021-03-09/</link>
       <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/2021-03-09/</guid>
+      <guid>http://example.org/posts/walks/2021-03-09/</guid>
       <description>That construction project across from the big REWE is going up like gangbusters.
 Also 4 people in Hot Chicken at once. Are they saving up for some actual chicken?
 Whoa, look at the time on this one!
@@ -248,29 +259,29 @@ Snaps    Route  Distance: 4.9 km Time: 1:11:11 Calories: 484 Calories from fat: 
     
     <item>
       <title>OOOH FANCY!</title>
-      <link>https://fat.cliff1976.net/posts/fancyzoom/</link>
+      <link>http://example.org/posts/fancyzoom/</link>
       <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/fancyzoom/</guid>
+      <guid>http://example.org/posts/fancyzoom/</guid>
       <description>I modified the hello-friend-ng theme to include Fancy Zoom. It&amp;rsquo;ll mostly be useful on the route maps.</description>
     </item>
     
     <item>
       <title>Over the Donau to Donaustauf, then Obertraubling and Oberhinkofen</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210307-obertraubling-oberhinkofen/</link>
+      <link>http://example.org/posts/bikerides/20210307-obertraubling-oberhinkofen/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210307-obertraubling-oberhinkofen/</guid>
+      <guid>http://example.org/posts/bikerides/20210307-obertraubling-oberhinkofen/</guid>
       <description>I intended this week&amp;rsquo;s ride to be a little on the short side, but I missed a turn in Obertraubling, tried to invent a new route to Oberhinkofen, had to backtrack, and got there the long way. It was cold, but not unbearably so, and a hot jamaica break in Obertraubling was a good way to warm up internally.
 Snaps Video Recap Donaustauf to Barbing, sped up by a factor of 4   Route You might need to tap or click the map to make it bigger.</description>
     </item>
     
     <item>
       <title>Grocery Run through Das Dörnberg</title>
-      <link>https://fat.cliff1976.net/posts/walks/2021-03-02-das-doernberg/</link>
+      <link>http://example.org/posts/walks/2021-03-02-das-doernberg/</link>
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/2021-03-02-das-doernberg/</guid>
+      <guid>http://example.org/posts/walks/2021-03-02-das-doernberg/</guid>
       <description>I hate that it&amp;rsquo;s das Dörnberg. Man, this place is really growing. It&amp;rsquo;s a couple years too late, but BLTN, I guess.
 Snaps 
 I bet they&amp;rsquo;re going to need the services of the A-Team.
@@ -281,37 +292,37 @@ Distance: 6.72 km Time: 1:45 Calories: 678 Calories from fat: 38% Average Heart 
     
     <item>
       <title>Trying Hugo and Netlify</title>
-      <link>https://fat.cliff1976.net/posts/trying-netlify/</link>
+      <link>http://example.org/posts/trying-netlify/</link>
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/trying-netlify/</guid>
+      <guid>http://example.org/posts/trying-netlify/</guid>
       <description>Hosting my own images on my VPS is not sustainable. Hello Github+Netlify!</description>
     </item>
     
     <item>
       <title>Pielenhofen via Adlersberg and back along the Naab</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210228-pielenhofen/</link>
+      <link>http://example.org/posts/bikerides/20210228-pielenhofen/</link>
       <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210228-pielenhofen/</guid>
+      <guid>http://example.org/posts/bikerides/20210228-pielenhofen/</guid>
       <description>I figure if I do the climb at Adlersberg enough, one of these days I&amp;rsquo;ll be up at the top and reward myself with a nice Radler (I mean, what else?) and maybe some lunch. That hill is a beast. Today I took a water and Schüttelbrot break in the bus shelter just outside the Prösslbräu grounds (and&amp;hellip;good to know that there is bus service up there; that brewery makes delicious things).</description>
     </item>
     
     <item>
       <title>Regenstauf to Ramspau and back</title>
-      <link>https://fat.cliff1976.net/posts/walks/2021-02-27-regenstauf-ramspau/</link>
+      <link>http://example.org/posts/walks/2021-02-27-regenstauf-ramspau/</link>
       <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/2021-02-27-regenstauf-ramspau/</guid>
+      <guid>http://example.org/posts/walks/2021-02-27-regenstauf-ramspau/</guid>
       <description>We drove about 15 minutes north to the town of Regenstauf to shop at Quantum Satis — same as last weekend. This time, we did a longer walk afterwards and brought a pal (newish to Regensburg) along for the shop and chat. It was a nice day for it. The original route would have led us into a hilly, muddy (owing to the rain the previous night), woody area, so we stuck to the road and even went a little farther than expected.</description>
     </item>
     
     <item>
       <title>2021-02-24</title>
-      <link>https://fat.cliff1976.net/posts/walks/2021-02-24/</link>
+      <link>http://example.org/posts/walks/2021-02-24/</link>
       <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/2021-02-24/</guid>
+      <guid>http://example.org/posts/walks/2021-02-24/</guid>
       <description>You think it&amp;rsquo;s walking past the water and electric utility office building that&amp;rsquo;s causing my GPS readings to go nuts, or is it maybe weather-related? It was a very foggy morning. Could that be it?
 Route 
 Distance: 6.0? km Time: 1.03 Calories: 630 Calories from fat: 26% Average Heart Rate: 122 Maximum Heart Rate: 140 Fat Burn: 0:19 Fitness: 0:43 </description>
@@ -319,10 +330,10 @@ Distance: 6.0? km Time: 1.03 Calories: 630 Calories from fat: 26% Average Heart 
     
     <item>
       <title>2021-02-23</title>
-      <link>https://fat.cliff1976.net/posts/walks/2021-02-23/</link>
+      <link>http://example.org/posts/walks/2021-02-23/</link>
       <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/2021-02-23/</guid>
+      <guid>http://example.org/posts/walks/2021-02-23/</guid>
       <description>I like that I can be awake and out for a walk around the time the sun starts his day, too.
 Snaps Sun up over Kumpfmühl.
 I would not have picked Bitter&#39; O as the name of my confectionery.
@@ -331,10 +342,10 @@ Route  Distance: 6.0 km Time: 1:22 Calories: 580 Calories from fat: 39 % Average
     
     <item>
       <title>Cloudy, Cold, Windy Guggi-See</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210221-guggisee/</link>
+      <link>http://example.org/posts/bikerides/20210221-guggisee/</link>
       <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210221-guggisee/</guid>
+      <guid>http://example.org/posts/bikerides/20210221-guggisee/</guid>
       <description>It was supposed to be as glorious as yesterday.
 It never got there. I delayed the start of my ride as much as I could, hoping for sunny skies and warmer temperatures, and while I didn&amp;rsquo;t get rained on, I never saw the sun after all.
 Snaps Video Recap None today!
@@ -343,30 +354,30 @@ Route You might need to tap or click the map to make it bigger. The red solid ro
     
     <item>
       <title>Marshy Storchy Regen Riverbanks</title>
-      <link>https://fat.cliff1976.net/posts/walks/20210220-regenstauf/</link>
+      <link>http://example.org/posts/walks/20210220-regenstauf/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/20210220-regenstauf/</guid>
+      <guid>http://example.org/posts/walks/20210220-regenstauf/</guid>
       <description>We took the car up to Regenstauf on a very small shopping trip. We headed specifically to Quantum Satis, packaging-free store. They have a LOT of the stuff we use on a daily basis available in bulk. So even though it costs a lot more (compared to the typical grocery store fare), I&amp;rsquo;d like to start refilling pantry staples from that store, without incurring packaging waste.
 Side note: there is another great packaging-free store in downtown Regensburg &amp;ndash; Füllgut (which has a nice pun in its name).</description>
     </item>
     
     <item>
       <title>I ❤️ Bad Abbach</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210214-obertraubling-bad-abbach/</link>
+      <link>http://example.org/posts/bikerides/20210214-obertraubling-bad-abbach/</link>
       <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210214-obertraubling-bad-abbach/</guid>
+      <guid>http://example.org/posts/bikerides/20210214-obertraubling-bad-abbach/</guid>
       <description>It&amp;rsquo;s Valentine&amp;rsquo;s Day, so why not? And I bike to/from it frequently enough. The position of the town lends itself to round trips, whether I&amp;rsquo;m feeling bergy or flussy.
 Today&amp;rsquo;s route was supposed to trace the Danube back more of the way home, but even before the halfway point at — you guessed it! — Bad Abbach, my feet were hurting from the cold. So at Großprüfening I cut it short.</description>
     </item>
     
     <item>
       <title>Sinzing Ring</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210206-sinzing-ring/</link>
+      <link>http://example.org/posts/bikerides/20210206-sinzing-ring/</link>
       <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210206-sinzing-ring/</guid>
+      <guid>http://example.org/posts/bikerides/20210206-sinzing-ring/</guid>
       <description>Snaps I started off crossing the Danube at Kleinprüfening. Notice the water level. This was warning sign #1 and will be important later.
 I got all the way up the hill above Eilsbrunn (home of Gaststätte Röhrl, the oldest continuously operating restaurant in the world, according to the Guinness Book of Records. I&amp;rsquo;ve eaten there a few times. It&amp;rsquo;s good.) before taking a break. That hill was serious.
 Zooming down from there towards Hardt was fun.</description>
@@ -374,166 +385,156 @@ Zooming down from there towards Hardt was fun.</description>
     
     <item>
       <title>Loop around the canals</title>
-      <link>https://fat.cliff1976.net/posts/walks/2021-01-31/</link>
+      <link>http://example.org/posts/walks/2021-01-31/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/2021-01-31/</guid>
+      <guid>http://example.org/posts/walks/2021-01-31/</guid>
       <description>Bright sunny day and cold, but not bitterly so. The sun and the activity warmed us up such that a brief stop in the shade (or the wind over the dam) was plenty to cool us down again.
 Lots of other people had the same idea &amp;ndash; taking advantage of the weather today. Let&amp;rsquo;s hope that doesn&amp;rsquo;t result in another Corona spike &amp;ndash; the extended lockdown has been working pretty well this time.</description>
     </item>
     
     <item>
       <title>January 19, 2021</title>
-      <link>https://fat.cliff1976.net/posts/walks/2021-01-19/</link>
+      <link>http://example.org/posts/walks/2021-01-19/</link>
       <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/2021-01-19/</guid>
+      <guid>http://example.org/posts/walks/2021-01-19/</guid>
       <description>Route  Distance: 4.65 km Time: 0:58 Calories: 517 Calories from fat: 28% Average Heart Rate: 115 Maximum Heart Rate: 127 Fat Burn: 0:51 Fitness: 0:07 Weight: not weighed </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://fat.cliff1976.net/posts/walks/2021-01-17/</link>
+      <link>http://example.org/posts/walks/2021-01-17/</link>
       <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/2021-01-17/</guid>
+      <guid>http://example.org/posts/walks/2021-01-17/</guid>
       <description>Ya gotta love that the Edeka in the Hauptbahnhof is open on Sundays and everyday from 6am to midnight!
 Route  Distance: 9.54 km Time: 2:13 Calories: 1190 Calories from fat: 35% Average Heart Rate: 115 Maximum Heart Rate: 136 Fat Burn: 1:54 Fitness: 0:19 Weight: not weighed </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://fat.cliff1976.net/posts/walks/2021-01-16/</link>
+      <link>http://example.org/posts/walks/2021-01-16/</link>
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/2021-01-16/</guid>
+      <guid>http://example.org/posts/walks/2021-01-16/</guid>
       <description>Route  Don&amp;rsquo;t trust the GPS on this one; the track is pretty messed up.
 Distance: 8.17 km </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://fat.cliff1976.net/posts/walks/2021-01-14/</link>
+      <link>http://example.org/posts/walks/2021-01-14/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/2021-01-14/</guid>
+      <guid>http://example.org/posts/walks/2021-01-14/</guid>
       <description>Route  Distance: 8.17 km Time: 1:09 Calories: 504 Calories from fat: 37% Average Heart Rate: 105 Maximum Heart Rate: 119 Fat Burn: 1:06 Fitness: 0:03 Weight: not weighed </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://fat.cliff1976.net/posts/walks/2021-01-12/</link>
+      <link>http://example.org/posts/walks/2021-01-12/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/2021-01-12/</guid>
+      <guid>http://example.org/posts/walks/2021-01-12/</guid>
       <description>Route  Distance: 3 km Time: 0:30 Calories: 290 Calories from fat: 28% Average Heart Rate: 121 Maximum Heart Rate: 134 Fat Burn: 0:12 Fitness: 0:18 Weight: not weighed </description>
     </item>
     
     <item>
       <title>to Baiern</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210110-baiern/</link>
+      <link>http://example.org/posts/bikerides/20210110-baiern/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210110-baiern/</guid>
+      <guid>http://example.org/posts/bikerides/20210110-baiern/</guid>
       <description>First ride of the year! I&amp;rsquo;d taken a couple weekends off, which stretched out to over a month, because I was worried about the moisture on the ground and the wintry temperatures resulting in icy conditions. I tried to walk more in the meantime. That kinda worked, but not as much as I&amp;rsquo;d hoped.
 I thought it was a little weird to leave Regensburg and cross into Baiern. I mean the standard local historical thing is that Regensburg was a free imperial city for a long time and by crossing the Danube into Stadtamhof, one was leaving Regensburg and entering Bavaria (Bayern).</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://fat.cliff1976.net/posts/walks/20210112/</link>
+      <link>http://example.org/posts/walks/20210112/</link>
       <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/20210112/</guid>
+      <guid>http://example.org/posts/walks/20210112/</guid>
       <description>It was a day off, so why not take a stroll in the snowy rain?
-Snaps 
-
-
- Route  Distance: 8.25 km Time: 1:52 Calories: 1045 Calories from fat: 27% Average Heart Rate: 118 Maximum Heart Rate: 140 Fat Burn: 0:49 Fitness: 1:03 Weight: not weighed </description>
+Snaps Route  Distance: 8.25 km Time: 1:52 Calories: 1045 Calories from fat: 27% Average Heart Rate: 118 Maximum Heart Rate: 140 Fat Burn: 0:49 Fitness: 1:03 Weight: not weighed </description>
     </item>
     
     <item>
       <title>Fußenbergtrail to Hauzenstein and back</title>
-      <link>https://fat.cliff1976.net/posts/walks/2021-01-02-fussenberg-hauzenstein/</link>
+      <link>http://example.org/posts/walks/2021-01-02-fussenberg-hauzenstein/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/2021-01-02-fussenberg-hauzenstein/</guid>
+      <guid>http://example.org/posts/walks/2021-01-02-fussenberg-hauzenstein/</guid>
       <description>First walk of the year!
 Some local pals suggested this route through the woods starting outside of Wenzenbach, heading north. It was very pretty, and would have been quite short, but for the icy trails. Much of it runs parallel to a few creeks, so there was a lot of moisture to contend with &amp;ndash; and much of it had turned to ice.
-Notes  need new hiking boots (soles are pretty much gone on mine) consider  buying &amp;ldquo;hiking poles&amp;rdquo; (&amp;quot;Wanderstöcke&amp;quot;) bringing crampons along next time getting a thermos; really could have used a warm beverage, like  hot chocolate tea/coffee Glühwein (make Sarah drive)      Snaps</description>
+Notes  need new hiking boots (soles are pretty much gone on mine) consider  buying &amp;ldquo;hiking poles&amp;rdquo; (&amp;quot;Wanderstöcke&amp;quot;) bringing crampons along next time getting a thermos; really could have used a warm beverage, like  hot chocolate tea/coffee Glühwein (make Sarah drive)      Snaps Route  Distance: about 7.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://fat.cliff1976.net/posts/walks/2020-12-30/</link>
+      <link>http://example.org/posts/walks/2020-12-30/</link>
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/2020-12-30/</guid>
+      <guid>http://example.org/posts/walks/2020-12-30/</guid>
       <description>Last walk of the year!
 Snaps Route Distance: 8.5 km Time: 1:48 Calories: 1027 Calories from fat: 30% Average Heart Rate: 119 Maximum Heart Rate: 131 Fat Burn: 0:54 Fitness: 0:54 Weight: not weighed </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://fat.cliff1976.net/posts/walks/2020-12-27/</link>
+      <link>http://example.org/posts/walks/2020-12-27/</link>
       <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/2020-12-27/</guid>
+      <guid>http://example.org/posts/walks/2020-12-27/</guid>
       <description>Frost! First overnight one of the season, I think. I spotted frozen puddles in places on my walk this morning.
 Snaps Donkey Republic bikes not far from home!
-
 Frosty trainyard
-
 This was a parking garage less than a year ago.
-
 The mosque is coming along nicely.
-
 Here&amp;rsquo;s another big pit of a construction site.
-
 Philosophical graffiti:
-
-Is it a peaceful place to work or not?</description>
+Is it a peaceful place to work or not?
+Route Distance: 9.75 km Time: 2:30 Calories: 1173 Calories from fat: 33% Average Heart Rate: 107 Maximum Heart Rate: 134 Fat Burn: 1:27 Fitness: 1:07 Weight: not weighed </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://fat.cliff1976.net/posts/walks/2020-12-20/</link>
+      <link>http://example.org/posts/walks/2020-12-20/</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/2020-12-20/</guid>
+      <guid>http://example.org/posts/walks/2020-12-20/</guid>
       <description>It was hovering around freezing, and kinda wet, and that made me nervous about a long bike ride and the potential for a wipe-out, so I opted for a walk instead.
-Snaps 
-I don&amp;rsquo;t know how long it&amp;rsquo;s been there, but there&amp;rsquo;s a Bucherzelle at the Andreasstadel in Stadtamhof now. Looks like they&amp;rsquo;ve had trouble with people using it improperly. I hope that behavior doesn&amp;rsquo;t doom it.
-
+Snaps I don&amp;rsquo;t know how long it&amp;rsquo;s been there, but there&amp;rsquo;s a Bucherzelle at the Andreasstadel in Stadtamhof now. Looks like they&amp;rsquo;ve had trouble with people using it improperly. I hope that behavior doesn&amp;rsquo;t doom it.
 I walked up to the top of the Dreifaltigkeitsberg.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://fat.cliff1976.net/posts/walks/2020-12-15/</link>
+      <link>http://example.org/posts/walks/2020-12-15/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/2020-12-15/</guid>
+      <guid>http://example.org/posts/walks/2020-12-15/</guid>
       <description>Just a post-work pre-lockdown grocery run to the big Rewe. No pics; it was full-on dark.
 Route Distance: 5.4 km Time: 1:11 Calories: 558 Calories from fat: 33% Average Heart Rate: 108 Maximum Heart Rate: 120 Fat Burn: 0:52 Fitness: 0:19 Weight: not weighed </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://fat.cliff1976.net/posts/walks/2020-12-13/</link>
+      <link>http://example.org/posts/walks/2020-12-13/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/2020-12-13/</guid>
+      <guid>http://example.org/posts/walks/2020-12-13/</guid>
       <description>I was going to do another shorty 20 or maybe 30km bike ride today, but the weather prediction changed and I decided that if there was a chance of rain and temperatures hovering around freezing, I&amp;rsquo;d rather be on foot. So I did a long walk instead.
 Snaps Got a new sweatshirt for my recent birthday from my parents. That thing is warm. Was great today for this long, dreary walk.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://fat.cliff1976.net/posts/walks/2020-12-11/</link>
+      <link>http://example.org/posts/walks/2020-12-11/</link>
       <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/2020-12-11/</guid>
+      <guid>http://example.org/posts/walks/2020-12-11/</guid>
       <description>I needed to walk into town to buy some beer and lunchmeat. So I took the long way.
 The canal under the Grieser Steg was a pretty shade of green.
 When I crossed into Stadtamhof, I saw the Spital brewery is advertising a Halbe Radler with a motorcycling monkey logo. I hope there&amp;rsquo;s an inside joke in there I&amp;rsquo;m just not getting.
@@ -542,40 +543,40 @@ Route Distance: 6.4 km Time: 1:07 Calories: 770 Calories from fat: 30% Average H
     
     <item>
       <title>Accidental 12k day</title>
-      <link>https://fat.cliff1976.net/posts/walks/12-km-20201209/</link>
+      <link>http://example.org/posts/walks/12-km-20201209/</link>
       <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/12-km-20201209/</guid>
+      <guid>http://example.org/posts/walks/12-km-20201209/</guid>
       <description>We&amp;rsquo;ve been walking a neighbor dog a couple days a week. I did a nice long one with her on a day when we also did the grocery shopping on foot. So there were almost thirteen that day. I only wore the heart rate monitor for the dog walk part of the day (in red solid lines).
 Route Distance: 5 km Time: 1:17 Calories: 612 Calories from fat: 33% Average Heart Rate: 109 Maximum Heart Rate: 130 Fat Burn: 0:52 Fitness: 0:25 Weight: not weighed </description>
     </item>
     
     <item>
       <title>Around Donau Park</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20201206-donau-park/</link>
+      <link>http://example.org/posts/bikerides/20201206-donau-park/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20201206-donau-park/</guid>
+      <guid>http://example.org/posts/bikerides/20201206-donau-park/</guid>
       <description>After last week&amp;rsquo;s flat Danube odyssey, I thought I could probably handle at least the uphill bits on the way to Pentling and bask in the river bank&amp;rsquo;s flat glory on my way back — especially since I didn&amp;rsquo;t feel like a three-hour tour (a three-hour tour) today, and chopped my route down to a mere 20 km.
 I was right in theory; but in practice, GraphHopper picked a route for me right up a tractor track between a couple of fields, which was steeper than I expected.</description>
     </item>
     
     <item>
       <title>Flatter to Pfatter</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20201130-flatter-to-pfatter/</link>
+      <link>http://example.org/posts/bikerides/20201130-flatter-to-pfatter/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20201130-flatter-to-pfatter/</guid>
+      <guid>http://example.org/posts/bikerides/20201130-flatter-to-pfatter/</guid>
       <description>It&amp;rsquo;s cold enough now for a full-on winter jacket out there, thus the attire switch.
 I thought I would give the ol&#39; quadriceps a break and stick to some very level terrain. You can&amp;rsquo;t go wrong with following the Danube for a nice, level ride. I still managed to take a wrong turn or two, but I never had to backtrack. In a couple places along my route, it&amp;rsquo;s not obvious whether a biker should go left or right to stay on a path.</description>
     </item>
     
     <item>
       <title>November Impressions</title>
-      <link>https://fat.cliff1976.net/posts/walks/november-impressions/</link>
+      <link>http://example.org/posts/walks/november-impressions/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/november-impressions/</guid>
+      <guid>http://example.org/posts/walks/november-impressions/</guid>
       <description>It was a beautiful Sunday morning &amp;ndash; first one around here in recent memory.
 Nice pictures are avilable on the Regensblog.
 Route Distance: 6 km Time: 1:41 Calories: 789 Calories from fat: 39% Average Heart Rate: 108 Maximum Heart Rate: 140 Fat Burn: 1:36 Fitness: 0:05 Weight: not weighed </description>
@@ -583,60 +584,59 @@ Route Distance: 6 km Time: 1:41 Calories: 789 Calories from fat: 39% Average Hea
     
     <item>
       <title>Still no Kallmünz</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20201122-still-no-kallmuenz/</link>
+      <link>http://example.org/posts/bikerides/20201122-still-no-kallmuenz/</link>
       <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20201122-still-no-kallmuenz/</guid>
+      <guid>http://example.org/posts/bikerides/20201122-still-no-kallmuenz/</guid>
       <description>Ever since this dang pandemic hit and I began exploring the region on my bike, I&amp;rsquo;ve been itching to bike up to Kallmünz and back. One thing or another hat foiled each of my attempts. I took another shot at it today. Foiled again.
- I got off to a weak start just north of Stadtamhof at the Dreifaltigkeitsberg. A one-lane road shared with cars in both directions is daunting enough on its own.</description>
+I got off to a weak start just north of Stadtamhof at the Dreifaltigkeitsberg. A one-lane road shared with cars in both directions is daunting enough on its own.</description>
     </item>
     
     <item>
       <title>Victory Loop Foiled by Construction</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20201108-victory-loop-foiled/</link>
+      <link>http://example.org/posts/bikerides/20201108-victory-loop-foiled/</link>
       <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20201108-victory-loop-foiled/</guid>
+      <guid>http://example.org/posts/bikerides/20201108-victory-loop-foiled/</guid>
       <description>I thought I&amp;rsquo;d take a victory loop after the momentous occasions of late. I carefully mapped my route using GraphHopper and thought I was good-to-go for a route mostly following three rivers
  Danube Naab Schwarze Laber  &amp;hellip; with a little hilliness in the middle to keep it interesting. The stretch up the hill from Etterzhausen to Nittendorf was a slog, but I knew that was coming, and I thought perhaps I&amp;rsquo;d progressed in my endurance such that it wouldn&amp;rsquo;t kill me.</description>
     </item>
     
     <item>
       <title>Daredevil Chicken</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20201101-daredevil-chicken/</link>
+      <link>http://example.org/posts/bikerides/20201101-daredevil-chicken/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20201101-daredevil-chicken/</guid>
+      <guid>http://example.org/posts/bikerides/20201101-daredevil-chicken/</guid>
       <description>This dude is definitely undeserving of his reputation!
- Note to self: remember that the camera has no internal battery and you have to set the date and time with every battery change!
-I took a suggestion from local pal Markus and went out southwest towards Mangolding, Mintraching and Geisling. Those were new towns for me, but the route back along the B8 through Barbing was old hat. Pretty flat the whole way, so it should have been a good opportunity to keep my heart rate low and steady.</description>
+  Note to self: remember that the camera has no internal battery and you have to set the date and time with every battery change!I took a suggestion from local pal Markus and went out southwest towards Mangolding, Mintraching and Geisling. Those were new towns for me, but the route back along the B8 through Barbing was old hat. Pretty flat the whole way, so it should have been a good opportunity to keep my heart rate low and steady.</description>
     </item>
     
     <item>
       <title>Down one side and back up the other</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20201025-pentling-matting-ferry-bad-abbach/</link>
+      <link>http://example.org/posts/bikerides/20201025-pentling-matting-ferry-bad-abbach/</link>
       <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20201025-pentling-matting-ferry-bad-abbach/</guid>
+      <guid>http://example.org/posts/bikerides/20201025-pentling-matting-ferry-bad-abbach/</guid>
       <description>I biked up the hill to Pentling (hey! The bridge over the A3 is open again!) and down the hill from there towards Matting where I met up with my pal Sam for lunch. Then we took the ferry across (1€ per person) to the west (north?) bank of the Danube towards Bad Abbach, where we crossed it again using the bridge there. That&amp;rsquo;s where we parted ways; I headed back downstream (north/east) towards Regensburg.</description>
     </item>
     
     <item>
       <title>October Ride</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20201018-october-ride/</link>
+      <link>http://example.org/posts/bikerides/20201018-october-ride/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20201018-october-ride/</guid>
+      <guid>http://example.org/posts/bikerides/20201018-october-ride/</guid>
       <description>First time back in the saddle after about a month, and it is no longer Panama Jack helmet weather. Also, when I got started this morning, it was foggy as heck, so I through on an eye-catching vest just for good measure. After about 30 minutes, it wasn&amp;rsquo;t really necessary anymore &amp;ndash; the sun burned off the low-hanging clouds.
 I stuck to a very familiar route, since I haven&amp;rsquo;t been on the bike in about a month.</description>
     </item>
     
     <item>
       <title>Bonndorf Exploration Part 2</title>
-      <link>https://fat.cliff1976.net/posts/walks/bonndorf-exploration-part-2/</link>
+      <link>http://example.org/posts/walks/bonndorf-exploration-part-2/</link>
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/bonndorf-exploration-part-2/</guid>
+      <guid>http://example.org/posts/walks/bonndorf-exploration-part-2/</guid>
       <description>Took advantage of some nice weather here (well, mostly &amp;ndash; we got a little rained on towards the end).
 Nice pictures are avilable on the Regensblog.
 Routes:
@@ -645,10 +645,10 @@ Distance: 6.39 km Time: 2:37 Calories: 871 Calories from fat: 46% Average Heart 
     
     <item>
       <title>Bonndorf Exploration Part 1</title>
-      <link>https://fat.cliff1976.net/posts/walks/bonndorf-exploration-part-1/</link>
+      <link>http://example.org/posts/walks/bonndorf-exploration-part-1/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/bonndorf-exploration-part-1/</guid>
+      <guid>http://example.org/posts/walks/bonndorf-exploration-part-1/</guid>
       <description>We arrived in Bonndorf for an 8-day stay at a Ferienwohnung. On our second day, we set out exploring in and around the town and the valley below it.
 Nice pictures are avilable on the Regensblog.
 Routes:
@@ -657,10 +657,10 @@ Distance: 6.29 km Time: 1:37 Calories: 564 Calories from fat: 42% Average Heart 
     
     <item>
       <title>Lorchhausen to Lorch in two parts</title>
-      <link>https://fat.cliff1976.net/posts/walks/lorchhausen-to-lorch-in-two-parts/</link>
+      <link>http://example.org/posts/walks/lorchhausen-to-lorch-in-two-parts/</link>
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/lorchhausen-to-lorch-in-two-parts/</guid>
+      <guid>http://example.org/posts/walks/lorchhausen-to-lorch-in-two-parts/</guid>
       <description>Part One was just me exploring Monday morning in the hills above our Ferienwohnung in Lorchhausen.
 Part Two was the two of us going higher up and further east (all the way into Lorch for lunch) and back along the river on Wednesday.
 Routes:
@@ -670,10 +670,10 @@ Distance: 5.79 km Time: 2:00 Calories: 1024 Calories from fat: 30% Average Heart
     
     <item>
       <title>KEINE Kulinarische Weinwanderung</title>
-      <link>https://fat.cliff1976.net/posts/walks/20200925-keine-kulinarische-weinwanderung/</link>
+      <link>http://example.org/posts/walks/20200925-keine-kulinarische-weinwanderung/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/20200925-keine-kulinarische-weinwanderung/</guid>
+      <guid>http://example.org/posts/walks/20200925-keine-kulinarische-weinwanderung/</guid>
       <description>Sure felt weird doing this Freinsheim walk by myself, and not with any of the usual suspects, or 10,000 other wine and food enthusiasts.
 More pictures on the Regensblog, sooner or later.
 Route:
@@ -682,77 +682,77 @@ Distance: 6.29 km Time: 1:21 Calories: 643 Calories from fat: 37% Average Heart 
     
     <item>
       <title>Mornin&#39;, punkins!</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200920-mornin-punkins/</link>
+      <link>http://example.org/posts/bikerides/20200920-mornin-punkins/</link>
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200920-mornin-punkins/</guid>
+      <guid>http://example.org/posts/bikerides/20200920-mornin-punkins/</guid>
       <description>No denying it &amp;ndash; autumn is here, at least a day or two early. You can see it in the produce.
 I had mapped out a nice route of nearly exactly 50 km, heading south on our street to Oberhinkofen, and then turning west towards Teugn to come up into Bad Abbach from the south, but &amp;hellip; something was amiss in the state of Denmark, if you know what I mean, and given that it was a Sunday morning before 9:00, and nothing was going to be open, I opted to head into Bad Abbach from the east and headed home from there.</description>
     </item>
     
     <item>
       <title>Secret Flugplatz!</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200913-secret-flugplatz/</link>
+      <link>http://example.org/posts/bikerides/20200913-secret-flugplatz/</link>
       <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200913-secret-flugplatz/</guid>
+      <guid>http://example.org/posts/bikerides/20200913-secret-flugplatz/</guid>
       <description>Well, secret to me, anyways. I didn&amp;rsquo;t know it was there. I woke up just before 6, got my coffee on, and was out on the road at 7:45. I&amp;rsquo;ve started a couple bikerides this year intending to make it all the way to Kallmünz. Today was another of those that fell short. Not that the ride wasn&amp;rsquo;t fulfilling. I didn&amp;rsquo;t know there was a Flugplatz in Oberhub, so I detoured even more up a hill to check it out.</description>
     </item>
     
     <item>
       <title>To Prösslbräu, Matting, and Back</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200906-proesslbraeu-matting-and-back/</link>
+      <link>http://example.org/posts/bikerides/20200906-proesslbraeu-matting-and-back/</link>
       <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200906-proesslbraeu-matting-and-back/</guid>
+      <guid>http://example.org/posts/bikerides/20200906-proesslbraeu-matting-and-back/</guid>
       <description>It&amp;rsquo;s been a couple weeks (weather and general life happening), but the weather was supposed to be great today (and it was), so I wanted to take advantage of it. A couple weekends ago our pal Special K came up to visit and brought her bike. That Saturday it rained like God had decided on a Do-Over, but there was a pottery market happening at Kloster Adlersberg. I thought that would be a nice bike destination under decent weather conditions, and I was right.</description>
     </item>
     
     <item>
       <title>Loch LMAO</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200816-loch-ellmau/</link>
+      <link>http://example.org/posts/bikerides/20200816-loch-ellmau/</link>
       <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200816-loch-ellmau/</guid>
+      <guid>http://example.org/posts/bikerides/20200816-loch-ellmau/</guid>
       <description>After last week&amp;rsquo;s 60+km record breaker, I toned it back down again to 50ish today. I thought I would treat myself to some nice flat stretches along a river for the last leg. I am not so sure that is the right approach; &amp;ldquo;mostly flat&amp;rdquo; is &amp;ldquo;partly hilly&amp;rdquo; and even where truly flat, I was tired of being in the saddle, and mad at friction for forcing me to keep pedaling.</description>
     </item>
     
     <item>
       <title>Was it Wörth it?</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200809_was-it-woerth-it/</link>
+      <link>http://example.org/posts/bikerides/20200809_was-it-woerth-it/</link>
       <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200809_was-it-woerth-it/</guid>
+      <guid>http://example.org/posts/bikerides/20200809_was-it-woerth-it/</guid>
       <description>I was pretty sure I don&amp;rsquo;t like rides over 50 km in length. Walking the next day is a real pain. But those 50ish km rides have all been with a mixture of terrain. So I thought I would try a longer — but flatter — ride along the Danube today. I rode from our house to Wörth an der Donau and back.
 Guess what? The knees are a little better off for it, but DA BUTT is not.</description>
     </item>
     
     <item>
       <title>Dog Scared Me Off</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200726-dog-scared-me-off/</link>
+      <link>http://example.org/posts/bikerides/20200726-dog-scared-me-off/</link>
       <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200726-dog-scared-me-off/</guid>
+      <guid>http://example.org/posts/bikerides/20200726-dog-scared-me-off/</guid>
       <description>I&amp;rsquo;ve been doing my rides mostly on the weekends, since Kurzarbeit is over for me now. I&amp;rsquo;ve been lazy about posting them, but less lazy about actually doing them. So that&amp;rsquo;s good.
 In my last post, I picked GraphHopper.com as a mapping service, but I&amp;rsquo;m wary of it now. This time it routed me through a farm at the top of a long, slow hill at Aignhof&amp;hellip; and a Rottweiler-looking dog was quite angry at my presence.</description>
     </item>
     
     <item>
       <title>Laaber and Back</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200628-laaber-and-back/</link>
+      <link>http://example.org/posts/bikerides/20200628-laaber-and-back/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200628-laaber-and-back/</guid>
+      <guid>http://example.org/posts/bikerides/20200628-laaber-and-back/</guid>
       <description>Kurzarbeit tomorrow &amp;ndash; presumably the last one for this round of economic crises (or, let&amp;rsquo;s hope so anyways). I had an important week at work last week, so to be there for all of it, I opted to make my last Kurzabeit day of the month the last Monday of the month instead of Friday.
 I planned out my route using GraphHopper.com &amp;ndash; first time using that service, but I am sure I&amp;rsquo;ll be back.</description>
     </item>
     
     <item>
       <title>Workout 2020 06 05</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-06-05/</link>
+      <link>http://example.org/posts/workouts/2020-06-05/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-06-05/</guid>
+      <guid>http://example.org/posts/workouts/2020-06-05/</guid>
       <description>It was another Kurzarbeit day. I had to skip my walks a couple days this week, so I stretched this out one longer on purpose. I made it up to the Fernsehturm in Ziegetsdorf, walked parallel to the A3 towards the Uniklinikum and back. It was threatening to rain most of the way with some nice patches of sun to break things up.
 Snaps:
 Route:
@@ -761,10 +761,10 @@ Machine(s): none (street) Time: 2:10 Distance: 10.</description>
     
     <item>
       <title>Workout 2020 06 01</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-06-01/</link>
+      <link>http://example.org/posts/workouts/2020-06-01/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-06-01/</guid>
+      <guid>http://example.org/posts/workouts/2020-06-01/</guid>
       <description>Holiday weekend! (Fronleichnam, I think). I took my first walk through the Evangelischer Zentralfriedhof, which had a nice mix of sun and shade. I was kind of expecting more activity in there due to the holiday, but there was no one stirring.
 Snaps:
 The pit between Alberstraße and Ernst-Reuter-Platz is now fully empty; still don&amp;rsquo;t know what&amp;rsquo;s going in there.
@@ -773,36 +773,36 @@ Absolutely nothing happening at Hauptbahnhof, which felt weird, even for a publi
     
     <item>
       <title>Flattening the Curve</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200529-flattening-the-curve/</link>
+      <link>http://example.org/posts/bikerides/20200529-flattening-the-curve/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200529-flattening-the-curve/</guid>
+      <guid>http://example.org/posts/bikerides/20200529-flattening-the-curve/</guid>
       <description>Kurzarbeit again today. I decided not to torture myself with a mountainous bike ride, but instead stick to a flat loop out south and east of town. This was along the R7 route recommended by the Landkreis Regensburg.
 The snaps:
 Sarching&amp;rsquo;s amphibious cacophony:
-Your browser does not support the HTML5 Video element.  Route:
+Route:
 I messed up my own GPX track recording on this one, forgetting to separate this track from an aborted one on Wednesday, which explains the teleportation from home to the Ostbahnhof area.</description>
     </item>
     
     <item>
       <title>Workout 2020 05 27</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-05-27/</link>
+      <link>http://example.org/posts/workouts/2020-05-27/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-05-27/</guid>
+      <guid>http://example.org/posts/workouts/2020-05-27/</guid>
       <description>Another beautiful day.
 I crossed onto one of the islands in Danube. Took another look at one of those sheltery things I&amp;rsquo;d seen there previously. Still creepy. The channels were peaceful. There was a weird Yoda/Nosferatu hybrid graffito thing.
 Snaps:
-Your browser does not support the HTML5 Video element.  Route:
+Route:
 Machine(s): none (street) Time: 1:30 Distance: 6.0 km Calories: 658 Calories from fat: 37% Average Heart Rate: 106 Maximum Heart Rate: 123 Fat Burn: 1:20 Fitness: 0:10 Weight: not weighed </description>
     </item>
     
     <item>
       <title>Workout 2020 05 25</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-05-25/</link>
+      <link>http://example.org/posts/workouts/2020-05-25/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-05-25/</guid>
+      <guid>http://example.org/posts/workouts/2020-05-25/</guid>
       <description>Snaps:
 Think of all the great grilled dinners we could have with these!
 &amp;ldquo;Please wait to be seated&amp;rdquo; arrives in Germany with Corona.
@@ -814,20 +814,20 @@ Machine(s): none (street) Time: 1:07 Distance: 5.27 km Calories: 502 Calories fr
     
     <item>
       <title>Finally beat that hill!</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200524-finally-beat-that-hill/</link>
+      <link>http://example.org/posts/bikerides/20200524-finally-beat-that-hill/</link>
       <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200524-finally-beat-that-hill/</guid>
+      <guid>http://example.org/posts/bikerides/20200524-finally-beat-that-hill/</guid>
       <description>Well, sorta. I cheated by telling my GPS to route me only on paved routes, which obviated huffing and puffing up the muddy hill.
 It was not another beautiful day. It started off with ominous clouds, that were true omens, because the hail they pelted me with stung. But at least not for long. By the time I got to my destination (delivering a borrowed item back to its owner), I was dry again and the sun warmed me back up.</description>
     </item>
     
     <item>
       <title>Workout 2020 05 20</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-05-20/</link>
+      <link>http://example.org/posts/workouts/2020-05-20/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-05-20/</guid>
+      <guid>http://example.org/posts/workouts/2020-05-20/</guid>
       <description>Sure don&amp;rsquo;t remember teleporting home from Neupfarrplatz! Maybe it has something do with the giant golden sperm attacking the city.
 Snaps:
 Route:
@@ -836,10 +836,10 @@ Machine(s): none (street) Time: 1:15 Distance: 5.56 km? Calories: 481 Calories f
     
     <item>
       <title>Workout 2020 05 19</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-05-19/</link>
+      <link>http://example.org/posts/workouts/2020-05-19/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-05-19/</guid>
+      <guid>http://example.org/posts/workouts/2020-05-19/</guid>
       <description>I walked into work, grabbed some masks from my desk the company had set out for me, and came back via the supermarket. It was longer and slower, but I bought groceries, ran an errand, and even saw another person in the office, in person &amp;ndash; did not expect that. I might have surprised her, too.
 Lone Snap:
 That mosque near work is coming along nicely. Looking forward to their lunch counter opening&amp;hellip;if I ever return to working in the office.</description>
@@ -847,10 +847,10 @@ That mosque near work is coming along nicely. Looking forward to their lunch cou
     
     <item>
       <title>It&#39;s right there in the name!</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200516-its-right-there-in-the-name/</link>
+      <link>http://example.org/posts/bikerides/20200516-its-right-there-in-the-name/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200516-its-right-there-in-the-name/</guid>
+      <guid>http://example.org/posts/bikerides/20200516-its-right-there-in-the-name/</guid>
       <description>Another beautiful day. I mostly followed the R9 from the Landkreis Regensburg. 1
 I think I need to accept that the difficulty level listed as medium by the Landkreis does not (yet) match up to my expectations for medium. OTOH, I neglected to notice a town called &amp;ldquo;Großberg&amp;rdquo; on the itinerary. Duh!
 I actually rode a little further than the route suggests; I forgot to start recording my GPX track until I was already up the hill at Bajuwarenstraße.</description>
@@ -858,10 +858,10 @@ I actually rode a little further than the route suggests; I forgot to start reco
     
     <item>
       <title>Workout 2020 05 14</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-05-14/</link>
+      <link>http://example.org/posts/workouts/2020-05-14/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-05-14/</guid>
+      <guid>http://example.org/posts/workouts/2020-05-14/</guid>
       <description>Another kooky GPX track. Harumph. No way I did 9+ km yesterday morning before work.
 Some thoughts on schaffen: see my post on bergberg.net.
 And it looks like the city has some schaffen planned for our street.
@@ -872,10 +872,10 @@ Machine(s): none (street) Time: 0:56 Distance: probably around 5 km Calories: 42
     
     <item>
       <title>Workout 2020 05 13</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-05-13/</link>
+      <link>http://example.org/posts/workouts/2020-05-13/</link>
       <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-05-13/</guid>
+      <guid>http://example.org/posts/workouts/2020-05-13/</guid>
       <description>A pretty dreary morning (most of them have been lately after those glorious weeks in March and April). But walked along the Wöhrd and took the stairs right down the water line in a few places. It&amp;rsquo;s been somewhat rainy, but the river wasn&amp;rsquo;t running particularly high or fast. I got a special treat: watching a barge with a lift switch out a riverway sign.
 Snaps:
 Route:
@@ -884,10 +884,10 @@ Machine(s): none (street) Time: 1:05 Distance: 5.</description>
     
     <item>
       <title>Workout 2020 05 12</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-05-12/</link>
+      <link>http://example.org/posts/workouts/2020-05-12/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-05-12/</guid>
+      <guid>http://example.org/posts/workouts/2020-05-12/</guid>
       <description>GPS went nutty again today. I don&amp;rsquo;t know if
  it&amp;rsquo;s something atmospheric, or the satellites were out of alignment, or the case on my phone, or whether or not the phone&amp;rsquo;s in a pocket or loose in my hand, or an intermittent hardware problem is wreaking havoc  But I for sure did not follow the exact path shown in the route.
 I did find the use of rubber gloves hanging from the bridge the near florist&amp;rsquo;s shop under the bridge quite attractive.</description>
@@ -895,10 +895,10 @@ I did find the use of rubber gloves hanging from the bridge the near florist&amp
     
     <item>
       <title>Workout 2020 05 11</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-05-11/</link>
+      <link>http://example.org/posts/workouts/2020-05-11/</link>
       <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-05-11/</guid>
+      <guid>http://example.org/posts/workouts/2020-05-11/</guid>
       <description>Threatening to rain all day today, and it actually did — a few drops at least on the way to REWE to get some groceries before work.
 Flowers look nice at Luitpoldstraße and Sternbergstraße.
 Also La Bona I mean &amp;ldquo;Orient Imbiss&amp;rdquo; has pita bread for sale on shelves on the street.
@@ -909,10 +909,10 @@ Machine(s): none (street) Time: 1:11 Distance: 5.4 km Calories: 494 Calories fro
     
     <item>
       <title>Workout 2020 05 10</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-05-10/</link>
+      <link>http://example.org/posts/workouts/2020-05-10/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-05-10/</guid>
+      <guid>http://example.org/posts/workouts/2020-05-10/</guid>
       <description>It was drizzling today, but I really wanted to get out of the house. I went up and down some of my favorite streets in the Altstadt, looking for new or changed places to eat and shop.
 Snaps:
 Route:
@@ -921,10 +921,10 @@ Machine(s): none (street) Time: 1:02 Distance: 5.6 km Calories: 441 Calories fro
     
     <item>
       <title>Kürn Around Bright Eyes</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200509-kuern-around-bright-eyes/</link>
+      <link>http://example.org/posts/bikerides/20200509-kuern-around-bright-eyes/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200509-kuern-around-bright-eyes/</guid>
+      <guid>http://example.org/posts/bikerides/20200509-kuern-around-bright-eyes/</guid>
       <description>Another beautiful day. I mostly followed the Schlössertour from the Landkreis Regensburg. 1
 The first leg was on the west bank of the Regen up to Regenstauf. I&amp;rsquo;d done that before. Very nice and level.
 The new bits started at Ramspau. It got lots more challenging from that point on. I thought it would be done with at Kürn, but nope. The path was sometimes paved, sometimes supposed to be paved, but under construction, and sometimes forest trail.</description>
@@ -932,10 +932,10 @@ The new bits started at Ramspau. It got lots more challenging from that point on
     
     <item>
       <title>Workout 2020 05 07</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-05-07/</link>
+      <link>http://example.org/posts/workouts/2020-05-07/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-05-07/</guid>
+      <guid>http://example.org/posts/workouts/2020-05-07/</guid>
       <description>Oops, forgot to bring my watch on my walk, so I have no heart rate stats for this one. Also, nothing leapt out at me as photo-worthy. But at least I discovered the Gemüsebagels at Der Beck are pretty good.
 Route:
 Time: 1:10 Distance: 6 km Weight: not weighed </description>
@@ -943,10 +943,10 @@ Time: 1:10 Distance: 6 km Weight: not weighed </description>
     
     <item>
       <title>to Wolfsegg and Back</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200504-to-wolfsegg-and-back/</link>
+      <link>http://example.org/posts/bikerides/20200504-to-wolfsegg-and-back/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200504-to-wolfsegg-and-back/</guid>
+      <guid>http://example.org/posts/bikerides/20200504-to-wolfsegg-and-back/</guid>
       <description>Another beautiful day. At least at the start of it — the clouds rolled in towards the end of my ride.
 The rivery parts along the Naab all the way up to Pielenhofen and the monastery on the river were nice and gentle. I took a little water and banana break there. But that&amp;rsquo;s where it started to get demanding. Just outside of Wall I thought to myself
  This is an appropriately-named hamlet.</description>
@@ -954,20 +954,20 @@ The rivery parts along the Naab all the way up to Pielenhofen and the monastery 
     
     <item>
       <title>Running up that hill...towards Bad Abbach again</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200501-runnin-up-that-hill/</link>
+      <link>http://example.org/posts/bikerides/20200501-runnin-up-that-hill/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200501-runnin-up-that-hill/</guid>
+      <guid>http://example.org/posts/bikerides/20200501-runnin-up-that-hill/</guid>
       <description>It started out another beautiful day. Didn&amp;rsquo;t stick. Thought I&amp;rsquo;d conquer that hill through the woods outside Leoprechting. Nope! Had to push my bike for a lot of it. At least partly that&amp;rsquo;s because the dirt track had turned into mud and a tractor chewed it up real good 5 minutes before me.
 I rode past the Continental Arena and then through a field (didn&amp;rsquo;t like that so much; felt like trespassing), towards Leoprechting, onto Niedergebraching 1, and the clouds were ominous.</description>
     </item>
     
     <item>
       <title>Workout 2020 04 29</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-29/</link>
+      <link>http://example.org/posts/workouts/2020-04-29/</link>
       <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-29/</guid>
+      <guid>http://example.org/posts/workouts/2020-04-29/</guid>
       <description>A moderately rainy morning after several weeks of almost no rain. No inspiring photographs today; my walk was through neighborhoods and apartment complexes.
 I did notice the Singh Indischer Markt seems to have been replaced with a Middle Eastern market of some kind.
 And somehow I must have lost GPS connectivity along the way there towards the end, because I definitely did not sneak through anyone&amp;rsquo;s house. Promise.
@@ -977,10 +977,10 @@ Route:</description>
     
     <item>
       <title>Bernhardswald Loop</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200428-berhardswald-loop/</link>
+      <link>http://example.org/posts/bikerides/20200428-berhardswald-loop/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200428-berhardswald-loop/</guid>
+      <guid>http://example.org/posts/bikerides/20200428-berhardswald-loop/</guid>
       <description>Another beautiful day.
 I thought by doing another few dozen kilometers today after just doing it on Sunday I would feel less sore, and build up some butt callouses.
 Nope! But it was a nice ride anyways. The part of the Regensburg-Falkenstein bike route on an old train track was great and deserves more attention. The bit through the Kreuther Forst was a bit much going up, but coming down above the Donaustauf Klinik was nice.</description>
@@ -988,10 +988,10 @@ Nope! But it was a nice ride anyways. The part of the Regensburg-Falkenstein bik
     
     <item>
       <title>Workout 2020 04 27</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-27/</link>
+      <link>http://example.org/posts/workouts/2020-04-27/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-27/</guid>
+      <guid>http://example.org/posts/workouts/2020-04-27/</guid>
       <description>A cloudy, overcast morning. I was hoping for some nice sunrise edge-of-cloud views, but I think I was too late off the mark to get them. Instead I discovered a new (to me) tiny park almost directly south of our house. Also, I forgot to start my route tracker, so I missed the first 500 meters or so of the route. Dang it.
 Snaps:
 Route:
@@ -1000,10 +1000,10 @@ Machine(s): none (street) Time: 56 mins Distance: probably around 5 km?</descrip
     
     <item>
       <title>Pfatter, Not Fatter</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200426-pfatter-not-fatter/</link>
+      <link>http://example.org/posts/bikerides/20200426-pfatter-not-fatter/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200426-pfatter-not-fatter/</guid>
+      <guid>http://example.org/posts/bikerides/20200426-pfatter-not-fatter/</guid>
       <description>Another beautiful day.
 I&amp;rsquo;ve seen the Donau Radweg route signs for 16 years, but I never followed them outside of town.
 I rode towards work, took the Osttangente / Odessaring bridge to the baseball stadium, started tracing the Danube right away. But it didn&amp;rsquo;t last too long, jutting south of Tegernheim and catching back up to the river bank about two thirds of the way to Donaustauf.
@@ -1012,20 +1012,20 @@ About half way through, my butt started hurting, so I took an inland shortcut in
     
     <item>
       <title>Kurzarbeit Rivery Loop </title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200422-kurzarbeit-rivery-loop/</link>
+      <link>http://example.org/posts/bikerides/20200422-kurzarbeit-rivery-loop/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200422-kurzarbeit-rivery-loop/</guid>
+      <guid>http://example.org/posts/bikerides/20200422-kurzarbeit-rivery-loop/</guid>
       <description>Another beautiful day, and one mandated off work. Thanks, Corona.
 My brain still woke me up at workday time, so why not make a bike ride of it? It was kind of cold for just shorts and a teesh, but I figured that&amp;rsquo;s motivation for me to keep moving. Right in the first 10 minutes I spotted two old pals, one of whom has a new doggy, &amp;ldquo;Spock&amp;rdquo;. That was along the Danube.</description>
     </item>
     
     <item>
       <title>Workout 2020 04 21</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-21/</link>
+      <link>http://example.org/posts/workouts/2020-04-21/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-21/</guid>
+      <guid>http://example.org/posts/workouts/2020-04-21/</guid>
       <description>Clearly there were some GPS issues here. I assure you I didn&amp;rsquo;t go into the river at all.
 Snaps:
 Route:
@@ -1034,10 +1034,10 @@ Machine(s): none (street) Time: 56 mins Distance: probably around 5 km? GPS said
     
     <item>
       <title>Workout 2020 04 21</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-20/</link>
+      <link>http://example.org/posts/workouts/2020-04-20/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-20/</guid>
+      <guid>http://example.org/posts/workouts/2020-04-20/</guid>
       <description>Took an evening walk with Sarah instead of my usual morning solo walk. Saw a few nice sunset scenes and discovered a hops garden in the Innere Osten neighborhood.
 Snaps: Route:
 Machine(s): none (street) Time: 1:25 Distance: 5.35 km Calories: 632 Calories from fat: 35% Average Heart Rate: 107 Maximum Heart Rate: 119 Fat Burn: 1:17 Fitness: 8 min Weight: not weighed </description>
@@ -1045,10 +1045,10 @@ Machine(s): none (street) Time: 1:25 Distance: 5.35 km Calories: 632 Calories fr
     
     <item>
       <title>Saturday Bad Abbach Loop</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200418_saturday_bad_abbach_loop/</link>
+      <link>http://example.org/posts/bikerides/20200418_saturday_bad_abbach_loop/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200418_saturday_bad_abbach_loop/</guid>
+      <guid>http://example.org/posts/bikerides/20200418_saturday_bad_abbach_loop/</guid>
       <description>Another beautiful day — well, at the beginning. By the end of my ride, the clouds started looming and threatening rain, but I got home before that started. And it blew over anyways.
 I had worried about two things:
   Headed south out of Regensburg is a more direct route, but getting up those hills and down in to Bad Abbach would be a real pain.
@@ -1057,10 +1057,10 @@ I had worried about two things:
     
     <item>
       <title>Workout 2020 04 17</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-16/</link>
+      <link>http://example.org/posts/workouts/2020-04-16/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-16/</guid>
+      <guid>http://example.org/posts/workouts/2020-04-16/</guid>
       <description>Lots of pics and a longer route this time — thanks Kurzarbeit — to make up for yesterday&amp;rsquo;s slacking.
 This was the first time I explored the Unterer Wöhrd &amp;ldquo;off-road.&amp;rdquo; Found some shelters near the Jugendherberge that looked a little spooky. I don&amp;rsquo;t know whether those are someone&amp;rsquo;s emergency shelter or just a relaxing hideaway.
 Snaps:
@@ -1070,10 +1070,10 @@ Machine(s): none (street) Time: 91 mins Distance: 7.25 km Calories: 661 Calories
     
     <item>
       <title>Workout 2020 04 15</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-15/</link>
+      <link>http://example.org/posts/workouts/2020-04-15/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-15/</guid>
+      <guid>http://example.org/posts/workouts/2020-04-15/</guid>
       <description>Cool early morning.
 No snaps this time &amp;ndash; nothing really spoke to me.
 Route:
@@ -1082,10 +1082,10 @@ Machine(s): none (street) Time: 71 mins Distance: 5.69 km Calories: 548 Calories
     
     <item>
       <title>Workout 2020 04 14</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-14/</link>
+      <link>http://example.org/posts/workouts/2020-04-14/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-14/</guid>
+      <guid>http://example.org/posts/workouts/2020-04-14/</guid>
       <description>A somewhat less beautiful day. I went for a walk after work, instead of before it. It was overcast and cool, but still okay for getting a strenuous walk in.
 Snaps:
 Route:
@@ -1094,10 +1094,10 @@ Machine(s): none (street) Time: 66 mins Distance: 5.38 km Calories: 493 Calories
     
     <item>
       <title>Workout 2020 04 13</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-13/</link>
+      <link>http://example.org/posts/workouts/2020-04-13/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-13/</guid>
+      <guid>http://example.org/posts/workouts/2020-04-13/</guid>
       <description>Another beautiful day. A Schnitzeljagd of sorts, even.
 Weltenburger am Dom is closed, apparently not even doing take-out, but the Kreuzschänke is accepting carry-out orders. I like that they encourage their patrons to bring their own food storage containers to reduce waste.
 Also, the Spanier im Bruckmandl is no more. Some kind of Currywurst joint is there now?
@@ -1108,23 +1108,24 @@ Apparently I lost a GPS connection for a while there. I did not march through pe
     
     <item>
       <title>Easter Sunday 2020 Ride</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200412_easter-sunday/</link>
+      <link>http://example.org/posts/bikerides/20200412_easter-sunday/</link>
       <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200412_easter-sunday/</guid>
+      <guid>http://example.org/posts/bikerides/20200412_easter-sunday/</guid>
       <description>First bike ride post evar. I wore my HRM and have some stats to report. It&amp;rsquo;s harder than I thought to ride my bike a medium pace.
-Your browser does not support the HTML5 Video element.  Route:
+Route:
 
 Distance (total): 28.7km First leg:
-Machine(s): bike Time: 59 mins Calories: 658 Calories from fat: 20% Average Heart Rate: 130 Maximum Heart Rate: 158 Fat Burn: 9 mins Fitness: 50 min Weight: not weighed Second leg:</description>
+Machine(s): bike Time: 59 mins Calories: 658 Calories from fat: 20% Average Heart Rate: 130 Maximum Heart Rate: 158 Fat Burn: 9 mins Fitness: 50 min Weight: not weighed Second leg:
+Machine(s): bike Time: 47 mins Calories: 544 Calories from fat: 19% Average Heart Rate: 133 Maximum Heart Rate: 152 Fat Burn: 11 mins Fitness: 36 min Weight: not weighed </description>
     </item>
     
     <item>
       <title>Ciao Bella Asparagi!</title>
-      <link>https://fat.cliff1976.net/posts/walks/20200411_sat/</link>
+      <link>http://example.org/posts/walks/20200411_sat/</link>
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/20200411_sat/</guid>
+      <guid>http://example.org/posts/walks/20200411_sat/</guid>
       <description>Scored fresh, local, green asparagus at the Donaumarkt &amp;ndash; grilled it for dinner for the second day in a row. Was a great accompaniment to the Bärlauchrisotto Sarah made.
 Desweiteren we went to Tutto Italiano for the first time and found some stuff that Il Mercato does not carry. Including wine from Badia a Coltibuono! What a score!
 Two routes, 11.3 km total today:
@@ -1133,20 +1134,20 @@ The splotchy bits are our wanderings inside the Lukullus Polish market on Grefli
     
     <item>
       <title>That escalated quickly.</title>
-      <link>https://fat.cliff1976.net/posts/walks/the_week_ending_20200410/</link>
+      <link>http://example.org/posts/walks/the_week_ending_20200410/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/the_week_ending_20200410/</guid>
+      <guid>http://example.org/posts/walks/the_week_ending_20200410/</guid>
       <description>I didn&amp;rsquo;t expect this week&amp;rsquo;s walk to be so&amp;hellip;threatening.
 This week&amp;rsquo;s routes (minus Thursday, which mysteriously went missing):</description>
     </item>
     
     <item>
       <title>Workout 2020 04 10</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-10/</link>
+      <link>http://example.org/posts/workouts/2020-04-10/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-10/</guid>
+      <guid>http://example.org/posts/workouts/2020-04-10/</guid>
       <description>Another beautiful day. Good Friday, even.
 Snaps:
 Route:
@@ -1155,10 +1156,10 @@ Machine(s): none (street) Time: 71 mins Distance: 6.1 km Calories: 504 Calories 
     
     <item>
       <title>Workout 2020 04 09</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-09/</link>
+      <link>http://example.org/posts/workouts/2020-04-09/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-09/</guid>
+      <guid>http://example.org/posts/workouts/2020-04-09/</guid>
       <description>Another beautiful day.
 Snaps:
 Route:
@@ -1167,10 +1168,10 @@ Machine(s): none (street) Time: 73 mins Distance: 6 km Calories: 610 Calories fr
     
     <item>
       <title>Workout 2020 04 08</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-08/</link>
+      <link>http://example.org/posts/workouts/2020-04-08/</link>
       <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-08/</guid>
+      <guid>http://example.org/posts/workouts/2020-04-08/</guid>
       <description>Another beautiful day.
 Did a loop behind the Max-Straße McD&amp;rsquo;s up and down some steps for fun. It was not very fun.
 Snaps:
@@ -1181,10 +1182,10 @@ Machine(s): none (street) Time: 81 mins Distance: 6.</description>
     
     <item>
       <title>Workout 2020 04 07</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-07/</link>
+      <link>http://example.org/posts/workouts/2020-04-07/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-07/</guid>
+      <guid>http://example.org/posts/workouts/2020-04-07/</guid>
       <description>Another beautiful day.
 Had to wait for a train in the Hafengebiet. Crossed a waterway along a train bridge — next time I think I&amp;rsquo;ll go all the way to Schwabelweis for a longer walk. Weird junky art stuff near the industrial recycling place right at the path leading from the bridge back down onto the south bank of the Danube.
 Snaps:
@@ -1194,20 +1195,20 @@ Machine(s): none (street) Time: 85 mins Distance: 6.</description>
     
     <item>
       <title>To Großprüfening and back</title>
-      <link>https://fat.cliff1976.net/posts/walks/20200405-to-gross-pruefening-and-back/</link>
+      <link>http://example.org/posts/walks/20200405-to-gross-pruefening-and-back/</link>
       <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/20200405-to-gross-pruefening-and-back/</guid>
+      <guid>http://example.org/posts/walks/20200405-to-gross-pruefening-and-back/</guid>
       <description>I knew I wanted to talk a long Sunday stroll, but I didn&amp;rsquo;t expect it would turn into a 10-mile (16-kilometer) multi-hour deal. Got a little sore by the end of it. More pictures on the Regensblog post about it.
 Route:</description>
     </item>
     
     <item>
       <title>Workout 2020 04 06</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-06/</link>
+      <link>http://example.org/posts/workouts/2020-04-06/</link>
       <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-06/</guid>
+      <guid>http://example.org/posts/workouts/2020-04-06/</guid>
       <description>Another beautiful day.
 Got started later than normal. Yesterday was a 16km stroll, so today&amp;rsquo;s walk of only 5.2km and starting later felt justified.
 Snaps:
@@ -1217,19 +1218,19 @@ Machine(s): none (street) Time: 58 mins Distance: 5.2 km Calories: 449 Calories 
     
     <item>
       <title>This Week&#39;s Walks</title>
-      <link>https://fat.cliff1976.net/posts/walks/walks_20200330-0403/</link>
+      <link>http://example.org/posts/walks/walks_20200330-0403/</link>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/walks_20200330-0403/</guid>
+      <guid>http://example.org/posts/walks/walks_20200330-0403/</guid>
       <description>Here&amp;rsquo;s where I&amp;rsquo;ve been.</description>
     </item>
     
     <item>
       <title>Workout 2020 04 03</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-03/</link>
+      <link>http://example.org/posts/workouts/2020-04-03/</link>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-03/</guid>
+      <guid>http://example.org/posts/workouts/2020-04-03/</guid>
       <description>Another beautiful day. No 8:00 meeting this morning, thankyouverymuch.
 The Westhafen was quite still. Erdbeer-Rhabarber Streuselküchle are back at the Beck.
 Route:
@@ -1238,10 +1239,10 @@ Machine(s): none (street) Time: 66 mins Distance: 5.48 km Calories: 541 Calories
     
     <item>
       <title>Workout 2020 04 02</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-02/</link>
+      <link>http://example.org/posts/workouts/2020-04-02/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-02/</guid>
+      <guid>http://example.org/posts/workouts/2020-04-02/</guid>
       <description>Another beautiful day. Got started earlier than normal thanks to an 8:00 meeting. 3rd in a row. Criminy.
 Figured out that a brisk walk to/from work, if I ever go back there, is nearly exactly a 30-minute affair (using the bike paths and avoiding traffic lights).
 Route:
@@ -1250,10 +1251,10 @@ Machine(s): none (street) Time: 66 mins Distance: 6.6 km Calories: 641 Calories 
     
     <item>
       <title>Workout 2020 04 01</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-01/</link>
+      <link>http://example.org/posts/workouts/2020-04-01/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-01/</guid>
+      <guid>http://example.org/posts/workouts/2020-04-01/</guid>
       <description>Another beautiful day. Got started earlier than normal thanks to an 8:00 meeting. 2nd in a row. Work is a pain like that.
 Remember: you can get gelbe Säcke at the HEM Tankstelle on Friedenstraße 24 hours a day!
 Route:
@@ -1262,10 +1263,10 @@ Machine(s): none (street) Time: 47 mins Distance: 4.15 km Calories: 464 Calories
     
     <item>
       <title>Workout 2020 03 31</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-31/</link>
+      <link>http://example.org/posts/workouts/2020-03-31/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-31/</guid>
+      <guid>http://example.org/posts/workouts/2020-03-31/</guid>
       <description>Another beautiful day. Got started earlier than normal thanks to an 8:00 meeting.
 Route:
 Machine(s): none (street) Time: 59 mins Distance: 5.17 km Calories: 476 Calories from fat: 33% Average Heart Rate: 111 Maximum Heart Rate: 123 Fat Burn: 40 mins Fitness: 19 mins Weight: not weighed </description>
@@ -1273,10 +1274,10 @@ Machine(s): none (street) Time: 59 mins Distance: 5.17 km Calories: 476 Calories
     
     <item>
       <title>Workout 2020 03 30</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-30/</link>
+      <link>http://example.org/posts/workouts/2020-03-30/</link>
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-30/</guid>
+      <guid>http://example.org/posts/workouts/2020-03-30/</guid>
       <description>Another beautiful day.
 Route:
 Machine(s): none (street) Time: 63 mins Distance: 7 km Calories: 496 Calories from fat: 34% Average Heart Rate: 109 Maximum Heart Rate: 130 Fat Burn: 55 mins Fitness: 8 mins Weight: not weighed </description>
@@ -1284,10 +1285,10 @@ Machine(s): none (street) Time: 63 mins Distance: 7 km Calories: 496 Calories fr
     
     <item>
       <title>Workout 2020 03 27</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-27/</link>
+      <link>http://example.org/posts/workouts/2020-03-27/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-27/</guid>
+      <guid>http://example.org/posts/workouts/2020-03-27/</guid>
       <description>Another beautiful day.
 Some snaps: Route:
 Machine(s): none (street) Time: 1 hour 16 mins Distance: 7.1 km Calories: 620 Calories from fat: 33% Average Heart Rate: 111 Maximum Heart Rate: 133 Fat Burn: 59 mins Fitness: 17 mins Weight: not weighed </description>
@@ -1295,10 +1296,10 @@ Machine(s): none (street) Time: 1 hour 16 mins Distance: 7.1 km Calories: 620 Ca
     
     <item>
       <title>Workout 2020 03 26</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-26/</link>
+      <link>http://example.org/posts/workouts/2020-03-26/</link>
       <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-26/</guid>
+      <guid>http://example.org/posts/workouts/2020-03-26/</guid>
       <description>Another beautiful day. Finally made it up to the top of the Dreifaltigkeitsberg. Walked down the east face of the hill towards the Regen banks and made my way from there back home via the Nibelungenbrücke.
 Some snaps:
 Route:
@@ -1307,10 +1308,10 @@ Machine(s): none (street) Time: 1 hour 37 mins Distance: 8.02 km Calories: 946 C
     
     <item>
       <title>Workout 2020 03 25</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-25/</link>
+      <link>http://example.org/posts/workouts/2020-03-25/</link>
       <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-25/</guid>
+      <guid>http://example.org/posts/workouts/2020-03-25/</guid>
       <description>Another beautiful day. Went south up to the Alte Mälzerei, then west through Kumpfmühl and south back into the Alstadt via the Schloßpark.
 Route:
 Machine(s): none (street) Time: 1 hour 10 mins Distance: 5.18 km Calories: 637 Calories from fat: 34% Average Heart Rate: 111 Maximum Heart Rate: 135 Fat Burn: 65 mins Fitness: 5 mins Weight: not weighed </description>
@@ -1318,10 +1319,10 @@ Machine(s): none (street) Time: 1 hour 10 mins Distance: 5.18 km Calories: 637 C
     
     <item>
       <title>Workout 2020 03 24</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-24/</link>
+      <link>http://example.org/posts/workouts/2020-03-24/</link>
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-24/</guid>
+      <guid>http://example.org/posts/workouts/2020-03-24/</guid>
       <description>Another beautiful day. Went north and east near Sedanstraße and back through the Candis Park. Kind of an interesting mix of pretty, ugly, and ultra-modern dwellings all in this area.
 Route:
 Machine(s): none (street) Time: 56 mins Distance: not sure (OsmAnd forced a reboot) Calories: 476 Calories from fat: 33% Average Heart Rate: 114 Maximum Heart Rate: 126 Fat Burn: 41 mins Fitness: 14 mins Weight: not weighed </description>
@@ -1329,10 +1330,10 @@ Machine(s): none (street) Time: 56 mins Distance: not sure (OsmAnd forced a rebo
     
     <item>
       <title>Workout 2020 03 23</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-22/</link>
+      <link>http://example.org/posts/workouts/2020-03-22/</link>
       <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-22/</guid>
+      <guid>http://example.org/posts/workouts/2020-03-22/</guid>
       <description>Another beautiful day. Went south and east along Alfons-Auer-Straße. Nothing spectacular to see there, really, but the Edeka on Hornstraße is pretty easy to reach from there.
 Route:
 Machine(s): none (street) Time: 45 mins Distance: 5.44 km Calories: 434 Calories from fat: 28% Average Heart Rate: 121 Maximum Heart Rate: 131 Fat Burn: 9 mins Fitness: 46 mins Weight: not weighed </description>
@@ -1340,10 +1341,10 @@ Machine(s): none (street) Time: 45 mins Distance: 5.44 km Calories: 434 Calories
     
     <item>
       <title>Bad Abbach 2020 03 20</title>
-      <link>https://fat.cliff1976.net/posts/walks/bad_abbach_2020-03-20/</link>
+      <link>http://example.org/posts/walks/bad_abbach_2020-03-20/</link>
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/bad_abbach_2020-03-20/</guid>
+      <guid>http://example.org/posts/walks/bad_abbach_2020-03-20/</guid>
       <description>This was the last chance to leave town before the Ausgangsbeschränkung went into effect at midnight tonight, so we took it. We also saw
  where our pal gets all those beautiful mystical forest shots of his dogs, and some ancient Celtic mystery forest stuff [cue the spooky music], and the foundations of an old Roman bathhouse as the ruins from a Villa Rustica  Route:
 Time: 121 mins Distance: 7.</description>
@@ -1351,10 +1352,10 @@ Time: 121 mins Distance: 7.</description>
     
     <item>
       <title>Workout 2020 03 20</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-20/</link>
+      <link>http://example.org/posts/workouts/2020-03-20/</link>
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-20/</guid>
+      <guid>http://example.org/posts/workouts/2020-03-20/</guid>
       <description>Another beautiful day. Tried out Kumpfmühl for the first time; some nice neighborhoods there.
 Route:
 Machine(s): none (street) Time: 58 mins Distance: 5.05 km Calories: 576 Calories from fat: 29% Average Heart Rate: 116 Maximum Heart Rate: 132 Fat Burn: 28 mins Fitness: 36 mins Weight: not weighed </description>
@@ -1362,10 +1363,10 @@ Machine(s): none (street) Time: 58 mins Distance: 5.05 km Calories: 576 Calories
     
     <item>
       <title>Workout 2020 03 19</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-19/</link>
+      <link>http://example.org/posts/workouts/2020-03-19/</link>
       <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-19/</guid>
+      <guid>http://example.org/posts/workouts/2020-03-19/</guid>
       <description>Same weather as yesterday, but without the clouds. Nice mix of city and waterways.
 Route:
 Machine(s): none (street) Time: 58 mins Distance: 5.05 km Calories: 466 Calories from fat: 34% Average Heart Rate: 111 Maximum Heart Rate: 127 Fat Burn: 45 mins Fitness: 13 mins Weight: not weighed </description>
@@ -1373,10 +1374,10 @@ Machine(s): none (street) Time: 58 mins Distance: 5.05 km Calories: 466 Calories
     
     <item>
       <title>Workout 2020 03 18</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-18/</link>
+      <link>http://example.org/posts/workouts/2020-03-18/</link>
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-18/</guid>
+      <guid>http://example.org/posts/workouts/2020-03-18/</guid>
       <description>Cloudy and foggy early morning weather made a rather unattractive city walk behind a residential complex somewhat spooky.
 Route:
 Machine(s): none (street) Time: 52 mins Distance: 4.67 km Calories: 475 Calories from fat: 31% Average Heart Rate: 117 Maximum Heart Rate: 130 Fat Burn: 32 mins Fitness: 20 mins Weight: not weighed </description>
@@ -1384,10 +1385,10 @@ Machine(s): none (street) Time: 52 mins Distance: 4.67 km Calories: 475 Calories
     
     <item>
       <title>Workout 2020 03 17</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-17/</link>
+      <link>http://example.org/posts/workouts/2020-03-17/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-17/</guid>
+      <guid>http://example.org/posts/workouts/2020-03-17/</guid>
       <description>Happy Shamrock Shake Day! :(
 We walked up and down the south bank of the Danube awhile.
 Machine(s): none (street) Time: 52 mins Distance: unknown Calories: 300 Calories from fat: 41% Average Heart Rate: 104 Maximum Heart Rate: 123 Fat Burn: 42 mins Fitness: 0 mins Weight: not weighed </description>
@@ -1395,187 +1396,187 @@ Machine(s): none (street) Time: 52 mins Distance: unknown Calories: 300 Calories
     
     <item>
       <title>Workout 2020 03 15</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-15/</link>
+      <link>http://example.org/posts/workouts/2020-03-15/</link>
       <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-15/</guid>
+      <guid>http://example.org/posts/workouts/2020-03-15/</guid>
       <description>Went for a walk outside in bright sunny weather instead of a gym visit this time. We walked all the way from our house to Il Mercato and back, checking out the construction sites at Albertstraße and in the Dörnbergviertel.
-View Larger Map Machine(s): none (street) Time: 64 minutes Distance: dunno Calories: 446 Calories from fat: 39% Average Heart Rate: 105 Maximum Heart Rate: 117 Fat Burn: 62 minutes Fitness: 2 minutes Weight: not measured </description>
+Machine(s): none (street) Time: 64 minutes Distance: dunno Calories: 446 Calories from fat: 39% Average Heart Rate: 105 Maximum Heart Rate: 117 Fat Burn: 62 minutes Fitness: 2 minutes Weight: not measured </description>
     </item>
     
     <item>
       <title>Workout 2020 03 12</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-12/</link>
+      <link>http://example.org/posts/workouts/2020-03-12/</link>
       <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-12/</guid>
+      <guid>http://example.org/posts/workouts/2020-03-12/</guid>
       <description>Machine(s): elliptical Time: 40 minutes Distance: 4.32 km Calories: 369 Calories from fat: 32% Average Heart Rate: 118 Maximum Heart Rate: 123 Fat Burn: 33 minutes Fitness: 7 minutes Weight: not measured </description>
     </item>
     
     <item>
       <title>Workout 2020 03 11</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-11/</link>
+      <link>http://example.org/posts/workouts/2020-03-11/</link>
       <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-11/</guid>
+      <guid>http://example.org/posts/workouts/2020-03-11/</guid>
       <description>First workout again after the big weekend activity with Democrats Abroad. Back on the horse.
 Machine(s): elliptical Time: 41 minutes Distance: 4.3 km Calories: 375 Calories from fat: 28% Average Heart Rate: 117 Maximum Heart Rate: 129 Fat Burn: 21 minutes Fitness: 20 minutes Weight: not measured </description>
     </item>
     
     <item>
       <title>Workout 2020 03 05</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-05/</link>
+      <link>http://example.org/posts/workouts/2020-03-05/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-05/</guid>
+      <guid>http://example.org/posts/workouts/2020-03-05/</guid>
       <description>Machine(s): elliptical Time: 40 minutes Distance: 4.24 km Calories: 345 Calories from fat: 32% Average Heart Rate: 114 Maximum Heart Rate: 121 Fat Burn: 33 minutes Fitness: 7 minutes Weight: not measured </description>
     </item>
     
     <item>
       <title>Workout 2020 03 04</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-04/</link>
+      <link>http://example.org/posts/workouts/2020-03-04/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-04/</guid>
+      <guid>http://example.org/posts/workouts/2020-03-04/</guid>
       <description>Machine(s): elliptical Time: 40 minutes Distance: 4.37 km Calories: 338 Calories from fat: 33% Average Heart Rate: 113 Maximum Heart Rate: 120 Fat Burn: 37 minutes Fitness: 3 minutes Weight: not measured </description>
     </item>
     
     <item>
       <title>Workout 2020 03 02</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-02/</link>
+      <link>http://example.org/posts/workouts/2020-03-02/</link>
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-02/</guid>
+      <guid>http://example.org/posts/workouts/2020-03-02/</guid>
       <description>Weighed in, since I&amp;rsquo;d skipped it last week.
 Machine(s): elliptical Settings: incline 1, resistance 3 Time: 38 minutes Distance: 4.5 km Calories: 318 Calories from fat: 32% Average Heart Rate: 112 Maximum Heart Rate: 127 Fat Burn: 29 minutes Fitness: 9 minutes Weight: 113 kg (no change) </description>
     </item>
     
     <item>
       <title>Workout 2020 02 26</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-02-26/</link>
+      <link>http://example.org/posts/workouts/2020-02-26/</link>
       <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-02-26/</guid>
+      <guid>http://example.org/posts/workouts/2020-02-26/</guid>
       <description>Forgot to weigh myself; was a running a bit short on time and I didn&amp;rsquo;t go at all on Wednesday.
 Machine(s): elliptical Settings: incline 1, resistance 3 Time: 37 minutes Distance: 4.5 km Calories: 323 Calories from fat: 30% Average Heart Rate: 115 Maximum Heart Rate: 127 Fat Burn: 20 minutes Fitness: 16 minutes Weight: not weighed </description>
     </item>
     
     <item>
       <title>Workout 2020 02 24</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-02-24/</link>
+      <link>http://example.org/posts/workouts/2020-02-24/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-02-24/</guid>
+      <guid>http://example.org/posts/workouts/2020-02-24/</guid>
       <description>Felt like it was harder to stay in the target heart range &amp;ndash; maybe because of the four-day gap since the previous workout. I may need to start going more than 3 days a week, which also means maybe going on at least one weekend day, eating into shopping time on Saturdays, or being crowded on Sundays. Yuck.
 Machine(s): elliptical Settings: incline 1, resistance 3 Time: 37 minutes Distance: 4.5 km Calories: 362 Calories from fat: 28% Average Heart Rate: 121 Maximum Heart Rate: 133 Fat Burn: 12 minutes Fitness: 25 minutes Weight: not weighed </description>
     </item>
     
     <item>
       <title>Workout 2020 02 20</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-02-20/</link>
+      <link>http://example.org/posts/workouts/2020-02-20/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-02-20/</guid>
+      <guid>http://example.org/posts/workouts/2020-02-20/</guid>
       <description>Got there right on time this time. Pick of the machines.
 Machine(s): elliptical Settings: incline 1, resistance 5 and 3 Time: 40 minutes Distance: 4.5 km Calories: 375 Calories from fat: 31% Average Heart Rate: 115 Maximum Heart Rate: 128 Fat Burn: 26 minutes Fitness: 14 minutes Weight: not weighed </description>
     </item>
     
     <item>
       <title>Workout 2020 02 18</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-02-18/</link>
+      <link>http://example.org/posts/workouts/2020-02-18/</link>
       <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-02-18/</guid>
+      <guid>http://example.org/posts/workouts/2020-02-18/</guid>
       <description>A little late getting started today, but my first meeting (working from home) was not until 09:30, so NBD. After this workout, I adjusted my watches settings to reflect my weight of 114 kg (it was set at 123 kg from my last doctor visit).
 Machine(s): elliptical Settings: incline 1, resistance 3 Time: 62 minutes Distance: 6.60 km Calories: 640 Calories from fat: 29% Average Heart Rate: 127 Maximum Heart Rate: 140 Fat Burn: 34 minutes Fitness: 28 minutes Weight: not weighed </description>
     </item>
     
     <item>
       <title>Workout 2020 02 16</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-02-16/</link>
+      <link>http://example.org/posts/workouts/2020-02-16/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-02-16/</guid>
+      <guid>http://example.org/posts/workouts/2020-02-16/</guid>
       <description>Messed around and got there later than I intended — 9:30 instead of the crack of 9. It was already kinda smelly in there. I guess that&amp;rsquo;s my penance. Mix of old and young people, but very few in between in my demographic. The Crossfit OONCE OONCE OONCE started at 10, which is another reason to get in and get out before they crank it up.
 Machine(s): elliptical Settings: incline 1, resistance 8 Time: 42 minutes Distance: 7.</description>
     </item>
     
     <item>
       <title>Workout 2020 02 13</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-02-13/</link>
+      <link>http://example.org/posts/workouts/2020-02-13/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-02-13/</guid>
+      <guid>http://example.org/posts/workouts/2020-02-13/</guid>
       <description>I knew Friday wasn&amp;rsquo;t going to be an option due to a work meeting at 07:30. This messes up my whole MWF vibe, but it won&amp;rsquo;t be the last time.
 Machine(s): elliptical Settings: incline 1, resistance Time: 41 minutes Distnce: 5.15 km Calories: 444 Calories from fat: 18% Average Heart Rate: 130 Maximum Heart Rate: 143 Fat Burn: 1 minutes Fitness: 41 minutes Weight: not weighed </description>
     </item>
     
     <item>
       <title>Workout 2020 02 12</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-02-12/</link>
+      <link>http://example.org/posts/workouts/2020-02-12/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-02-12/</guid>
+      <guid>http://example.org/posts/workouts/2020-02-12/</guid>
       <description>Second weigh-in of the year. Gained a pound(ish). I think the increassed activity these past two weeks has made me hungrier, and I&amp;rsquo;m eating more. Guess that&amp;rsquo;s OK as long as it&amp;rsquo;s the low-cal stuff.
 Machine(s): elliptical Settings: incline 6, resistance 1 (but that doesn&#39;t seem right; I thought it was incline 1, resistance 8) Time: 42 minutes Calories: 374 Calories from fat: 30% Average Heart Rate: 117 Maximum Heart Rate: 127 Fat Burn: 22 minutes Fitness: 20 minutes Weight: 114 kg </description>
     </item>
     
     <item>
       <title>Workout 2020 02 10</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-02-10/</link>
+      <link>http://example.org/posts/workouts/2020-02-10/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-02-10/</guid>
+      <guid>http://example.org/posts/workouts/2020-02-10/</guid>
       <description>Gotta make sure my chest is good and wet before I get started. The watch was having trouble reading my pulse (although the Precor elliptical thing appeared to have no problem&amp;hellip;).
 Machine(s): elliptical Settings: incline: 1 resistance: 8 Time: 41 minutes Calories: 324 Calories from fat: 29% Average Heart Rate: 116 Maximum Heart Rate: 124 Fat Burn: 14 minutes Fitness: 23 minutes Weight: not measured </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://fat.cliff1976.net/about/</link>
+      <link>http://example.org/about/</link>
       <pubDate>Sun, 09 Feb 2020 07:07:15 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/about/</guid>
+      <guid>http://example.org/about/</guid>
       <description>This is me, trying to lose some weight. At least enough to show my doctor some progress before my next visit.
 I am numbers-driven by nature, so maybe capturing these stats will help keep me from falling off the wagon.</description>
     </item>
     
     <item>
       <title>Workout 2020 02 07</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-02-07/</link>
+      <link>http://example.org/posts/workouts/2020-02-07/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-02-07/</guid>
+      <guid>http://example.org/posts/workouts/2020-02-07/</guid>
       <description>This one proved that I can be at the gym at 7:02, get a decent amount of time in on the machine of my choice (they were all empty), and still walk back home with time to change into work clothes for a bike ride into work by 9:00. Or close enough to it.
 Machine(s): elliptical Settings: dunno Time: 42 minutes Calories: 408 Calories from fat: 29% Average Heart Rate: 121 Maximum Heart Rate: 133 Fat burn: 17 minutes Fitness: 25 minutes Weight: not measured </description>
     </item>
     
     <item>
       <title>Workout 2020 02 05</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-02-05/</link>
+      <link>http://example.org/posts/workouts/2020-02-05/</link>
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-02-05/</guid>
+      <guid>http://example.org/posts/workouts/2020-02-05/</guid>
       <description>First weigh-in of the year. Surprisingly: I&amp;rsquo;m down about 9.5 kg from June 2019 and 8 kg from October 2019 at the doctor&amp;rsquo;s office. Either:
  one (or both?) of the scales are miscalibrated, or I have lost weight by going on vacation in December (???), or something evil is happening and I&amp;rsquo;m losing weight for bad reasons.  Machine(s): elliptical Settings: dunno Time: 42 minutes Calories: 399 Calories from fat: 26% Average Heart Rate: 120 Maximum Heart Rate: 131 Fat Burn: 9 minutes Fitness: 33 minutes Weight: 113.</description>
     </item>
     
     <item>
       <title>Workout 2020 02 03</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-02-03/</link>
+      <link>http://example.org/posts/workouts/2020-02-03/</link>
       <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-02-03/</guid>
+      <guid>http://example.org/posts/workouts/2020-02-03/</guid>
       <description>Ugh. The first one. And it&amp;rsquo;s a Monday.
 Machine(s): elliptical Settings: dunno Time: 42 minutes Calories: 381 Calories from fat: 30% Average Heart Rate: 117 Maximum Heart Rate: 131 Fat burn: 23 minutes Fitness: 19 minutes Weight: not measured </description>
     </item>
     
     <item>
       <title>Gettin&#39; Back Up on the Horse</title>
-      <link>https://fat.cliff1976.net/posts/gettin-back-up-on-the-horse/</link>
+      <link>http://example.org/posts/gettin-back-up-on-the-horse/</link>
       <pubDate>Sun, 02 Feb 2020 06:55:51 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/gettin-back-up-on-the-horse/</guid>
+      <guid>http://example.org/posts/gettin-back-up-on-the-horse/</guid>
       <description>It&amp;rsquo;s February 2020. Anyone with flimsy resolutions in January has probably already broken them. This is a good time for my ass to get back into a routine.
 My excuse through most of last year was that work was getting in the way; too many meetings before 9:00 a.m., and experience has shown that I have to do my gym shit in the morning, or not at all. And since the gym doesn&amp;rsquo;t open until 7:00, that meant not at all.</description>
     </item>

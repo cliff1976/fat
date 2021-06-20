@@ -1,135 +1,24 @@
-baseURL = "https://fat.cliff1976.net"
+baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Tryna Get Less Fat, Yo."
-
-paginate = 10
-
-theme = "hello-friend-ng"
-# theme = "hugo-notepadium"
-# copyright = "©2021 cliff1976."
-
-publishDir = "public/"
-hasCJKLanguage = false
-
+title = "Accessible Minimalism"
+theme = "accessible-minimalism"
+disableHugoGeneratorInject = true
 enableRobotsTXT = true
 
-# Enable Disqus
-#disqusShortname = "XXX"
-
-# Google Analytics
-#googleAnalytics = "UA-123-45"
-
-[markup.highlight]
-codeFences = true
-noClasses = false
-
-[markup.goldmark.renderer]
-unsafe = true  # enable raw HTML in Markdown
-
-[params]
-style = "auto"  # default: auto. light: light theme, dark: dark theme, auto: based on system.
-dateFormat = "Monday, January 2, 2006"  # if unset, default is "2006-01-02"
-footerRight = "theme by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a> with adaptations by cliff1976" 
-
-# with hello-friend-ng
-dateform = "2 Jan, 2006"
-dateformShort = "2 Jan 2006"
-dateformNum = "2006-01-02"
-dateformNumTime = "2006-01-02 15:04"
-homeSubtitle = "I am not spending this whole lockdown in front of the computer, I promise!"
-
-# Set disableReadOtherPosts to true in order to hide the links to other posts.
-  disableReadOtherPosts = false
-
-  # Enable sharing buttons, if you like
-  enableSharingButtons = false
-
-  # Metadata mostly used in document's head
-  description = "Proving to my doctor I'm not just sitting in front of the computer 24 hours a day."
-  keywords = "homepage, blog"
-  images = [""]
-
-[taxonomies]
-    category = "blog"
-    # category = "walks"
-    # category = "workouts"
-    # category = "bikerides"
-    tag      = "tags"
-    series   = "series"
-
-[languages]
-  [languages.en]
-    title = "Tryna Get Less Fat, Yo."
-    # keeping the subtitle blank for now
-    subtitle = ""
-    keywords = ""
-    copyright = 'cliff1976  <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    readOtherPosts = "Read other posts"
-
-    [languages.en.params.logo]
-      logoText = "keepin' it movin'"
-      logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
-
-  # And you can even create generic menu
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
+    name = "Home"
+    url = "/"
+    weight = 1
   [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "posts/"
+    name = "About"
+    url = "/about/"
+    weight = 2
   [[menu.main]]
-    identifer = "walks"
-    name = "Walks"
-    url = "posts/walks/"
+    name = "Bike Rides"
+    url = "/posts/bikerides"
+    weight = 3
   [[menu.main]]
-    identifief = "bikerides"
-    name       = "Bike Rides"
-    url        = "posts/bikerides"
-
-
-# end hello-friend-ng stuff
-
-logo = ""  # if you have a logo png
-slogan = "It's not like I'm going to starve."
-license = ""  # CC License
-
-[params.comments]
-enable = false  # En/Disable comments globally, default: false. You can always enable comments on per page.
-
-[params.math]
-enable = false  # optional: true, false. Enable globally, default: false. You can always enable math on per page.
-use = "katex"  # option: "katex", "mathjax". default: "katex"
-
-[params.syntax]
-use = "none"  # builtin: "prismjs", "hljs". "none" means Chroma
-theme = "dracula"
-darkTheme = "xcode-dark"  # apply this theme in dark mode
-
-[params.nav]
-showCategories = false       # /categories/
-showTags = false             # /tags/
-
-# custom navigation items
-
-[[params.nav.custom]]
-title = "About"
-url = "/about"
-
-[[params.nav.custom]]
-title = "Workouts"
-url = "/posts/workouts"
-
-[[params.nav.custom]]
-title = "Walks"
-url = "/posts/walks"
-
-[[params.nav.custom]]
-title = "Bike Rides"
-url = "/posts/bikerides"
+    name = "Other Posts"
+    url = "/posts/"
+    weight = 4
