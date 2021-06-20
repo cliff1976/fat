@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fat.clif1976.net/sitemap.xml

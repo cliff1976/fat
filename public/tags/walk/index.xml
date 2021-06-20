@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>walk on My Bike Rides and Stuff</title>
-    <link>https://fat.cliff1976.net/tags/walk/</link>
-    <description>Recent content in walk on My Bike Rides and Stuff</description>
+    <title>walk on cliff1976</title>
+    <link>https://fat.clif1976.net/tags/walk/</link>
+    <description>Recent content in walk on cliff1976</description>
+    <image>
+      <url>https://fat.clif1976.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://fat.clif1976.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://fat.cliff1976.net/tags/walk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://fat.clif1976.net/tags/walk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bad Abbach 2020 03 20</title>
-      <link>https://fat.cliff1976.net/posts/walks/bad_abbach_2020-03-20/</link>
+      <link>https://fat.clif1976.net/posts/walks/bad_abbach_2020-03-20/</link>
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/walks/bad_abbach_2020-03-20/</guid>
+      <guid>https://fat.clif1976.net/posts/walks/bad_abbach_2020-03-20/</guid>
       <description>This was the last chance to leave town before the Ausgangsbeschränkung went into effect at midnight tonight, so we took it. We also saw
  where our pal gets all those beautiful mystical forest shots of his dogs, and some ancient Celtic mystery forest stuff [cue the spooky music], and the foundations of an old Roman bathhouse as the ruins from a Villa Rustica  Route:
 Time: 121 mins Distance: 7.</description>

@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Bike Rides on My Bike Rides and Stuff</title>
-    <link>https://fat.cliff1976.net/posts/bikerides/</link>
-    <description>Recent content in Bike Rides on My Bike Rides and Stuff</description>
+    <title>Bike Rides on cliff1976</title>
+    <link>https://fat.clif1976.net/posts/bikerides/</link>
+    <description>Recent content in Bike Rides on cliff1976</description>
+    <image>
+      <url>https://fat.clif1976.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://fat.clif1976.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fat.cliff1976.net/posts/bikerides/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fat.clif1976.net/posts/bikerides/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zweimal Irading, Graßlfing, Zwei Mal Gebraching</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210620/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20210620/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210620/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20210620/</guid>
       <description>What&amp;rsquo;s with all the -ings around here, anyways?
 I&amp;rsquo;ve ridden past zur Walba more times than I can count over the last year, and I&amp;rsquo;ve always looked up the hill on the cross street and shuddered at the thought of biking past it. Well, today, I bit the bullet and did it. It was long and slow, but much less steep than I imagined.
 It was supposed to be 32 °C by noon today, so I made sure to get started before 8:00.</description>
@@ -20,19 +23,20 @@ It was supposed to be 32 °C by noon today, so I made sure to get started before
     
     <item>
       <title>Do the big hills first...works much better!</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210613/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20210613/</link>
       <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210613/</guid>
-      <description>I went up those hills south of Regensburg on the way to Pentling that used to discourage me. I won&amp;rsquo;t say they&amp;rsquo;re easy now, but I can chug along in my lowest gear without feeling like I&amp;rsquo;m risking a heart attack. Basically abandon all hope, ye who enter Kumpfmühl&amp;hellip;it&amp;rsquo;s a long, mostly uphill slog to Hohengebraching. But after that it was pretty nice all the rest of the way back home.</description>
+      <guid>https://fat.clif1976.net/posts/bikerides/20210613/</guid>
+      <description>I went up thosehillssouth of Regensburg on the way to Pentling that used to discourage me. I won&amp;rsquo;t say they&amp;rsquo;re easy now, but I can chug along in my lowest gear without feeling like I&amp;rsquo;m risking a heart attack. Basically abandon all hope, ye who enter Kumpfmühl&amp;hellip;it&amp;rsquo;s a long, mostly uphill slog to Hohengebraching. But after that it was pretty nice all the rest of the way back home.
+Snaps Route You might need to tap or click the map to make it bigger.</description>
     </item>
     
     <item>
       <title>Rained out OTW to Pielenhofen</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210606/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20210606/</link>
       <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210606/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20210606/</guid>
       <description>It was supposed to rain all day. I was excited to see a break predicted, so I saddled up and trudged on.
 I left the garage to find a fine mist greeting me on the street. I thought to myself:
  You got this, Self. Press on, you&amp;rsquo;re tougher than this.
@@ -42,19 +46,19 @@ By the time I got to Mariaort, I was just done. I can handle being cold.</descri
     
     <item>
       <title>Irlbach and Grünthal</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210604/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20210604/</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210604/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20210604/</guid>
       <description>Thursday, June 3rd was Fronleichnam (&amp;ldquo;Happy Cadaver&amp;rdquo;). Most people I work with took Friday as a Brückentag (bridge day)&amp;hellip;but not me. I worked a good chunk of a normal day, finishing what I wanted to achieve before next week, and headed out for an evening ride, on purpose shooting for about 20 km. I took a brand new (to me) route to the northeast heading through the Konradsiedlung, Wutzlhofen, on a tangent to Haslbach on my way to Irlbach.</description>
     </item>
     
     <item>
       <title>Hainsacker→Pettendorf→Mariaort</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210530/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20210530/</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210530/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20210530/</guid>
       <description>It was a nice day for a ride. Not as long as some of my other ones, but man&amp;hellip;them hills up to Hainsacker are a real slog.
 Snaps Video Recap   Route You might need to tap or click the map to make it bigger. The red solid route was my intention. The blue dashed route is my actual route.
  Stats Total Distance: 28.8 km Time: 1:58 Calories: 1467 Calories from fat: 15 % Average Heart Rate: 138 Maximum Heart Rate: 170 Fat Burn: 0:06 Fitness: 1:52 </description>
@@ -62,57 +66,57 @@ Snaps Video Recap   Route You might need to tap or click the map to make it bigg
     
     <item>
       <title>Holiday Glide</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210524/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20210524/</link>
       <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210524/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20210524/</guid>
       <description>It was Pfingstmontag and I had the day off of work. I intended a nice long ride, but
  I just wasn&amp;rsquo;t feeling it, and I took a wrong turn near Burgweinting, and again at Obertraubling, and decided to swing by the airstrip, and the rain was threatening the whole time  So I cut it drastically short. But it was still a pretty good ride. Kinda got the impression that glider was following me though.</description>
     </item>
     
     <item>
       <title>Regenstauf Restock</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210514/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20210514/</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210514/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20210514/</guid>
       <description>I needed to hit the packaging-free store again, and it was kind of a holiday weekend (Christi Himmelfahrt, or Ascension for those keeping score at home), and there was a window of agreeable weather. (The rest of this weekend has been pretty iffy, weather-wise.) So, after work on Friday, I got on the ol&#39; Drahtesel once again and headed up to Regenstauf to Quantum Satis to refill my own containers of</description>
     </item>
     
     <item>
       <title>Big ambition...but no</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210509/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20210509/</link>
       <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210509/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20210509/</guid>
       <description>It had been a couple weeks, so I guess I&amp;rsquo;m not all that surprised that I bailed about a quarter of the way through and chopped the route in half. Nothing hurt particularly — I could just tell I wasn&amp;rsquo;t feeling it would regret not crossing the Danube at Donaustauf when I had the chance.
 Snaps Video Recaps   Route You might need to tap or click the map to make it bigger.</description>
     </item>
     
     <item>
       <title>Flat Loop</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210425/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20210425/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210425/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20210425/</guid>
       <description>It&amp;rsquo;s been two weeks since I took a Sunday ride, so I was happy the route I chose was very flat. I rode over to a buddy&amp;rsquo;s house in Neutraubling, met him there, and then we followed the Danube back towards Mariaort. At least we&amp;rsquo;d planned to: the bike/walking path along the north back is still all torn up — probably for the same reason as it was on March 21st.</description>
     </item>
     
     <item>
       <title>Kelheim, First Time</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210411/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20210411/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210411/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20210411/</guid>
       <description>W00T! First time venturing this far west on the ol&#39; Drahtesel. Whether that&amp;rsquo;s kosher at the moment is another story. I neglected to think about that while planning this route. I am looking forward to taking little trips on the train and then biking back home. That should open up places like Parsberg and Beratzhausen and Landshut and Straubing. But it requires good behavior on the part of all my fellow residents, such that the pandemic restrictions can ease up, and &amp;hellip; Schaumermal.</description>
     </item>
     
     <item>
       <title>Easter 2021</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210404/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20210404/</link>
       <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210404/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20210404/</guid>
       <description>Happy Easter!
 It&amp;rsquo;s been an ecumenical year since I started doing this. Time flies even when you&amp;rsquo;ve got nowhere (on the larger scale) to go.
 I went back to the region where I slid down a mountain on my butt, but this time I was very careful about the elevation over horizontal distance. I learned from that mistake, for sure.
@@ -121,48 +125,48 @@ It was not even 45 kilometers, but more of those were uphill than I am ready for
     
     <item>
       <title>Bad Abbach, But Great Cheese</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210328/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20210328/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210328/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20210328/</guid>
       <description>It&amp;rsquo;s Palm Sunday. Instead of the Bierpilgerfahrt to Adlersberg&amp;rsquo;s Prösslbrau for their Palmator, I opted to swing by a semi-local buddy&amp;rsquo;s house for a cheese sample. Wie lecker. Might be antithetical to the intent of this blog, though.
 Try Saint Agur Blue if you like the concept of bleu cheese but wish it were just little milder. Smear it on bread or crackers. Also this Pecorino Fantasia is a damn fine snackin&#39; cheese.</description>
     </item>
     
     <item>
       <title>Regensburg Loop Plagued by Detours</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210321/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20210321/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210321/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20210321/</guid>
       <description>Despite the weather prediction I got out there again today. I had planned to do a ring around Regensburg so that I wouldn&amp;rsquo;t be obligated to wear a mask, which I rather dislike while on my bike (it&amp;rsquo;s not so bad except for the fact that I wear glasses). Almost right off the bat, I veered off from my planned course, but this only resulted in a a total route of a few kilometers less than the original route.</description>
     </item>
     
     <item>
       <title>Over the Donau to Donaustauf, then Obertraubling and Oberhinkofen</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210307-obertraubling-oberhinkofen/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20210307-obertraubling-oberhinkofen/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210307-obertraubling-oberhinkofen/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20210307-obertraubling-oberhinkofen/</guid>
       <description>I intended this week&amp;rsquo;s ride to be a little on the short side, but I missed a turn in Obertraubling, tried to invent a new route to Oberhinkofen, had to backtrack, and got there the long way. It was cold, but not unbearably so, and a hot jamaica break in Obertraubling was a good way to warm up internally.
 Snaps Video Recap Donaustauf to Barbing, sped up by a factor of 4   Route You might need to tap or click the map to make it bigger.</description>
     </item>
     
     <item>
       <title>Pielenhofen via Adlersberg and back along the Naab</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210228-pielenhofen/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20210228-pielenhofen/</link>
       <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210228-pielenhofen/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20210228-pielenhofen/</guid>
       <description>I figure if I do the climb at Adlersberg enough, one of these days I&amp;rsquo;ll be up at the top and reward myself with a nice Radler (I mean, what else?) and maybe some lunch. That hill is a beast. Today I took a water and Schüttelbrot break in the bus shelter just outside the Prösslbräu grounds (and&amp;hellip;good to know that there is bus service up there; that brewery makes delicious things).</description>
     </item>
     
     <item>
       <title>Cloudy, Cold, Windy Guggi-See</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210221-guggisee/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20210221-guggisee/</link>
       <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210221-guggisee/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20210221-guggisee/</guid>
       <description>It was supposed to be as glorious as yesterday.
 It never got there. I delayed the start of my ride as much as I could, hoping for sunny skies and warmer temperatures, and while I didn&amp;rsquo;t get rained on, I never saw the sun after all.
 Snaps Video Recap None today!
@@ -171,20 +175,20 @@ Route You might need to tap or click the map to make it bigger. The red solid ro
     
     <item>
       <title>I ❤️ Bad Abbach</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210214-obertraubling-bad-abbach/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20210214-obertraubling-bad-abbach/</link>
       <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210214-obertraubling-bad-abbach/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20210214-obertraubling-bad-abbach/</guid>
       <description>It&amp;rsquo;s Valentine&amp;rsquo;s Day, so why not? And I bike to/from it frequently enough. The position of the town lends itself to round trips, whether I&amp;rsquo;m feeling bergy or flussy.
 Today&amp;rsquo;s route was supposed to trace the Danube back more of the way home, but even before the halfway point at — you guessed it! — Bad Abbach, my feet were hurting from the cold. So at Großprüfening I cut it short.</description>
     </item>
     
     <item>
       <title>Sinzing Ring</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210206-sinzing-ring/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20210206-sinzing-ring/</link>
       <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210206-sinzing-ring/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20210206-sinzing-ring/</guid>
       <description>Snaps I started off crossing the Danube at Kleinprüfening. Notice the water level. This was warning sign #1 and will be important later.
 I got all the way up the hill above Eilsbrunn (home of Gaststätte Röhrl, the oldest continuously operating restaurant in the world, according to the Guinness Book of Records. I&amp;rsquo;ve eaten there a few times. It&amp;rsquo;s good.) before taking a break. That hill was serious.
 Zooming down from there towards Hardt was fun.</description>
@@ -192,180 +196,179 @@ Zooming down from there towards Hardt was fun.</description>
     
     <item>
       <title>to Baiern</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20210110-baiern/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20210110-baiern/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20210110-baiern/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20210110-baiern/</guid>
       <description>First ride of the year! I&amp;rsquo;d taken a couple weekends off, which stretched out to over a month, because I was worried about the moisture on the ground and the wintry temperatures resulting in icy conditions. I tried to walk more in the meantime. That kinda worked, but not as much as I&amp;rsquo;d hoped.
 I thought it was a little weird to leave Regensburg and cross into Baiern. I mean the standard local historical thing is that Regensburg was a free imperial city for a long time and by crossing the Danube into Stadtamhof, one was leaving Regensburg and entering Bavaria (Bayern).</description>
     </item>
     
     <item>
       <title>Around Donau Park</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20201206-donau-park/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20201206-donau-park/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20201206-donau-park/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20201206-donau-park/</guid>
       <description>After last week&amp;rsquo;s flat Danube odyssey, I thought I could probably handle at least the uphill bits on the way to Pentling and bask in the river bank&amp;rsquo;s flat glory on my way back — especially since I didn&amp;rsquo;t feel like a three-hour tour (a three-hour tour) today, and chopped my route down to a mere 20 km.
 I was right in theory; but in practice, GraphHopper picked a route for me right up a tractor track between a couple of fields, which was steeper than I expected.</description>
     </item>
     
     <item>
       <title>Flatter to Pfatter</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20201130-flatter-to-pfatter/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20201130-flatter-to-pfatter/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20201130-flatter-to-pfatter/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20201130-flatter-to-pfatter/</guid>
       <description>It&amp;rsquo;s cold enough now for a full-on winter jacket out there, thus the attire switch.
 I thought I would give the ol&#39; quadriceps a break and stick to some very level terrain. You can&amp;rsquo;t go wrong with following the Danube for a nice, level ride. I still managed to take a wrong turn or two, but I never had to backtrack. In a couple places along my route, it&amp;rsquo;s not obvious whether a biker should go left or right to stay on a path.</description>
     </item>
     
     <item>
       <title>Still no Kallmünz</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20201122-still-no-kallmuenz/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20201122-still-no-kallmuenz/</link>
       <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20201122-still-no-kallmuenz/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20201122-still-no-kallmuenz/</guid>
       <description>Ever since this dang pandemic hit and I began exploring the region on my bike, I&amp;rsquo;ve been itching to bike up to Kallmünz and back. One thing or another hat foiled each of my attempts. I took another shot at it today. Foiled again.
- I got off to a weak start just north of Stadtamhof at the Dreifaltigkeitsberg. A one-lane road shared with cars in both directions is daunting enough on its own.</description>
+I got off to a weak start just north of Stadtamhof at the Dreifaltigkeitsberg. A one-lane road shared with cars in both directions is daunting enough on its own.</description>
     </item>
     
     <item>
       <title>Victory Loop Foiled by Construction</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20201108-victory-loop-foiled/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20201108-victory-loop-foiled/</link>
       <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20201108-victory-loop-foiled/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20201108-victory-loop-foiled/</guid>
       <description>I thought I&amp;rsquo;d take a victory loop after the momentous occasions of late. I carefully mapped my route using GraphHopper and thought I was good-to-go for a route mostly following three rivers
  Danube Naab Schwarze Laber  &amp;hellip; with a little hilliness in the middle to keep it interesting. The stretch up the hill from Etterzhausen to Nittendorf was a slog, but I knew that was coming, and I thought perhaps I&amp;rsquo;d progressed in my endurance such that it wouldn&amp;rsquo;t kill me.</description>
     </item>
     
     <item>
       <title>Daredevil Chicken</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20201101-daredevil-chicken/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20201101-daredevil-chicken/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20201101-daredevil-chicken/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20201101-daredevil-chicken/</guid>
       <description>This dude is definitely undeserving of his reputation!
-   Note to self: remember that the camera has no internal battery and you have to set the date and time with every battery change!
-I took a suggestion from local pal Markus and went out southwest towards Mangolding, Mintraching and Geisling. Those were new towns for me, but the route back along the B8 through Barbing was old hat. Pretty flat the whole way, so it should have been a good opportunity to keep my heart rate low and steady.</description>
+  Note to self: remember that the camera has no internal battery and you have to set the date and time with every battery change!I took a suggestion from local pal Markus and went out southwest towards Mangolding, Mintraching and Geisling. Those were new towns for me, but the route back along the B8 through Barbing was old hat. Pretty flat the whole way, so it should have been a good opportunity to keep my heart rate low and steady.</description>
     </item>
     
     <item>
       <title>Down one side and back up the other</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20201025-pentling-matting-ferry-bad-abbach/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20201025-pentling-matting-ferry-bad-abbach/</link>
       <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20201025-pentling-matting-ferry-bad-abbach/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20201025-pentling-matting-ferry-bad-abbach/</guid>
       <description>I biked up the hill to Pentling (hey! The bridge over the A3 is open again!) and down the hill from there towards Matting where I met up with my pal Sam for lunch. Then we took the ferry across (1€ per person) to the west (north?) bank of the Danube towards Bad Abbach, where we crossed it again using the bridge there. That&amp;rsquo;s where we parted ways; I headed back downstream (north/east) towards Regensburg.</description>
     </item>
     
     <item>
       <title>October Ride</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20201018-october-ride/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20201018-october-ride/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20201018-october-ride/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20201018-october-ride/</guid>
       <description>First time back in the saddle after about a month, and it is no longer Panama Jack helmet weather. Also, when I got started this morning, it was foggy as heck, so I through on an eye-catching vest just for good measure. After about 30 minutes, it wasn&amp;rsquo;t really necessary anymore &amp;ndash; the sun burned off the low-hanging clouds.
 I stuck to a very familiar route, since I haven&amp;rsquo;t been on the bike in about a month.</description>
     </item>
     
     <item>
       <title>Mornin&#39;, punkins!</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200920-mornin-punkins/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20200920-mornin-punkins/</link>
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200920-mornin-punkins/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20200920-mornin-punkins/</guid>
       <description>No denying it &amp;ndash; autumn is here, at least a day or two early. You can see it in the produce.
 I had mapped out a nice route of nearly exactly 50 km, heading south on our street to Oberhinkofen, and then turning west towards Teugn to come up into Bad Abbach from the south, but &amp;hellip; something was amiss in the state of Denmark, if you know what I mean, and given that it was a Sunday morning before 9:00, and nothing was going to be open, I opted to head into Bad Abbach from the east and headed home from there.</description>
     </item>
     
     <item>
       <title>Secret Flugplatz!</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200913-secret-flugplatz/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20200913-secret-flugplatz/</link>
       <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200913-secret-flugplatz/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20200913-secret-flugplatz/</guid>
       <description>Well, secret to me, anyways. I didn&amp;rsquo;t know it was there. I woke up just before 6, got my coffee on, and was out on the road at 7:45. I&amp;rsquo;ve started a couple bikerides this year intending to make it all the way to Kallmünz. Today was another of those that fell short. Not that the ride wasn&amp;rsquo;t fulfilling. I didn&amp;rsquo;t know there was a Flugplatz in Oberhub, so I detoured even more up a hill to check it out.</description>
     </item>
     
     <item>
       <title>To Prösslbräu, Matting, and Back</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200906-proesslbraeu-matting-and-back/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20200906-proesslbraeu-matting-and-back/</link>
       <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200906-proesslbraeu-matting-and-back/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20200906-proesslbraeu-matting-and-back/</guid>
       <description>It&amp;rsquo;s been a couple weeks (weather and general life happening), but the weather was supposed to be great today (and it was), so I wanted to take advantage of it. A couple weekends ago our pal Special K came up to visit and brought her bike. That Saturday it rained like God had decided on a Do-Over, but there was a pottery market happening at Kloster Adlersberg. I thought that would be a nice bike destination under decent weather conditions, and I was right.</description>
     </item>
     
     <item>
       <title>Loch LMAO</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200816-loch-ellmau/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20200816-loch-ellmau/</link>
       <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200816-loch-ellmau/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20200816-loch-ellmau/</guid>
       <description>After last week&amp;rsquo;s 60+km record breaker, I toned it back down again to 50ish today. I thought I would treat myself to some nice flat stretches along a river for the last leg. I am not so sure that is the right approach; &amp;ldquo;mostly flat&amp;rdquo; is &amp;ldquo;partly hilly&amp;rdquo; and even where truly flat, I was tired of being in the saddle, and mad at friction for forcing me to keep pedaling.</description>
     </item>
     
     <item>
       <title>Was it Wörth it?</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200809_was-it-woerth-it/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20200809_was-it-woerth-it/</link>
       <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200809_was-it-woerth-it/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20200809_was-it-woerth-it/</guid>
       <description>I was pretty sure I don&amp;rsquo;t like rides over 50 km in length. Walking the next day is a real pain. But those 50ish km rides have all been with a mixture of terrain. So I thought I would try a longer — but flatter — ride along the Danube today. I rode from our house to Wörth an der Donau and back.
 Guess what? The knees are a little better off for it, but DA BUTT is not.</description>
     </item>
     
     <item>
       <title>Dog Scared Me Off</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200726-dog-scared-me-off/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20200726-dog-scared-me-off/</link>
       <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200726-dog-scared-me-off/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20200726-dog-scared-me-off/</guid>
       <description>I&amp;rsquo;ve been doing my rides mostly on the weekends, since Kurzarbeit is over for me now. I&amp;rsquo;ve been lazy about posting them, but less lazy about actually doing them. So that&amp;rsquo;s good.
 In my last post, I picked GraphHopper.com as a mapping service, but I&amp;rsquo;m wary of it now. This time it routed me through a farm at the top of a long, slow hill at Aignhof&amp;hellip; and a Rottweiler-looking dog was quite angry at my presence.</description>
     </item>
     
     <item>
       <title>Laaber and Back</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200628-laaber-and-back/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20200628-laaber-and-back/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200628-laaber-and-back/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20200628-laaber-and-back/</guid>
       <description>Kurzarbeit tomorrow &amp;ndash; presumably the last one for this round of economic crises (or, let&amp;rsquo;s hope so anyways). I had an important week at work last week, so to be there for all of it, I opted to make my last Kurzabeit day of the month the last Monday of the month instead of Friday.
 I planned out my route using GraphHopper.com &amp;ndash; first time using that service, but I am sure I&amp;rsquo;ll be back.</description>
     </item>
     
     <item>
       <title>Flattening the Curve</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200529-flattening-the-curve/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20200529-flattening-the-curve/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200529-flattening-the-curve/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20200529-flattening-the-curve/</guid>
       <description>Kurzarbeit again today. I decided not to torture myself with a mountainous bike ride, but instead stick to a flat loop out south and east of town. This was along the R7 route recommended by the Landkreis Regensburg.
 The snaps:
 Sarching&amp;rsquo;s amphibious cacophony:
-Your browser does not support the HTML5 Video element.  Route:
+Route:
 I messed up my own GPX track recording on this one, forgetting to separate this track from an aborted one on Wednesday, which explains the teleportation from home to the Ostbahnhof area.</description>
     </item>
     
     <item>
       <title>Finally beat that hill!</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200524-finally-beat-that-hill/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20200524-finally-beat-that-hill/</link>
       <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200524-finally-beat-that-hill/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20200524-finally-beat-that-hill/</guid>
       <description>Well, sorta. I cheated by telling my GPS to route me only on paved routes, which obviated huffing and puffing up the muddy hill.
 It was not another beautiful day. It started off with ominous clouds, that were true omens, because the hail they pelted me with stung. But at least not for long. By the time I got to my destination (delivering a borrowed item back to its owner), I was dry again and the sun warmed me back up.</description>
     </item>
     
     <item>
       <title>It&#39;s right there in the name!</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200516-its-right-there-in-the-name/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20200516-its-right-there-in-the-name/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200516-its-right-there-in-the-name/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20200516-its-right-there-in-the-name/</guid>
       <description>Another beautiful day. I mostly followed the R9 from the Landkreis Regensburg. 1
 I think I need to accept that the difficulty level listed as medium by the Landkreis does not (yet) match up to my expectations for medium. OTOH, I neglected to notice a town called &amp;ldquo;Großberg&amp;rdquo; on the itinerary. Duh!
 I actually rode a little further than the route suggests; I forgot to start recording my GPX track until I was already up the hill at Bajuwarenstraße.</description>
@@ -373,10 +376,10 @@ I actually rode a little further than the route suggests; I forgot to start reco
     
     <item>
       <title>Kürn Around Bright Eyes</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200509-kuern-around-bright-eyes/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20200509-kuern-around-bright-eyes/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200509-kuern-around-bright-eyes/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20200509-kuern-around-bright-eyes/</guid>
       <description>Another beautiful day. I mostly followed the Schlössertour from the Landkreis Regensburg. 1
 The first leg was on the west bank of the Regen up to Regenstauf. I&amp;rsquo;d done that before. Very nice and level.
 The new bits started at Ramspau. It got lots more challenging from that point on. I thought it would be done with at Kürn, but nope. The path was sometimes paved, sometimes supposed to be paved, but under construction, and sometimes forest trail.</description>
@@ -384,10 +387,10 @@ The new bits started at Ramspau. It got lots more challenging from that point on
     
     <item>
       <title>to Wolfsegg and Back</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200504-to-wolfsegg-and-back/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20200504-to-wolfsegg-and-back/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200504-to-wolfsegg-and-back/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20200504-to-wolfsegg-and-back/</guid>
       <description>Another beautiful day. At least at the start of it — the clouds rolled in towards the end of my ride.
 The rivery parts along the Naab all the way up to Pielenhofen and the monastery on the river were nice and gentle. I took a little water and banana break there. But that&amp;rsquo;s where it started to get demanding. Just outside of Wall I thought to myself
  This is an appropriately-named hamlet.</description>
@@ -395,20 +398,20 @@ The rivery parts along the Naab all the way up to Pielenhofen and the monastery 
     
     <item>
       <title>Running up that hill...towards Bad Abbach again</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200501-runnin-up-that-hill/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20200501-runnin-up-that-hill/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200501-runnin-up-that-hill/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20200501-runnin-up-that-hill/</guid>
       <description>It started out another beautiful day. Didn&amp;rsquo;t stick. Thought I&amp;rsquo;d conquer that hill through the woods outside Leoprechting. Nope! Had to push my bike for a lot of it. At least partly that&amp;rsquo;s because the dirt track had turned into mud and a tractor chewed it up real good 5 minutes before me.
 I rode past the Continental Arena and then through a field (didn&amp;rsquo;t like that so much; felt like trespassing), towards Leoprechting, onto Niedergebraching 1, and the clouds were ominous.</description>
     </item>
     
     <item>
       <title>Bernhardswald Loop</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200428-berhardswald-loop/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20200428-berhardswald-loop/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200428-berhardswald-loop/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20200428-berhardswald-loop/</guid>
       <description>Another beautiful day.
 I thought by doing another few dozen kilometers today after just doing it on Sunday I would feel less sore, and build up some butt callouses.
 Nope! But it was a nice ride anyways. The part of the Regensburg-Falkenstein bike route on an old train track was great and deserves more attention. The bit through the Kreuther Forst was a bit much going up, but coming down above the Donaustauf Klinik was nice.</description>
@@ -416,10 +419,10 @@ Nope! But it was a nice ride anyways. The part of the Regensburg-Falkenstein bik
     
     <item>
       <title>Pfatter, Not Fatter</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200426-pfatter-not-fatter/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20200426-pfatter-not-fatter/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200426-pfatter-not-fatter/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20200426-pfatter-not-fatter/</guid>
       <description>Another beautiful day.
 I&amp;rsquo;ve seen the Donau Radweg route signs for 16 years, but I never followed them outside of town.
 I rode towards work, took the Osttangente / Odessaring bridge to the baseball stadium, started tracing the Danube right away. But it didn&amp;rsquo;t last too long, jutting south of Tegernheim and catching back up to the river bank about two thirds of the way to Donaustauf.
@@ -428,20 +431,20 @@ About half way through, my butt started hurting, so I took an inland shortcut in
     
     <item>
       <title>Kurzarbeit Rivery Loop </title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200422-kurzarbeit-rivery-loop/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20200422-kurzarbeit-rivery-loop/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200422-kurzarbeit-rivery-loop/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20200422-kurzarbeit-rivery-loop/</guid>
       <description>Another beautiful day, and one mandated off work. Thanks, Corona.
 My brain still woke me up at workday time, so why not make a bike ride of it? It was kind of cold for just shorts and a teesh, but I figured that&amp;rsquo;s motivation for me to keep moving. Right in the first 10 minutes I spotted two old pals, one of whom has a new doggy, &amp;ldquo;Spock&amp;rdquo;. That was along the Danube.</description>
     </item>
     
     <item>
       <title>Saturday Bad Abbach Loop</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200418_saturday_bad_abbach_loop/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20200418_saturday_bad_abbach_loop/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200418_saturday_bad_abbach_loop/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20200418_saturday_bad_abbach_loop/</guid>
       <description>Another beautiful day — well, at the beginning. By the end of my ride, the clouds started looming and threatening rain, but I got home before that started. And it blew over anyways.
 I had worried about two things:
   Headed south out of Regensburg is a more direct route, but getting up those hills and down in to Bad Abbach would be a real pain.
@@ -450,15 +453,16 @@ I had worried about two things:
     
     <item>
       <title>Easter Sunday 2020 Ride</title>
-      <link>https://fat.cliff1976.net/posts/bikerides/20200412_easter-sunday/</link>
+      <link>https://fat.clif1976.net/posts/bikerides/20200412_easter-sunday/</link>
       <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/bikerides/20200412_easter-sunday/</guid>
+      <guid>https://fat.clif1976.net/posts/bikerides/20200412_easter-sunday/</guid>
       <description>First bike ride post evar. I wore my HRM and have some stats to report. It&amp;rsquo;s harder than I thought to ride my bike a medium pace.
-Your browser does not support the HTML5 Video element.  Route:
+Route:
 
 Distance (total): 28.7km First leg:
-Machine(s): bike Time: 59 mins Calories: 658 Calories from fat: 20% Average Heart Rate: 130 Maximum Heart Rate: 158 Fat Burn: 9 mins Fitness: 50 min Weight: not weighed Second leg:</description>
+Machine(s): bike Time: 59 mins Calories: 658 Calories from fat: 20% Average Heart Rate: 130 Maximum Heart Rate: 158 Fat Burn: 9 mins Fitness: 50 min Weight: not weighed Second leg:
+Machine(s): bike Time: 47 mins Calories: 544 Calories from fat: 19% Average Heart Rate: 133 Maximum Heart Rate: 152 Fat Burn: 11 mins Fitness: 36 min Weight: not weighed </description>
     </item>
     
   </channel>

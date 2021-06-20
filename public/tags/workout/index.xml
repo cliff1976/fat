@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>workout on My Bike Rides and Stuff</title>
-    <link>https://fat.cliff1976.net/tags/workout/</link>
-    <description>Recent content in workout on My Bike Rides and Stuff</description>
+    <title>workout on cliff1976</title>
+    <link>https://fat.clif1976.net/tags/workout/</link>
+    <description>Recent content in workout on cliff1976</description>
+    <image>
+      <url>https://fat.clif1976.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://fat.clif1976.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://fat.cliff1976.net/tags/workout/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://fat.clif1976.net/tags/workout/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Workout 2020 06 05</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-06-05/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-06-05/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-06-05/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-06-05/</guid>
       <description>It was another Kurzarbeit day. I had to skip my walks a couple days this week, so I stretched this out one longer on purpose. I made it up to the Fernsehturm in Ziegetsdorf, walked parallel to the A3 towards the Uniklinikum and back. It was threatening to rain most of the way with some nice patches of sun to break things up.
 Snaps:
 Route:
@@ -21,10 +24,10 @@ Machine(s): none (street) Time: 2:10 Distance: 10.</description>
     
     <item>
       <title>Workout 2020 06 01</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-06-01/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-06-01/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-06-01/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-06-01/</guid>
       <description>Holiday weekend! (Fronleichnam, I think). I took my first walk through the Evangelischer Zentralfriedhof, which had a nice mix of sun and shade. I was kind of expecting more activity in there due to the holiday, but there was no one stirring.
 Snaps:
 The pit between Alberstraße and Ernst-Reuter-Platz is now fully empty; still don&amp;rsquo;t know what&amp;rsquo;s going in there.
@@ -33,23 +36,23 @@ Absolutely nothing happening at Hauptbahnhof, which felt weird, even for a publi
     
     <item>
       <title>Workout 2020 05 27</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-05-27/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-05-27/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-05-27/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-05-27/</guid>
       <description>Another beautiful day.
 I crossed onto one of the islands in Danube. Took another look at one of those sheltery things I&amp;rsquo;d seen there previously. Still creepy. The channels were peaceful. There was a weird Yoda/Nosferatu hybrid graffito thing.
 Snaps:
-Your browser does not support the HTML5 Video element.  Route:
+Route:
 Machine(s): none (street) Time: 1:30 Distance: 6.0 km Calories: 658 Calories from fat: 37% Average Heart Rate: 106 Maximum Heart Rate: 123 Fat Burn: 1:20 Fitness: 0:10 Weight: not weighed </description>
     </item>
     
     <item>
       <title>Workout 2020 05 25</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-05-25/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-05-25/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-05-25/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-05-25/</guid>
       <description>Snaps:
 Think of all the great grilled dinners we could have with these!
 &amp;ldquo;Please wait to be seated&amp;rdquo; arrives in Germany with Corona.
@@ -61,10 +64,10 @@ Machine(s): none (street) Time: 1:07 Distance: 5.27 km Calories: 502 Calories fr
     
     <item>
       <title>Workout 2020 05 20</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-05-20/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-05-20/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-05-20/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-05-20/</guid>
       <description>Sure don&amp;rsquo;t remember teleporting home from Neupfarrplatz! Maybe it has something do with the giant golden sperm attacking the city.
 Snaps:
 Route:
@@ -73,10 +76,10 @@ Machine(s): none (street) Time: 1:15 Distance: 5.56 km? Calories: 481 Calories f
     
     <item>
       <title>Workout 2020 05 19</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-05-19/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-05-19/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-05-19/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-05-19/</guid>
       <description>I walked into work, grabbed some masks from my desk the company had set out for me, and came back via the supermarket. It was longer and slower, but I bought groceries, ran an errand, and even saw another person in the office, in person &amp;ndash; did not expect that. I might have surprised her, too.
 Lone Snap:
 That mosque near work is coming along nicely. Looking forward to their lunch counter opening&amp;hellip;if I ever return to working in the office.</description>
@@ -84,10 +87,10 @@ That mosque near work is coming along nicely. Looking forward to their lunch cou
     
     <item>
       <title>Workout 2020 05 14</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-05-14/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-05-14/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-05-14/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-05-14/</guid>
       <description>Another kooky GPX track. Harumph. No way I did 9+ km yesterday morning before work.
 Some thoughts on schaffen: see my post on bergberg.net.
 And it looks like the city has some schaffen planned for our street.
@@ -98,10 +101,10 @@ Machine(s): none (street) Time: 0:56 Distance: probably around 5 km Calories: 42
     
     <item>
       <title>Workout 2020 05 13</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-05-13/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-05-13/</link>
       <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-05-13/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-05-13/</guid>
       <description>A pretty dreary morning (most of them have been lately after those glorious weeks in March and April). But walked along the Wöhrd and took the stairs right down the water line in a few places. It&amp;rsquo;s been somewhat rainy, but the river wasn&amp;rsquo;t running particularly high or fast. I got a special treat: watching a barge with a lift switch out a riverway sign.
 Snaps:
 Route:
@@ -110,10 +113,10 @@ Machine(s): none (street) Time: 1:05 Distance: 5.</description>
     
     <item>
       <title>Workout 2020 05 12</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-05-12/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-05-12/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-05-12/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-05-12/</guid>
       <description>GPS went nutty again today. I don&amp;rsquo;t know if
  it&amp;rsquo;s something atmospheric, or the satellites were out of alignment, or the case on my phone, or whether or not the phone&amp;rsquo;s in a pocket or loose in my hand, or an intermittent hardware problem is wreaking havoc  But I for sure did not follow the exact path shown in the route.
 I did find the use of rubber gloves hanging from the bridge the near florist&amp;rsquo;s shop under the bridge quite attractive.</description>
@@ -121,10 +124,10 @@ I did find the use of rubber gloves hanging from the bridge the near florist&amp
     
     <item>
       <title>Workout 2020 05 11</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-05-11/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-05-11/</link>
       <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-05-11/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-05-11/</guid>
       <description>Threatening to rain all day today, and it actually did — a few drops at least on the way to REWE to get some groceries before work.
 Flowers look nice at Luitpoldstraße and Sternbergstraße.
 Also La Bona I mean &amp;ldquo;Orient Imbiss&amp;rdquo; has pita bread for sale on shelves on the street.
@@ -135,10 +138,10 @@ Machine(s): none (street) Time: 1:11 Distance: 5.4 km Calories: 494 Calories fro
     
     <item>
       <title>Workout 2020 05 10</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-05-10/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-05-10/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-05-10/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-05-10/</guid>
       <description>It was drizzling today, but I really wanted to get out of the house. I went up and down some of my favorite streets in the Altstadt, looking for new or changed places to eat and shop.
 Snaps:
 Route:
@@ -147,10 +150,10 @@ Machine(s): none (street) Time: 1:02 Distance: 5.6 km Calories: 441 Calories fro
     
     <item>
       <title>Workout 2020 05 07</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-05-07/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-05-07/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-05-07/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-05-07/</guid>
       <description>Oops, forgot to bring my watch on my walk, so I have no heart rate stats for this one. Also, nothing leapt out at me as photo-worthy. But at least I discovered the Gemüsebagels at Der Beck are pretty good.
 Route:
 Time: 1:10 Distance: 6 km Weight: not weighed </description>
@@ -158,10 +161,10 @@ Time: 1:10 Distance: 6 km Weight: not weighed </description>
     
     <item>
       <title>Workout 2020 04 29</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-29/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-04-29/</link>
       <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-29/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-04-29/</guid>
       <description>A moderately rainy morning after several weeks of almost no rain. No inspiring photographs today; my walk was through neighborhoods and apartment complexes.
 I did notice the Singh Indischer Markt seems to have been replaced with a Middle Eastern market of some kind.
 And somehow I must have lost GPS connectivity along the way there towards the end, because I definitely did not sneak through anyone&amp;rsquo;s house. Promise.
@@ -171,10 +174,10 @@ Route:</description>
     
     <item>
       <title>Workout 2020 04 27</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-27/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-04-27/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-27/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-04-27/</guid>
       <description>A cloudy, overcast morning. I was hoping for some nice sunrise edge-of-cloud views, but I think I was too late off the mark to get them. Instead I discovered a new (to me) tiny park almost directly south of our house. Also, I forgot to start my route tracker, so I missed the first 500 meters or so of the route. Dang it.
 Snaps:
 Route:
@@ -183,10 +186,10 @@ Machine(s): none (street) Time: 56 mins Distance: probably around 5 km?</descrip
     
     <item>
       <title>Workout 2020 04 21</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-21/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-04-21/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-21/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-04-21/</guid>
       <description>Clearly there were some GPS issues here. I assure you I didn&amp;rsquo;t go into the river at all.
 Snaps:
 Route:
@@ -195,10 +198,10 @@ Machine(s): none (street) Time: 56 mins Distance: probably around 5 km? GPS said
     
     <item>
       <title>Workout 2020 04 21</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-20/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-04-20/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-20/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-04-20/</guid>
       <description>Took an evening walk with Sarah instead of my usual morning solo walk. Saw a few nice sunset scenes and discovered a hops garden in the Innere Osten neighborhood.
 Snaps: Route:
 Machine(s): none (street) Time: 1:25 Distance: 5.35 km Calories: 632 Calories from fat: 35% Average Heart Rate: 107 Maximum Heart Rate: 119 Fat Burn: 1:17 Fitness: 8 min Weight: not weighed </description>
@@ -206,10 +209,10 @@ Machine(s): none (street) Time: 1:25 Distance: 5.35 km Calories: 632 Calories fr
     
     <item>
       <title>Workout 2020 04 17</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-16/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-04-16/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-16/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-04-16/</guid>
       <description>Lots of pics and a longer route this time — thanks Kurzarbeit — to make up for yesterday&amp;rsquo;s slacking.
 This was the first time I explored the Unterer Wöhrd &amp;ldquo;off-road.&amp;rdquo; Found some shelters near the Jugendherberge that looked a little spooky. I don&amp;rsquo;t know whether those are someone&amp;rsquo;s emergency shelter or just a relaxing hideaway.
 Snaps:
@@ -219,10 +222,10 @@ Machine(s): none (street) Time: 91 mins Distance: 7.25 km Calories: 661 Calories
     
     <item>
       <title>Workout 2020 04 15</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-15/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-04-15/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-15/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-04-15/</guid>
       <description>Cool early morning.
 No snaps this time &amp;ndash; nothing really spoke to me.
 Route:
@@ -231,10 +234,10 @@ Machine(s): none (street) Time: 71 mins Distance: 5.69 km Calories: 548 Calories
     
     <item>
       <title>Workout 2020 04 14</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-14/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-04-14/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-14/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-04-14/</guid>
       <description>A somewhat less beautiful day. I went for a walk after work, instead of before it. It was overcast and cool, but still okay for getting a strenuous walk in.
 Snaps:
 Route:
@@ -243,10 +246,10 @@ Machine(s): none (street) Time: 66 mins Distance: 5.38 km Calories: 493 Calories
     
     <item>
       <title>Workout 2020 04 13</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-13/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-04-13/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-13/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-04-13/</guid>
       <description>Another beautiful day. A Schnitzeljagd of sorts, even.
 Weltenburger am Dom is closed, apparently not even doing take-out, but the Kreuzschänke is accepting carry-out orders. I like that they encourage their patrons to bring their own food storage containers to reduce waste.
 Also, the Spanier im Bruckmandl is no more. Some kind of Currywurst joint is there now?
@@ -257,10 +260,10 @@ Apparently I lost a GPS connection for a while there. I did not march through pe
     
     <item>
       <title>Workout 2020 04 10</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-10/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-04-10/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-10/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-04-10/</guid>
       <description>Another beautiful day. Good Friday, even.
 Snaps:
 Route:
@@ -269,10 +272,10 @@ Machine(s): none (street) Time: 71 mins Distance: 6.1 km Calories: 504 Calories 
     
     <item>
       <title>Workout 2020 04 09</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-09/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-04-09/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-09/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-04-09/</guid>
       <description>Another beautiful day.
 Snaps:
 Route:
@@ -281,10 +284,10 @@ Machine(s): none (street) Time: 73 mins Distance: 6 km Calories: 610 Calories fr
     
     <item>
       <title>Workout 2020 04 08</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-08/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-04-08/</link>
       <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-08/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-04-08/</guid>
       <description>Another beautiful day.
 Did a loop behind the Max-Straße McD&amp;rsquo;s up and down some steps for fun. It was not very fun.
 Snaps:
@@ -295,10 +298,10 @@ Machine(s): none (street) Time: 81 mins Distance: 6.</description>
     
     <item>
       <title>Workout 2020 04 07</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-07/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-04-07/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-07/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-04-07/</guid>
       <description>Another beautiful day.
 Had to wait for a train in the Hafengebiet. Crossed a waterway along a train bridge — next time I think I&amp;rsquo;ll go all the way to Schwabelweis for a longer walk. Weird junky art stuff near the industrial recycling place right at the path leading from the bridge back down onto the south bank of the Danube.
 Snaps:
@@ -308,10 +311,10 @@ Machine(s): none (street) Time: 85 mins Distance: 6.</description>
     
     <item>
       <title>Workout 2020 04 06</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-06/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-04-06/</link>
       <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-06/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-04-06/</guid>
       <description>Another beautiful day.
 Got started later than normal. Yesterday was a 16km stroll, so today&amp;rsquo;s walk of only 5.2km and starting later felt justified.
 Snaps:
@@ -321,10 +324,10 @@ Machine(s): none (street) Time: 58 mins Distance: 5.2 km Calories: 449 Calories 
     
     <item>
       <title>Workout 2020 04 03</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-03/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-04-03/</link>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-03/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-04-03/</guid>
       <description>Another beautiful day. No 8:00 meeting this morning, thankyouverymuch.
 The Westhafen was quite still. Erdbeer-Rhabarber Streuselküchle are back at the Beck.
 Route:
@@ -333,10 +336,10 @@ Machine(s): none (street) Time: 66 mins Distance: 5.48 km Calories: 541 Calories
     
     <item>
       <title>Workout 2020 04 02</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-02/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-04-02/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-02/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-04-02/</guid>
       <description>Another beautiful day. Got started earlier than normal thanks to an 8:00 meeting. 3rd in a row. Criminy.
 Figured out that a brisk walk to/from work, if I ever go back there, is nearly exactly a 30-minute affair (using the bike paths and avoiding traffic lights).
 Route:
@@ -345,10 +348,10 @@ Machine(s): none (street) Time: 66 mins Distance: 6.6 km Calories: 641 Calories 
     
     <item>
       <title>Workout 2020 04 01</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-04-01/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-04-01/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-04-01/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-04-01/</guid>
       <description>Another beautiful day. Got started earlier than normal thanks to an 8:00 meeting. 2nd in a row. Work is a pain like that.
 Remember: you can get gelbe Säcke at the HEM Tankstelle on Friedenstraße 24 hours a day!
 Route:
@@ -357,10 +360,10 @@ Machine(s): none (street) Time: 47 mins Distance: 4.15 km Calories: 464 Calories
     
     <item>
       <title>Workout 2020 03 31</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-31/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-03-31/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-31/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-03-31/</guid>
       <description>Another beautiful day. Got started earlier than normal thanks to an 8:00 meeting.
 Route:
 Machine(s): none (street) Time: 59 mins Distance: 5.17 km Calories: 476 Calories from fat: 33% Average Heart Rate: 111 Maximum Heart Rate: 123 Fat Burn: 40 mins Fitness: 19 mins Weight: not weighed </description>
@@ -368,10 +371,10 @@ Machine(s): none (street) Time: 59 mins Distance: 5.17 km Calories: 476 Calories
     
     <item>
       <title>Workout 2020 03 30</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-30/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-03-30/</link>
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-30/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-03-30/</guid>
       <description>Another beautiful day.
 Route:
 Machine(s): none (street) Time: 63 mins Distance: 7 km Calories: 496 Calories from fat: 34% Average Heart Rate: 109 Maximum Heart Rate: 130 Fat Burn: 55 mins Fitness: 8 mins Weight: not weighed </description>
@@ -379,10 +382,10 @@ Machine(s): none (street) Time: 63 mins Distance: 7 km Calories: 496 Calories fr
     
     <item>
       <title>Workout 2020 03 27</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-27/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-03-27/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-27/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-03-27/</guid>
       <description>Another beautiful day.
 Some snaps: Route:
 Machine(s): none (street) Time: 1 hour 16 mins Distance: 7.1 km Calories: 620 Calories from fat: 33% Average Heart Rate: 111 Maximum Heart Rate: 133 Fat Burn: 59 mins Fitness: 17 mins Weight: not weighed </description>
@@ -390,10 +393,10 @@ Machine(s): none (street) Time: 1 hour 16 mins Distance: 7.1 km Calories: 620 Ca
     
     <item>
       <title>Workout 2020 03 26</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-26/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-03-26/</link>
       <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-26/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-03-26/</guid>
       <description>Another beautiful day. Finally made it up to the top of the Dreifaltigkeitsberg. Walked down the east face of the hill towards the Regen banks and made my way from there back home via the Nibelungenbrücke.
 Some snaps:
 Route:
@@ -402,10 +405,10 @@ Machine(s): none (street) Time: 1 hour 37 mins Distance: 8.02 km Calories: 946 C
     
     <item>
       <title>Workout 2020 03 25</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-25/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-03-25/</link>
       <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-25/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-03-25/</guid>
       <description>Another beautiful day. Went south up to the Alte Mälzerei, then west through Kumpfmühl and south back into the Alstadt via the Schloßpark.
 Route:
 Machine(s): none (street) Time: 1 hour 10 mins Distance: 5.18 km Calories: 637 Calories from fat: 34% Average Heart Rate: 111 Maximum Heart Rate: 135 Fat Burn: 65 mins Fitness: 5 mins Weight: not weighed </description>
@@ -413,10 +416,10 @@ Machine(s): none (street) Time: 1 hour 10 mins Distance: 5.18 km Calories: 637 C
     
     <item>
       <title>Workout 2020 03 24</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-24/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-03-24/</link>
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-24/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-03-24/</guid>
       <description>Another beautiful day. Went north and east near Sedanstraße and back through the Candis Park. Kind of an interesting mix of pretty, ugly, and ultra-modern dwellings all in this area.
 Route:
 Machine(s): none (street) Time: 56 mins Distance: not sure (OsmAnd forced a reboot) Calories: 476 Calories from fat: 33% Average Heart Rate: 114 Maximum Heart Rate: 126 Fat Burn: 41 mins Fitness: 14 mins Weight: not weighed </description>
@@ -424,10 +427,10 @@ Machine(s): none (street) Time: 56 mins Distance: not sure (OsmAnd forced a rebo
     
     <item>
       <title>Workout 2020 03 23</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-22/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-03-22/</link>
       <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-22/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-03-22/</guid>
       <description>Another beautiful day. Went south and east along Alfons-Auer-Straße. Nothing spectacular to see there, really, but the Edeka on Hornstraße is pretty easy to reach from there.
 Route:
 Machine(s): none (street) Time: 45 mins Distance: 5.44 km Calories: 434 Calories from fat: 28% Average Heart Rate: 121 Maximum Heart Rate: 131 Fat Burn: 9 mins Fitness: 46 mins Weight: not weighed </description>
@@ -435,10 +438,10 @@ Machine(s): none (street) Time: 45 mins Distance: 5.44 km Calories: 434 Calories
     
     <item>
       <title>Workout 2020 03 20</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-20/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-03-20/</link>
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-20/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-03-20/</guid>
       <description>Another beautiful day. Tried out Kumpfmühl for the first time; some nice neighborhoods there.
 Route:
 Machine(s): none (street) Time: 58 mins Distance: 5.05 km Calories: 576 Calories from fat: 29% Average Heart Rate: 116 Maximum Heart Rate: 132 Fat Burn: 28 mins Fitness: 36 mins Weight: not weighed </description>
@@ -446,10 +449,10 @@ Machine(s): none (street) Time: 58 mins Distance: 5.05 km Calories: 576 Calories
     
     <item>
       <title>Workout 2020 03 19</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-19/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-03-19/</link>
       <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-19/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-03-19/</guid>
       <description>Same weather as yesterday, but without the clouds. Nice mix of city and waterways.
 Route:
 Machine(s): none (street) Time: 58 mins Distance: 5.05 km Calories: 466 Calories from fat: 34% Average Heart Rate: 111 Maximum Heart Rate: 127 Fat Burn: 45 mins Fitness: 13 mins Weight: not weighed </description>
@@ -457,10 +460,10 @@ Machine(s): none (street) Time: 58 mins Distance: 5.05 km Calories: 466 Calories
     
     <item>
       <title>Workout 2020 03 18</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-18/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-03-18/</link>
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-18/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-03-18/</guid>
       <description>Cloudy and foggy early morning weather made a rather unattractive city walk behind a residential complex somewhat spooky.
 Route:
 Machine(s): none (street) Time: 52 mins Distance: 4.67 km Calories: 475 Calories from fat: 31% Average Heart Rate: 117 Maximum Heart Rate: 130 Fat Burn: 32 mins Fitness: 20 mins Weight: not weighed </description>
@@ -468,10 +471,10 @@ Machine(s): none (street) Time: 52 mins Distance: 4.67 km Calories: 475 Calories
     
     <item>
       <title>Workout 2020 03 17</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-17/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-03-17/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-17/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-03-17/</guid>
       <description>Happy Shamrock Shake Day! :(
 We walked up and down the south bank of the Danube awhile.
 Machine(s): none (street) Time: 52 mins Distance: unknown Calories: 300 Calories from fat: 41% Average Heart Rate: 104 Maximum Heart Rate: 123 Fat Burn: 42 mins Fitness: 0 mins Weight: not weighed </description>
@@ -479,167 +482,167 @@ Machine(s): none (street) Time: 52 mins Distance: unknown Calories: 300 Calories
     
     <item>
       <title>Workout 2020 03 15</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-15/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-03-15/</link>
       <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-15/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-03-15/</guid>
       <description>Went for a walk outside in bright sunny weather instead of a gym visit this time. We walked all the way from our house to Il Mercato and back, checking out the construction sites at Albertstraße and in the Dörnbergviertel.
-View Larger Map Machine(s): none (street) Time: 64 minutes Distance: dunno Calories: 446 Calories from fat: 39% Average Heart Rate: 105 Maximum Heart Rate: 117 Fat Burn: 62 minutes Fitness: 2 minutes Weight: not measured </description>
+Machine(s): none (street) Time: 64 minutes Distance: dunno Calories: 446 Calories from fat: 39% Average Heart Rate: 105 Maximum Heart Rate: 117 Fat Burn: 62 minutes Fitness: 2 minutes Weight: not measured </description>
     </item>
     
     <item>
       <title>Workout 2020 03 12</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-12/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-03-12/</link>
       <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-12/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-03-12/</guid>
       <description>Machine(s): elliptical Time: 40 minutes Distance: 4.32 km Calories: 369 Calories from fat: 32% Average Heart Rate: 118 Maximum Heart Rate: 123 Fat Burn: 33 minutes Fitness: 7 minutes Weight: not measured </description>
     </item>
     
     <item>
       <title>Workout 2020 03 11</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-11/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-03-11/</link>
       <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-11/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-03-11/</guid>
       <description>First workout again after the big weekend activity with Democrats Abroad. Back on the horse.
 Machine(s): elliptical Time: 41 minutes Distance: 4.3 km Calories: 375 Calories from fat: 28% Average Heart Rate: 117 Maximum Heart Rate: 129 Fat Burn: 21 minutes Fitness: 20 minutes Weight: not measured </description>
     </item>
     
     <item>
       <title>Workout 2020 03 05</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-05/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-03-05/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-05/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-03-05/</guid>
       <description>Machine(s): elliptical Time: 40 minutes Distance: 4.24 km Calories: 345 Calories from fat: 32% Average Heart Rate: 114 Maximum Heart Rate: 121 Fat Burn: 33 minutes Fitness: 7 minutes Weight: not measured </description>
     </item>
     
     <item>
       <title>Workout 2020 03 04</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-04/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-03-04/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-04/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-03-04/</guid>
       <description>Machine(s): elliptical Time: 40 minutes Distance: 4.37 km Calories: 338 Calories from fat: 33% Average Heart Rate: 113 Maximum Heart Rate: 120 Fat Burn: 37 minutes Fitness: 3 minutes Weight: not measured </description>
     </item>
     
     <item>
       <title>Workout 2020 03 02</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-03-02/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-03-02/</link>
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-03-02/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-03-02/</guid>
       <description>Weighed in, since I&amp;rsquo;d skipped it last week.
 Machine(s): elliptical Settings: incline 1, resistance 3 Time: 38 minutes Distance: 4.5 km Calories: 318 Calories from fat: 32% Average Heart Rate: 112 Maximum Heart Rate: 127 Fat Burn: 29 minutes Fitness: 9 minutes Weight: 113 kg (no change) </description>
     </item>
     
     <item>
       <title>Workout 2020 02 26</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-02-26/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-02-26/</link>
       <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-02-26/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-02-26/</guid>
       <description>Forgot to weigh myself; was a running a bit short on time and I didn&amp;rsquo;t go at all on Wednesday.
 Machine(s): elliptical Settings: incline 1, resistance 3 Time: 37 minutes Distance: 4.5 km Calories: 323 Calories from fat: 30% Average Heart Rate: 115 Maximum Heart Rate: 127 Fat Burn: 20 minutes Fitness: 16 minutes Weight: not weighed </description>
     </item>
     
     <item>
       <title>Workout 2020 02 24</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-02-24/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-02-24/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-02-24/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-02-24/</guid>
       <description>Felt like it was harder to stay in the target heart range &amp;ndash; maybe because of the four-day gap since the previous workout. I may need to start going more than 3 days a week, which also means maybe going on at least one weekend day, eating into shopping time on Saturdays, or being crowded on Sundays. Yuck.
 Machine(s): elliptical Settings: incline 1, resistance 3 Time: 37 minutes Distance: 4.5 km Calories: 362 Calories from fat: 28% Average Heart Rate: 121 Maximum Heart Rate: 133 Fat Burn: 12 minutes Fitness: 25 minutes Weight: not weighed </description>
     </item>
     
     <item>
       <title>Workout 2020 02 20</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-02-20/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-02-20/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-02-20/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-02-20/</guid>
       <description>Got there right on time this time. Pick of the machines.
 Machine(s): elliptical Settings: incline 1, resistance 5 and 3 Time: 40 minutes Distance: 4.5 km Calories: 375 Calories from fat: 31% Average Heart Rate: 115 Maximum Heart Rate: 128 Fat Burn: 26 minutes Fitness: 14 minutes Weight: not weighed </description>
     </item>
     
     <item>
       <title>Workout 2020 02 18</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-02-18/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-02-18/</link>
       <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-02-18/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-02-18/</guid>
       <description>A little late getting started today, but my first meeting (working from home) was not until 09:30, so NBD. After this workout, I adjusted my watches settings to reflect my weight of 114 kg (it was set at 123 kg from my last doctor visit).
 Machine(s): elliptical Settings: incline 1, resistance 3 Time: 62 minutes Distance: 6.60 km Calories: 640 Calories from fat: 29% Average Heart Rate: 127 Maximum Heart Rate: 140 Fat Burn: 34 minutes Fitness: 28 minutes Weight: not weighed </description>
     </item>
     
     <item>
       <title>Workout 2020 02 16</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-02-16/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-02-16/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-02-16/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-02-16/</guid>
       <description>Messed around and got there later than I intended — 9:30 instead of the crack of 9. It was already kinda smelly in there. I guess that&amp;rsquo;s my penance. Mix of old and young people, but very few in between in my demographic. The Crossfit OONCE OONCE OONCE started at 10, which is another reason to get in and get out before they crank it up.
 Machine(s): elliptical Settings: incline 1, resistance 8 Time: 42 minutes Distance: 7.</description>
     </item>
     
     <item>
       <title>Workout 2020 02 13</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-02-13/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-02-13/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-02-13/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-02-13/</guid>
       <description>I knew Friday wasn&amp;rsquo;t going to be an option due to a work meeting at 07:30. This messes up my whole MWF vibe, but it won&amp;rsquo;t be the last time.
 Machine(s): elliptical Settings: incline 1, resistance Time: 41 minutes Distnce: 5.15 km Calories: 444 Calories from fat: 18% Average Heart Rate: 130 Maximum Heart Rate: 143 Fat Burn: 1 minutes Fitness: 41 minutes Weight: not weighed </description>
     </item>
     
     <item>
       <title>Workout 2020 02 12</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-02-12/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-02-12/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-02-12/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-02-12/</guid>
       <description>Second weigh-in of the year. Gained a pound(ish). I think the increassed activity these past two weeks has made me hungrier, and I&amp;rsquo;m eating more. Guess that&amp;rsquo;s OK as long as it&amp;rsquo;s the low-cal stuff.
 Machine(s): elliptical Settings: incline 6, resistance 1 (but that doesn&#39;t seem right; I thought it was incline 1, resistance 8) Time: 42 minutes Calories: 374 Calories from fat: 30% Average Heart Rate: 117 Maximum Heart Rate: 127 Fat Burn: 22 minutes Fitness: 20 minutes Weight: 114 kg </description>
     </item>
     
     <item>
       <title>Workout 2020 02 10</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-02-10/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-02-10/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-02-10/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-02-10/</guid>
       <description>Gotta make sure my chest is good and wet before I get started. The watch was having trouble reading my pulse (although the Precor elliptical thing appeared to have no problem&amp;hellip;).
 Machine(s): elliptical Settings: incline: 1 resistance: 8 Time: 41 minutes Calories: 324 Calories from fat: 29% Average Heart Rate: 116 Maximum Heart Rate: 124 Fat Burn: 14 minutes Fitness: 23 minutes Weight: not measured </description>
     </item>
     
     <item>
       <title>Workout 2020 02 07</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-02-07/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-02-07/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-02-07/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-02-07/</guid>
       <description>This one proved that I can be at the gym at 7:02, get a decent amount of time in on the machine of my choice (they were all empty), and still walk back home with time to change into work clothes for a bike ride into work by 9:00. Or close enough to it.
 Machine(s): elliptical Settings: dunno Time: 42 minutes Calories: 408 Calories from fat: 29% Average Heart Rate: 121 Maximum Heart Rate: 133 Fat burn: 17 minutes Fitness: 25 minutes Weight: not measured </description>
     </item>
     
     <item>
       <title>Workout 2020 02 05</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-02-05/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-02-05/</link>
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-02-05/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-02-05/</guid>
       <description>First weigh-in of the year. Surprisingly: I&amp;rsquo;m down about 9.5 kg from June 2019 and 8 kg from October 2019 at the doctor&amp;rsquo;s office. Either:
  one (or both?) of the scales are miscalibrated, or I have lost weight by going on vacation in December (???), or something evil is happening and I&amp;rsquo;m losing weight for bad reasons.  Machine(s): elliptical Settings: dunno Time: 42 minutes Calories: 399 Calories from fat: 26% Average Heart Rate: 120 Maximum Heart Rate: 131 Fat Burn: 9 minutes Fitness: 33 minutes Weight: 113.</description>
     </item>
     
     <item>
       <title>Workout 2020 02 03</title>
-      <link>https://fat.cliff1976.net/posts/workouts/2020-02-03/</link>
+      <link>https://fat.clif1976.net/posts/workouts/2020-02-03/</link>
       <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.cliff1976.net/posts/workouts/2020-02-03/</guid>
+      <guid>https://fat.clif1976.net/posts/workouts/2020-02-03/</guid>
       <description>Ugh. The first one. And it&amp;rsquo;s a Monday.
 Machine(s): elliptical Settings: dunno Time: 42 minutes Calories: 381 Calories from fat: 30% Average Heart Rate: 117 Maximum Heart Rate: 131 Fat burn: 23 minutes Fitness: 19 minutes Weight: not measured </description>
     </item>
