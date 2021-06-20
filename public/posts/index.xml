@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on cliff1976</title>
-    <link>https://fat.clif1976.net/posts/</link>
+    <link>https://fat.cliff1976.net/posts/</link>
     <description>Recent content in Posts on cliff1976</description>
     <image>
-      <url>https://fat.clif1976.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://fat.clif1976.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://fat.cliff1976.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://fat.cliff1976.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fat.clif1976.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fat.cliff1976.net/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yet Another New Theme</title>
-      <link>https://fat.clif1976.net/posts/20210620-papermodtheme/</link>
+      <link>https://fat.cliff1976.net/posts/20210620-papermodtheme/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.clif1976.net/posts/20210620-papermodtheme/</guid>
+      <guid>https://fat.cliff1976.net/posts/20210620-papermodtheme/</guid>
       <description>I&amp;rsquo;m trying out the PaperMod theme for Hugo. I like the cut of its gib. I might break some stuff while fiddling with it a bit.</description>
     </item>
     
     <item>
       <title>Still Here</title>
-      <link>https://fat.clif1976.net/posts/still-here/</link>
+      <link>https://fat.cliff1976.net/posts/still-here/</link>
       <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.clif1976.net/posts/still-here/</guid>
+      <guid>https://fat.cliff1976.net/posts/still-here/</guid>
       <description>Lest ye fret: I&amp;rsquo;m still here, and still walking and biking (though not as consistently as I&amp;rsquo;d like). I&amp;rsquo;ve got a couple bike ride reports in the hopper. The walks are a lot less interesting than they were at first (lots of repitition). But they&amp;rsquo;re still happening.
 Happy stalking me!</description>
     </item>
     
     <item>
       <title>OOOH FANCY!</title>
-      <link>https://fat.clif1976.net/posts/fancyzoom/</link>
+      <link>https://fat.cliff1976.net/posts/fancyzoom/</link>
       <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.clif1976.net/posts/fancyzoom/</guid>
+      <guid>https://fat.cliff1976.net/posts/fancyzoom/</guid>
       <description>I modified the hello-friend-ng theme to include Fancy Zoom. It&amp;rsquo;ll mostly be useful on the route maps.</description>
     </item>
     
     <item>
       <title>Trying Hugo and Netlify</title>
-      <link>https://fat.clif1976.net/posts/trying-netlify/</link>
+      <link>https://fat.cliff1976.net/posts/trying-netlify/</link>
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fat.clif1976.net/posts/trying-netlify/</guid>
+      <guid>https://fat.cliff1976.net/posts/trying-netlify/</guid>
       <description>Hosting my own images on my VPS is not sustainable. Hello Github+Netlify!</description>
     </item>
     
     <item>
       <title>Gettin&#39; Back Up on the Horse</title>
-      <link>https://fat.clif1976.net/posts/gettin-back-up-on-the-horse/</link>
+      <link>https://fat.cliff1976.net/posts/gettin-back-up-on-the-horse/</link>
       <pubDate>Sun, 02 Feb 2020 06:55:51 +0000</pubDate>
       
-      <guid>https://fat.clif1976.net/posts/gettin-back-up-on-the-horse/</guid>
+      <guid>https://fat.cliff1976.net/posts/gettin-back-up-on-the-horse/</guid>
       <description>It&amp;rsquo;s February 2020. Anyone with flimsy resolutions in January has probably already broken them. This is a good time for my ass to get back into a routine.
 My excuse through most of last year was that work was getting in the way; too many meetings before 9:00 a.m., and experience has shown that I have to do my gym shit in the morning, or not at all. And since the gym doesn&amp;rsquo;t open until 7:00, that meant not at all.</description>
     </item>
