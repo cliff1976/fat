@@ -4,7 +4,7 @@ date: 2021-07-10
 draft: false
 ---
 
-I did a Saturday ride instead of Sunday because the weather seemed more promising today than yesterday.  I was exhausted on Friday night after not sleeping well most of the week, and even after a 2-hour late Friday afternoon nap, I went to bed at a reasonable hour and slept all the way through to 6:30 Saturday morning.  We made sure to black out the *Jalousien* and even close the bedroom door to block out as much light as possible.  I'm sure that helped.
+I did a Saturday ride instead of Sunday because yesterday, the weather seemed more promising for today than for tomorrow.  I was exhausted on Friday night after not sleeping well most of the week, and even after a 2-hour late Friday afternoon nap, I went to bed at a reasonable hour and slept all the way through to 6:30 Saturday morning.  We made sure to black out the *Jalousien* and even close the bedroom door to block out as much light as possible.  I'm sure that helped.
 
 For the route, I went through Pentling and Großberg on my way to Bad Abbach, visited Sam's construction site, and continued east towards Gebelkofen.  In Obertraubling, I missed a turn to stay on the correct side of the tracks, circled back, rolled past a *Steckerlfisch* stand, circled back **again**, and brought home a *Forelle* for lunch.  Yum!
 
