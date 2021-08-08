@@ -4,7 +4,7 @@ date: 2021-07-31
 draft: false
 ---
 
-First time out riding in 3 weeks, but we were getting plenty of exercise on foot, exploring Brussels, Essen, Berlin and Leipzig for a week.  More about that soon on *[Ye Olde Regensblogge](https://www.regensblog.com)*, I hope.
+First time out riding in 3 weeks, but we were getting plenty of exercise on foot, exploring Brussels, Essen, Berlin and Leipzig for a week.  More about that on *[Ye Olde Regensblogge](https://www.regensblog.com/2021/08/01/omg-travel-again-finally/)*.
 
 Today I thought I'd like another one of those *Steckerlfisch* for lunch like on [my previous ride](../20210710/), so I planned a route through Obertrauling; but alas.  No fish stand to be found.  I did stop at [Khoros](https://khoros.de/) for a *Dürüm Kebap* in Burgweinting, but it's been a long time since I had one of those, and I'd forgotten how generous they are for 5€.  For all the good the ride did me (see the [stats](#stats) below), I bet that lunch zeroed me right out again.
 
