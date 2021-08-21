@@ -5,11 +5,11 @@ draft: false
 ---
 *Alternate Title:  "WTH is with all these cruise ships?"*
 
-The weather is supposed to be rainy tomorrow, so I opted for a Saturday afternoon ride instead.  First thing I noticed:  there are a ton of cruise ships in port.  Has anyone said today's incidence stats?  THEY ARE NOT GOOD AND GETTING WORSE.
+The weather is supposed to be rainy tomorrow, so I opted for a Saturday afternoon ride instead.  First thing I noticed:  there are a ton of cruise ships in port.  Has anyone seen today's incidence stats?  THEY ARE NOT GOOD AND GETTING WORSE.
 
 ![](rki_stats_sk_rbg_20210821.png)
 
-But anyway, I realized I'd never been up Zeitlarn.  It's a cute little town, definitely bikable from there into the offi....HA.  Like anyone's ever going into the office again.  Back to Zeitlarn:  I like the way it backed up onto big, wide open pastures.
+But anyway, I realized I'd never been up to Zeitlarn.  It's a cute little town, definitely bikable from there into the offi....HA.  Like anyone's ever going into the office again.  Back to Zeitlarn:  I like the way it backed up onto big, wide open pastures.
 
 Other highlights of this ride:
 
