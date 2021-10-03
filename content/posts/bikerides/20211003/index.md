@@ -3,7 +3,7 @@ title: "Day of German Cyclist Unity"
 date: 2021-10-01
 draft: false
 ---
-
+It's a holiday, and on a *Sunday* no less!  Oh well, the weather was still beautiful and plenty of people took advantage of that (see the video).
 
 
 ## Snaps
@@ -27,7 +27,7 @@ draft: false
 
 
 ## Video Recap
-
+This one's sped up by a factor of four.  I mostly only recorded the oncoming traffic or intersections.
 
 {{< youtube h5Ah2zZVLHE >}}
 
