@@ -23,7 +23,7 @@ I'm taking it slowly for the rest of the day...maybe the week.
 ![](20220320_121443_IMG_20220320_121443501_s.jpg)  
 
 ## Route
-You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.  
+You might need to tap or click the map to make it bigger.  
 
 {{< fzimg src="20220320.jpg" >}}
 
