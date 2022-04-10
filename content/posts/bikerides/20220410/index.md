@@ -6,7 +6,7 @@ draft: false
 
 It was pretty today.  But cold when the sun wasn't right on me.  I headed east out towards IKEA and marveled at the completed work on the A3 &mdash; three lanes in each direction &mdash; and then headed over to my buddy's house by way of what he calls the *Ho Chi Minh* trail down the hill from the overflow parking at the *Uni-Klinikum*.
 
-The timestamps from the bike cam are off by an hour because I didn't get around to updating that for DST year.  I hope I remember for next time!
+The timestamps from the bike cam are off by an hour because I didn't get around to updating that for DST this year yet.  I hope I remember for next time!
 
 
 ## Snaps
