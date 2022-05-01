@@ -1,6 +1,6 @@
 ---
 title: "Post Title"
-date: 2021-XX-XX
+date: 2022-XX-XX
 draft: true
 ---
 
@@ -22,7 +22,7 @@ draft: true
 ## Route
 You might need to tap or click the map to make it bigger.  The red solid route was my intention.  The blue dashed route is my actual route.  
 
-{{< fzimg src="2021XXXX.jpg" >}}
+{{< fzimg src="2022XXXX.jpg" >}}
 
 ## Stats
 
