@@ -11,6 +11,8 @@ We saw plenty of Good Ol' Boys grilling and tugging their *Bollerwägen* full of
 
 The sheep and goats were a cute surprise.
 
+We rewarded ourselves with Sarah's company and some *Biergarten* grub on Neupfarrplatz.
+
 ## Snaps
 
 ![](20220526_100527_IMG_20220526_100526299_HDR_s.jpg)  
