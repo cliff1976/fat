@@ -4,7 +4,7 @@ date: 2022-06-05
 draft: false
 ---
 
-The universe does not want to make it easy for me to get to Adlersberg on my bike.  I tried the same route as last time, getting this further this time before hitting the rain, and a detour for construction on the bike path forced me up a much steeper hill.  I sought refuge in a bus shelter outside the monastery / brewery before continuing on an abbreviate route back home.
+The universe does not want to make it easy for me to get to Adlersberg on my bike.  I tried the same route as last time, getting this further this time before hitting the rain, and a detour for construction on the bike path forced me up a much steeper hill.  I sought refuge in a bus shelter outside the monastery / brewery before continuing on an abbreviated route back home.
 
 And in case there was any doubt -- the tour boats and busses have returned, clogging the streets with tourist who are oblivious to anyone traveling upon them with a purpose.
 
