@@ -7,6 +7,8 @@ I was running low on Earl Grey, organic and packaging free, so I grabbed an empt
 
 Bummer.
 
+When I stopped for a water break outside the shop before returning home, I saw someone else had already had their *little water* break at the same spot.
+
 
 
 ## Snaps
